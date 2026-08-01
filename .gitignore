@@ -11,3 +11,9 @@ wheels/
 
 # Environment variables
 .env
+
+# Fine Cooking PDFs
+data/raw/
+
+# Recipe scratchpad
+data/scratch.txt

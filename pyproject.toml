@@ -7,7 +7,11 @@ authors = [
     { name = "John Ludlum", email = "john.ludlum2@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pillow>=12.3.0",
+    "pymupdf>=1.28.0",
+    "pytesseract>=0.3.13",
+]
 
 [project.scripts]
 fc-analytics = "fc_analytics:main"

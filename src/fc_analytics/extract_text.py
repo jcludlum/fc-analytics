@@ -1,5 +1,5 @@
 """
-Extract text from regular-edition Fine Cooking PDFs.
+Extract text from regular-issue Fine Cooking PDFs.
 
 For each "FC_NNN ....pdf" under data/raw/, extract per-page text
 and write it to data/processed/text_raw/FC_NNN.txt.
@@ -31,7 +31,7 @@ from PIL import Image
 
 from fc_analytics.paths import RAW_DIR, REVIEW_DIR, TEXT_RAW_DIR
 
-EDITION_DIR_RE = re.compile(r"^FC_\d+-\d+$")
+ISSUE_DIR_RE = re.compile(r"^FC_\d+-\d+$")
 ISSUE_NUMBER_RE = re.compile(r"FC_(\d+)")
 
 MIN_TEXT_CHARS = 20
@@ -55,12 +55,12 @@ UNIT_RE = re.compile(
 )
 
 
-def find_regular_edition_pdfs(input_dir: Path) -> list[Path]:
+def find_regular_issue_pdfs(input_dir: Path) -> list[Path]:
     pdfs = [
         pdf
-        for edition_dir in sorted(input_dir.iterdir())
-        if edition_dir.is_dir() and EDITION_DIR_RE.match(edition_dir.name)
-        for pdf in sorted(edition_dir.glob("*.pdf"))
+        for issue_dir in sorted(input_dir.iterdir())
+        if issue_dir.is_dir() and ISSUE_DIR_RE.match(issue_dir.name)
+        for pdf in sorted(issue_dir.glob("*.pdf"))
     ]
     return pdfs
 
@@ -154,7 +154,7 @@ def main() -> None:
     args.output_dir.mkdir(parents=True, exist_ok=True)
     args.review_dir.mkdir(parents=True, exist_ok=True)
 
-    pdfs = find_regular_edition_pdfs(args.input_dir)
+    pdfs = find_regular_issue_pdfs(args.input_dir)
     processed = skipped = failed = 0
     total_ocr_pages = 0
     total_suspect_lines = 0

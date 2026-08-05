@@ -6,7 +6,7 @@ from fc_analytics.paths import RECIPES_CSV, RECIPES_DIR
 
 TOTAL_REGULAR_ISSUES = 175
 
-st.set_page_config(page_title="Fine Cooking Analytics", layout="wide")
+st.set_page_config(page_title="Home | Fine Cooking Analytics", layout="wide")
 
 st.title("Fine Cooking Analytics")
 
@@ -31,6 +31,6 @@ fraction = processed_issues / TOTAL_REGULAR_ISSUES
 st.progress(fraction)
 
 col1, col2, col3 = st.columns(3)
-col1.metric("Regular issues processed", f"{processed_issues} / {TOTAL_REGULAR_ISSUES}")
+col1.metric("Issues processed", f"{processed_issues} / {TOTAL_REGULAR_ISSUES}")
 col2.metric("Completion", f"{fraction:.0%}")
 col3.metric("Recipes extracted", recipe_count)

@@ -12,12 +12,14 @@ st.title("Fine Cooking Analytics")
 
 st.markdown(
 """
-Fine Cooking was a cooking magazine published from 1994 until its
-discontinuation in 2019. This website enables Fine Cooking enthusiasts to:
+*Fine Cooking* was a cooking magazine published from 1994 until its
+discontinuation in 2019. 
 
-- Search Fine Cooking recipes by title, ingredients, publication year, and more
-- View recipes extracted from Fine Cooking PDFs with AI assistance
-- Explore two-dimensional clustering of recipes similar to [ArXiv Atlas](https://atlas.uslu.tech/selection.html)
+This website enables Fine Cooking enthusiasts to:
+
+- 🔍 Search *Fine Cooking* recipes by title, ingredients, and more
+- 👁️ View recipes extracted from *Fine Cooking* PDFs using Tesseract OCR + Claude Code
+- 🚧 *Coming soon:* Explore two-dimensional clustering of recipes similar to [ArXiv Atlas](https://atlas.uslu.tech/selection.html)
 """
 )
 

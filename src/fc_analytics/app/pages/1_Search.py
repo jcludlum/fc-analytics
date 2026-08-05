@@ -1,3 +1,5 @@
+import re
+
 import pandas as pd
 import streamlit as st
 
@@ -124,4 +126,11 @@ if selected_rows:
     body_lines = selected_recipe.body.split("\n", 1)
     display_body = body_lines[1].strip() if body_lines[0].startswith("# ") else selected_recipe.body
     display_body = display_body.split("## Source")[0].rstrip()
+    display_body = re.sub(
+        r" \*\*\*$",
+        " :gray-badge[component recipe]",
+        display_body,
+        flags=re.MULTILINE,
+    )
+    display_body = re.sub(r"\n\n\*\*\* = component recipe\n", "\n", display_body)
     st.markdown(display_body)

@@ -5,26 +5,31 @@ ingredients:
     unit: ""
     quantity: "10"
     prep: ""
+    component: false
   - full: "Vegetable oil"
     base: "vegetable oil"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "1 tomato"
     base: "tomato"
     unit: ""
     quantity: "1"
     prep: ""
+    component: false
   - full: "1 clove garlic"
     base: "garlic"
     unit: ""
     quantity: "1"
     prep: ""
+    component: false
   - full: "1 cup water"
     base: "water"
     unit: "cup"
     quantity: "1"
     prep: ""
+    component: false
 dish_type: "sauce/condiment"
 culture: "Mexican"
 difficulty: "easy"

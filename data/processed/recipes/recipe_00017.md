@@ -5,101 +5,127 @@ ingredients:
     unit: ""
     quantity: "4"
     prep: "6 to 7 oz. each"
+    component: false
   - full: "Fresh lemon juice"
     base: "lemon juice"
     unit: ""
     quantity: ""
     prep: "fresh"
+    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "6 Tbs. olive oil"
     base: "olive oil"
     unit: "tbsp"
     quantity: "6"
     prep: ""
+    component: false
   - full: "2 medium yellow onions, sliced thin"
     base: "yellow onion"
     unit: ""
     quantity: "2"
     prep: "sliced thin"
+    component: false
   - full: "2 cloves garlic, minced"
     base: "garlic"
     unit: ""
     quantity: "2"
     prep: "minced"
+    component: false
   - full: "8 plum tomatoes, peeled, seeded, and cut into strips"
     base: "plum tomatoes"
     unit: ""
     quantity: "8"
     prep: "peeled, seeded, and cut into strips"
+    component: false
   - full: "24 green olives, pitted and chopped rough"
     base: "green olives"
     unit: ""
     quantity: "24"
     prep: "pitted and chopped rough"
+    component: false
   - full: "2 Tbs. capers"
     base: "capers"
     unit: "tbsp"
     quantity: "2"
     prep: ""
+    component: false
   - full: "2 pickled jalapenos, seeded and sliced"
     base: "pickled jalapenos"
     unit: ""
     quantity: "2"
     prep: "seeded and sliced"
+    component: false
   - full: "1 to 2 Tbs. pickling juice from the jalapenos"
     base: "pickling juice"
     unit: "tbsp"
     quantity: "1 to 2"
     prep: "from the jalapenos"
+    component: false
   - full: "1 tsp. dried thyme"
     base: "thyme"
     unit: "tsp"
     quantity: "1"
     prep: "dried"
+    component: false
   - full: "1 tsp. dried marjoram"
     base: "marjoram"
     unit: "tsp"
     quantity: "1"
     prep: "dried"
+    component: false
   - full: "2 bay leaves"
     base: "bay leaf"
     unit: ""
     quantity: "2"
     prep: ""
+    component: false
   - full: "1/2 tsp. ground cinnamon"
     base: "cinnamon"
     unit: "tsp"
     quantity: "1/2"
     prep: "ground"
+    component: false
   - full: "2 whole cloves"
     base: "whole cloves"
     unit: ""
     quantity: "2"
     prep: ""
+    component: false
   - full: "1/2 tsp. coarse black pepper"
     base: "black pepper"
     unit: "tsp"
     quantity: "1/2"
     prep: "coarse"
+    component: false
   - full: "2 Tbs. chopped parsley, plus extra leaves for garnish"
     base: "parsley"
     unit: "tbsp"
     quantity: "2"
     prep: "chopped, plus extra leaves for garnish"
-  - full: "1 cup fish stock or canned clam juice"
-    base: "fish stock or clam juice"
+    component: false
+  - full: "1 cup fish stock"
+    base: "fish stock"
     unit: "cup"
     quantity: "1"
     prep: ""
+    component: false
+  - full: "1 cup canned clam juice"
+    base: "clam juice"
+    unit: "cup"
+    quantity: "1"
+    prep: "canned"
+    component: false
   - full: "1/4 cup olive oil"
     base: "olive oil"
     unit: "cup"
     quantity: "1/4"
     prep: ""
+    component: false
 dish_type: "main dish (seafood)"
 culture: "Mexican"
 difficulty: "moderate"
@@ -135,7 +161,8 @@ Serve this spicy dish alongside rice that's topped with fresh chopped herbs and 
 - 2 whole cloves
 - 1/2 tsp. coarse black pepper
 - 2 Tbs. chopped parsley, plus extra leaves for garnish
-- 1 cup fish stock or canned clam juice
+- 1 cup fish stock
+- 1 cup canned clam juice
 - 1/4 cup olive oil
 
 *** = component recipe

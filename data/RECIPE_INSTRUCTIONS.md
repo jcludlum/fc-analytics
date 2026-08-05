@@ -55,10 +55,11 @@ source.
 ---
 ingredients:
   - full: "<ingredient exactly as it appears in the source, after any compound-splitting>"
-    base: "<standardized, lowercase base ingredient, e.g. 'chicken broth'>"
+    base: "<standardized base ingredient, lowercase except proper nouns/adjectives, e.g. 'chicken broth', 'Dijon mustard'>"
     unit: "<standardized unit, lowercase, no periods: cup, tsp, tbsp, oz, lb, qt, gal, etc. Blank if not a standard measurable unit (e.g. whole eggs, bay leaves, cloves).>"
     quantity: "<amount as a fraction string, e.g. '1/4', '2'. Blank if no amount is given in the source (e.g. 'salt to taste').>"
     prep: "<preparation method, e.g. chopped, diced, peeled, grated, minced. Blank if none given.>"
+    component: <true if this ingredient is itself a recipe with its own entry elsewhere in the corpus (e.g. a sauce or dough), else false>
   - full: "..."
     ...
 dish_type: "<one of: appetizer, beverage, soup, salad, main dish (meat), main dish (seafood), main dish (poultry), main dish (vegetable), side dish, sauce/condiment, seasoning, dessert>"
@@ -105,10 +106,17 @@ Fine Cooking Issue <issue> (<Month> <year>), page <page>
 ## Ingredient rules
 
 - **One entry per distinct ingredient.** Split compound ingredients joined by
-  "and"/"or" into separate entries (`"Salt and pepper"` → `salt` + `pepper`).
-  Don't split multi-word descriptors of a single ingredient
-  (`"boneless, skinless chicken breasts"` stays one entry, with `prep:
-  "boneless, skinless"`).
+  "and"/"or" into separate entries (`"Salt and pepper"` → `salt` + `pepper`;
+  `"zucchini or cucumber"` → `zucchini` + `cucumber`). Don't split
+  multi-word descriptors of a single ingredient (`"boneless, skinless
+  chicken breasts"` stays one entry, with `prep: "boneless, skinless"`).
+- **Capitalization is consistent across the corpus.** `base` (and `full`)
+  are lowercase, except proper nouns/adjectives, which keep their standard
+  capitalization: nationalities/regions (`Dijon mustard`, `Italian
+  parsley`, `Chinese cabbage`), brand names, etc. Use the exact same
+  capitalization for the same ingredient every time it appears in any
+  recipe — `Dijon mustard` and `dijon mustard` must not both occur, since
+  each becomes a distinct, duplicate entry in ingredient search/filtering.
 - **Flatten multi-component ingredient lists.** Recipes often split
   ingredients into sub-groups (`FOR THE FILLING:`, `FOR THE SAUCE:`, `TO
   SERVE:`, etc.). List them all under one flat `## Ingredients` list, in
@@ -127,7 +135,8 @@ Fine Cooking Issue <issue> (<Month> <year>), page <page>
   `full`/`base` only.
 - **Component recipes**: if an ingredient is itself a recipe with its own
   entry elsewhere in the corpus (e.g. a sauce or dough used as an
-  ingredient), mark it with `***` in the `## Ingredients` bullet list.
+  ingredient), set `component: true` in its frontmatter entry **and** mark
+  it with `***` in the `## Ingredients` bullet list (the two must agree).
 
 ## Directions rules
 
@@ -145,7 +154,11 @@ Fine Cooking Issue <issue> (<Month> <year>), page <page>
 ## Metadata rules
 
 - **Dish Type** must be exactly one of the fixed list above.
-- **Culture** is free text naming an actual cuisine/culture.
+- **Culture** is free text naming an actual cuisine/culture, kept at the
+  national/broad level (`Italian`, not `Italian (Sardinian)` or `Italian
+  (Ligurian)`) so recipes from the same cuisine group together instead of
+  fragmenting into one-off sub-regional variants. Sub-regional specificity
+  belongs in `keywords` instead (e.g. `"Sardinian"`, `"Ligurian"`).
 - **Difficulty** is easy/moderate/challenging, based on concrete factors:
   number of ingredients, number of components/sub-recipes, techniques
   required (e.g. hand-shaping stuffed pasta is harder than sautéing), and

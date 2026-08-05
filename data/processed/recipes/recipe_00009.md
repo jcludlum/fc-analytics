@@ -5,31 +5,37 @@ ingredients:
     unit: "cup"
     quantity: "2"
     prep: ""
+    component: false
   - full: "2/3 cup (5 oz.) water"
     base: "water"
     unit: "cup"
     quantity: "2/3"
     prep: ""
+    component: false
   - full: "1 Tbs. corn syrup"
     base: "corn syrup"
     unit: "tbsp"
     quantity: "1"
     prep: ""
+    component: false
   - full: "4 oz. unsalted butter, cut into 8 pieces"
     base: "butter"
     unit: "oz"
     quantity: "4"
     prep: "cut into 8 pieces"
+    component: false
   - full: "1/3 cup fresh orange juice (juice of 2 medium oranges)"
     base: "orange juice"
     unit: "cup"
     quantity: "1/3"
     prep: ""
+    component: false
   - full: "1 to 2 Tbs. orange liqueur (optional)"
     base: "orange liqueur"
     unit: "tbsp"
     quantity: "1 to 2"
     prep: ""
+    component: false
 dish_type: "sauce/condiment"
 culture: "French"
 difficulty: "moderate"

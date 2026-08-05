@@ -5,26 +5,31 @@ ingredients:
     unit: "cup"
     quantity: "1/4"
     prep: ""
+    component: false
   - full: "1 Tbs. Dijon mustard"
-    base: "dijon mustard"
+    base: "Dijon mustard"
     unit: "tbsp"
     quantity: "1"
     prep: ""
+    component: false
   - full: "1/4 tsp. salt, or to taste"
     base: "salt"
     unit: "tsp"
     quantity: "1/4"
     prep: ""
+    component: false
   - full: "1/8 tsp. pepper, or to taste"
     base: "pepper"
     unit: "tsp"
     quantity: "1/8"
     prep: ""
+    component: false
   - full: "3/4 cup olive oil, vegetable oil or a combination"
     base: "oil"
     unit: "cup"
     quantity: "3/4"
     prep: ""
+    component: false
 dish_type: "sauce/condiment"
 culture: "French"
 difficulty: "easy"

@@ -5,16 +5,19 @@ ingredients:
     unit: ""
     quantity: "12"
     prep: "sliced"
+    component: false
   - full: "a half cup of peanut oil"
     base: "peanut oil"
     unit: "cup"
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "a few whole, dried hot peppers"
     base: "hot pepper"
     unit: ""
     quantity: ""
     prep: "whole, dried"
+    component: false
 dish_type: "sauce/condiment"
 culture: "Chinese"
 difficulty: "easy"

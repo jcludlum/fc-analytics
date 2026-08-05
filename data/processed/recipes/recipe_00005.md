@@ -5,31 +5,37 @@ ingredients:
     unit: "oz"
     quantity: "12"
     prep: "softened"
+    component: false
   - full: "6 scallions, chopped (including the tops)"
     base: "scallion"
     unit: ""
     quantity: "6"
     prep: "chopped (including the tops)"
+    component: false
   - full: "2 small green peppers, diced fine"
     base: "green pepper"
     unit: ""
     quantity: "2"
     prep: "diced fine"
+    component: false
   - full: "2 lb. cooked, shelled crawfish tails"
     base: "crawfish tails"
     unit: "lb"
     quantity: "2"
     prep: "cooked, shelled"
+    component: false
   - full: "2 to 3 Tbs. Creole Seasoning Mix, p. 44"
-    base: "creole seasoning mix"
+    base: "Creole Seasoning Mix"
     unit: "tbsp"
     quantity: "2 to 3"
     prep: ""
+    component: true
   - full: "2 Tbs. Worcestershire sauce"
     base: "worcestershire sauce"
     unit: "tbsp"
     quantity: "2"
     prep: ""
+    component: false
 dish_type: "appetizer"
 culture: "Creole"
 difficulty: "easy"

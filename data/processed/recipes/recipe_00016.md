@@ -5,36 +5,43 @@ ingredients:
     unit: ""
     quantity: "32 to 40"
     prep: "medium"
+    component: false
   - full: "2 lemons"
     base: "lemon"
     unit: ""
     quantity: "2"
     prep: ""
+    component: false
   - full: "6 Tbs. olive oil"
     base: "olive oil"
     unit: "tbsp"
     quantity: "6"
     prep: ""
+    component: false
   - full: "7 oz. crimini or regular white mushrooms, sliced"
     base: "mushrooms"
     unit: "oz"
     quantity: "7"
     prep: "sliced"
+    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "pepper"
     base: "pepper"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "4 to 5 sprigs of parsley, chopped rough"
     base: "parsley"
     unit: ""
     quantity: "4 to 5"
     prep: "chopped rough"
+    component: false
 dish_type: "main dish (seafood)"
 culture: "American"
 difficulty: "easy"

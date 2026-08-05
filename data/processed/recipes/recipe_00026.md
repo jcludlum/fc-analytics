@@ -5,143 +5,171 @@ ingredients:
     unit: "lb"
     quantity: "2"
     prep: ""
+    component: false
   - full: "Coarse salt (kosher is good)"
     base: "coarse salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "10 large basil leaves, chopped coarse"
     base: "basil"
     unit: ""
     quantity: "10"
     prep: "chopped coarse"
+    component: false
   - full: "10 large borage leaves, chopped coarse (optional)"
     base: "borage"
     unit: ""
     quantity: "10"
     prep: "chopped coarse, optional"
+    component: false
   - full: "1/4 cup fresh marjoram leaves, chopped coarse"
     base: "marjoram"
     unit: "cup"
     quantity: "1/4"
     prep: "fresh, chopped coarse"
+    component: false
   - full: "2 cloves garlic, minced"
     base: "garlic"
     unit: ""
     quantity: "2"
     prep: "minced"
+    component: false
   - full: "1/4 cup grated Parmesan cheese"
     base: "parmesan cheese"
     unit: "cup"
     quantity: "1/4"
     prep: "grated"
+    component: false
   - full: "1 cup ricotta cheese"
     base: "ricotta cheese"
     unit: "cup"
     quantity: "1"
     prep: ""
+    component: false
   - full: "2 large eggs"
     base: "egg"
     unit: ""
     quantity: "2"
     prep: ""
+    component: false
   - full: "1/2 cup fresh bread crumbs"
     base: "bread crumbs"
     unit: "cup"
     quantity: "1/2"
     prep: "fresh"
+    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "pepper"
     base: "pepper"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "Nutmeg"
     base: "nutmeg"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "3 cups unbleached flour"
     base: "flour"
     unit: "cup"
     quantity: "3"
     prep: ""
+    component: false
   - full: "3 large eggs"
     base: "egg"
     unit: ""
     quantity: "3"
     prep: ""
+    component: false
   - full: "1 Tbs. extra-virgin olive oil"
     base: "olive oil"
     unit: "tbsp"
     quantity: "1"
     prep: ""
+    component: false
   - full: "1/2 tsp. salt"
     base: "salt"
     unit: "tsp"
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "1/2 cup cold water (or equal parts water and dry white wine)"
     base: "water"
     unit: "cup"
     quantity: "1/2"
     prep: "cold"
+    component: false
   - full: "1 1/2 cups walnuts"
     base: "walnuts"
     unit: "cup"
     quantity: "1 1/2"
     prep: ""
+    component: false
   - full: "1/2 cup pine nuts"
     base: "pine nuts"
     unit: "cup"
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "1 clove garlic"
     base: "garlic"
     unit: ""
     quantity: "1"
     prep: ""
+    component: false
   - full: "3/4 cup grated Parmesan cheese"
     base: "parmesan cheese"
     unit: "cup"
     quantity: "3/4"
     prep: "grated"
+    component: false
   - full: "20 sprigs Italian parsley, leaves only"
-    base: "italian parsley"
+    base: "Italian parsley"
     unit: ""
     quantity: "20"
     prep: "leaves only"
+    component: false
   - full: "1/4 cup unsalted butter, softened"
     base: "unsalted butter"
     unit: "cup"
     quantity: "1/4"
     prep: "softened"
+    component: false
   - full: "1 cup heavy cream"
     base: "heavy cream"
     unit: "cup"
     quantity: "1"
     prep: ""
+    component: false
   - full: "2 Tbs. extra-virgin olive oil"
     base: "olive oil"
     unit: "tbsp"
     quantity: "2"
     prep: ""
+    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "pepper"
     base: "pepper"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
 dish_type: "main dish (vegetable)"
-culture: "Italian (Ligurian)"
+culture: "Italian"
 difficulty: "challenging"
 occasion: "entertaining"
 keywords:
@@ -202,7 +230,7 @@ In Ligurian dialect pansoti means potbellied. Traditionally, the filling is prep
 ## Metadata
 
 - **Dish Type:** main dish (vegetable)
-- **Culture:** Italian (Ligurian)
+- **Culture:** Italian
 - **Difficulty:** challenging
 - **Occasion:** entertaining
 

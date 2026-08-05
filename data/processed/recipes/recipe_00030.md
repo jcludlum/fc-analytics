@@ -5,16 +5,19 @@ ingredients:
     unit: "cup"
     quantity: "1/4"
     prep: "diced"
+    component: false
   - full: "2 Tbs. white wine"
     base: "white wine"
     unit: "tbsp"
     quantity: "2"
     prep: ""
+    component: false
   - full: "1 cup soy sauce"
     base: "soy sauce"
     unit: "cup"
     quantity: "1"
     prep: ""
+    component: false
 dish_type: "sauce/condiment"
 culture: "Chinese"
 difficulty: "easy"

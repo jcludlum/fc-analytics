@@ -5,31 +5,37 @@ ingredients:
     unit: "lb"
     quantity: "2"
     prep: "trimmed"
+    component: false
   - full: "Olive oil"
     base: "olive oil"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "4 Tbs. butter"
     base: "butter"
     unit: "tbsp"
     quantity: "4"
     prep: ""
+    component: false
   - full: "1 oz. shallots, sliced"
     base: "shallots"
     unit: "oz"
     quantity: "1"
     prep: "sliced"
+    component: false
   - full: "1 1/2 tsp. parsley, chopped"
     base: "parsley"
     unit: "tsp"
     quantity: "1 1/2"
     prep: "chopped"
+    component: false
   - full: "1 Tbs. lemon juice"
     base: "lemon juice"
     unit: "tbsp"
     quantity: "1"
     prep: ""
+    component: false
 dish_type: "main dish (meat)"
 culture: "French"
 difficulty: "easy"

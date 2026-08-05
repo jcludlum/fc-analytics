@@ -5,66 +5,85 @@ ingredients:
     unit: "lb"
     quantity: "3"
     prep: "cut into 8 pieces"
+    component: false
   - full: "1/2 head of garlic"
     base: "garlic"
     unit: ""
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "1 onion, quartered"
     base: "onion"
     unit: ""
     quantity: "1"
     prep: "quartered"
+    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "1 recipe Mexican Red-Chile Sauce, above"
-    base: "mexican red-chile sauce"
+    base: "Mexican Red-Chile Sauce"
     unit: ""
     quantity: "1"
     prep: ""
+    component: true
   - full: "4 ears of corn, broken into thirds"
     base: "corn"
     unit: ""
     quantity: "4"
     prep: "broken into thirds"
+    component: false
   - full: "1/2 lb. green beans, ends trimmed"
     base: "green beans"
     unit: "lb"
     quantity: "1/2"
     prep: "ends trimmed"
-  - full: "3 zucchini or summer squash, cut into 3-in. pieces"
-    base: "zucchini or summer squash"
+    component: false
+  - full: "3 zucchini, cut into 3-in. pieces"
+    base: "zucchini"
     unit: ""
     quantity: "3"
     prep: "cut into 3-in. pieces"
+    component: false
+  - full: "3 summer squash, cut into 3-in. pieces"
+    base: "summer squash"
+    unit: ""
+    quantity: "3"
+    prep: "cut into 3-in. pieces"
+    component: false
   - full: "1-2 teaspoon oregano"
     base: "oregano"
     unit: "tsp"
     quantity: "1-2"
     prep: ""
+    component: false
   - full: "2 sprigs epazote"
     base: "epazote"
     unit: ""
     quantity: "2"
     prep: ""
+    component: false
   - full: "1 onion, chopped"
     base: "onion"
     unit: ""
     quantity: "1"
     prep: "chopped"
+    component: false
   - full: "1 lime, cut into wedges"
     base: "lime"
     unit: ""
     quantity: "1"
     prep: "cut into wedges"
+    component: false
   - full: "1 avocado, cut into wedges"
     base: "avocado"
     unit: ""
     quantity: "1"
     prep: "cut into wedges"
+    component: false
 dish_type: "soup"
 culture: "Mexican"
 difficulty: "moderate"
@@ -92,7 +111,8 @@ Serve clemole in big bowls accompanied by a stack of hot tortillas. Put plates o
 - 1 recipe Mexican Red-Chile Sauce, above ***
 - 4 ears of corn, broken into thirds
 - 1/2 lb. green beans, ends trimmed
-- 3 zucchini or summer squash, cut into 3-in. pieces
+- 3 zucchini, cut into 3-in. pieces
+- 3 summer squash, cut into 3-in. pieces
 - 1-2 teaspoon oregano
 - 2 sprigs epazote
 - 1 onion, chopped

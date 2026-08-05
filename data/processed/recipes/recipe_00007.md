@@ -5,21 +5,25 @@ ingredients:
     unit: "oz"
     quantity: "4"
     prep: "sliced, blanched"
+    component: false
   - full: "4 oz. (1/3 cup) corn syrup"
     base: "corn syrup"
     unit: "oz"
     quantity: "4"
     prep: ""
+    component: false
   - full: "4 oz. (1/2 cup) sugar"
     base: "sugar"
     unit: "oz"
     quantity: "4"
     prep: ""
+    component: false
   - full: "4 oz. unsalted butter"
     base: "butter"
     unit: "oz"
     quantity: "4"
     prep: ""
+    component: false
 dish_type: "dessert"
 culture: "French"
 difficulty: "moderate"

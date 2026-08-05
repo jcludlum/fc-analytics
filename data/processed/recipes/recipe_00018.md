@@ -1,40 +1,53 @@
 ---
 ingredients:
-  - full: "2 lb. beef or pork ribs, cut into 2-in. pieces"
-    base: "beef or pork ribs"
+  - full: "2 lb. beef ribs, cut into 2-in. pieces"
+    base: "beef ribs"
     unit: "lb"
     quantity: "2"
     prep: "cut into 2-in. pieces"
+    component: false
+  - full: "2 lb. pork ribs, cut into 2-in. pieces"
+    base: "pork ribs"
+    unit: "lb"
+    quantity: "2"
+    prep: "cut into 2-in. pieces"
+    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "1/2 head of garlic"
     base: "garlic"
     unit: ""
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "1 recipe Mexican Red-Chile Sauce, above"
-    base: "mexican red-chile sauce"
+    base: "Mexican Red-Chile Sauce"
     unit: ""
     quantity: "1"
     prep: ""
+    component: true
   - full: "2 Tbs. vegetable oil"
     base: "vegetable oil"
     unit: "tbsp"
     quantity: "2"
     prep: ""
+    component: false
   - full: "1 Tbs. white vinegar"
     base: "white vinegar"
     unit: "tbsp"
     quantity: "1"
     prep: ""
+    component: false
   - full: "1/2 tsp. dried oregano"
     base: "oregano"
     unit: "tsp"
     quantity: "1/2"
     prep: "dried"
+    component: false
 dish_type: "main dish (meat)"
 culture: "Mexican"
 difficulty: "moderate"
@@ -53,7 +66,8 @@ This stew is best when made from well-marbled cuts of meat, like country-style p
 
 ## Ingredients
 
-- 2 lb. beef or pork ribs, cut into 2-in. pieces
+- 2 lb. beef ribs, cut into 2-in. pieces
+- 2 lb. pork ribs, cut into 2-in. pieces
 - Salt
 - 1/2 head of garlic
 - 1 recipe Mexican Red-Chile Sauce, above ***

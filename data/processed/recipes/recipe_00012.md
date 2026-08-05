@@ -5,36 +5,43 @@ ingredients:
     unit: "cup"
     quantity: "1"
     prep: "chopped"
+    component: false
   - full: "1 cup (8 oz.) sugar"
     base: "sugar"
     unit: "cup"
     quantity: "1"
     prep: ""
+    component: false
   - full: "1/2 cup (4 oz.) water"
     base: "water"
     unit: "cup"
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "5 Tbs. (3 oz.) corn syrup"
     base: "corn syrup"
     unit: "tbsp"
     quantity: "5"
     prep: ""
+    component: false
   - full: "1/2 tsp. vanilla extract"
     base: "vanilla extract"
     unit: "tsp"
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "1/2 tsp. baking soda"
     base: "baking soda"
     unit: "tsp"
     quantity: "1/2"
     prep: ""
+    component: false
   - full: "1/2 tsp. butter"
     base: "butter"
     unit: "tsp"
     quantity: "1/2"
     prep: ""
+    component: false
 dish_type: "dessert"
 culture: "American"
 difficulty: "moderate"

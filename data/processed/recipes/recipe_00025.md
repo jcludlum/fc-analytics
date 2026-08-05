@@ -5,143 +5,183 @@ ingredients:
     unit: "lb"
     quantity: "1"
     prep: "peeled and cut into 1/2-in. slices"
+    component: false
   - full: "Coarse salt (kosher is good)"
     base: "coarse salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "1 1/2 cups vegetable oil"
     base: "vegetable oil"
     unit: "cup"
     quantity: "1 1/2"
     prep: ""
+    component: false
   - full: "1/4 cup walnuts"
     base: "walnuts"
     unit: "cup"
     quantity: "1/4"
     prep: ""
+    component: false
   - full: "1 1/2 cups ricotta cheese"
     base: "ricotta cheese"
     unit: "cup"
     quantity: "1 1/2"
     prep: ""
-  - full: "1/2 cup grated Fiore Sardo or Pecorino Romano cheese"
-    base: "fiore sardo or pecorino romano cheese"
+    component: false
+  - full: "1/2 cup grated Fiore Sardo cheese"
+    base: "Fiore Sardo cheese"
     unit: "cup"
     quantity: "1/2"
     prep: "grated"
+    component: false
+  - full: "1/2 cup grated Pecorino Romano cheese"
+    base: "Pecorino Romano cheese"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "grated"
+    component: false
   - full: "2 large eggs"
     base: "egg"
     unit: ""
     quantity: "2"
     prep: ""
+    component: false
   - full: "1 large egg yolk"
     base: "egg yolk"
     unit: ""
     quantity: "1"
     prep: ""
+    component: false
   - full: "5 large basil leaves, chopped coarse"
     base: "basil"
     unit: ""
     quantity: "5"
     prep: "chopped coarse"
+    component: false
   - full: "10 mint leaves, chopped coarse"
     base: "mint"
     unit: ""
     quantity: "10"
     prep: "chopped coarse"
+    component: false
   - full: "10 sprigs Italian parsley, leaves only, chopped coarse"
-    base: "italian parsley"
+    base: "Italian parsley"
     unit: ""
     quantity: "10"
     prep: "leaves only, chopped coarse"
+    component: false
   - full: "Pepper"
     base: "pepper"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "2 lb. Italian plum tomatoes, chopped"
-    base: "italian plum tomatoes"
+    base: "Italian plum tomatoes"
     unit: "lb"
     quantity: "2"
     prep: "chopped"
+    component: false
   - full: "1/4 cup extra-virgin olive oil"
     base: "olive oil"
     unit: "cup"
     quantity: "1/4"
     prep: ""
+    component: false
   - full: "1 clove garlic, mashed"
     base: "garlic"
     unit: ""
     quantity: "1"
     prep: "mashed"
+    component: false
   - full: "5 large basil leaves, chopped coarse"
     base: "basil"
     unit: ""
     quantity: "5"
     prep: "chopped coarse"
+    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "pepper"
     base: "pepper"
     unit: ""
     quantity: ""
     prep: ""
+    component: false
   - full: "2 cups unbleached flour"
     base: "flour"
     unit: "cup"
     quantity: "2"
     prep: ""
+    component: false
   - full: "1 cup fine semolina flour"
     base: "semolina flour"
     unit: "cup"
     quantity: "1"
     prep: "fine"
+    component: false
   - full: "4 large egg yolks"
     base: "egg yolk"
     unit: ""
     quantity: "4"
     prep: ""
+    component: false
   - full: "1/2 tsp. saffron threads, ground in a mortar"
     base: "saffron threads"
     unit: "tsp"
     quantity: "1/2"
     prep: "ground in a mortar"
+    component: false
   - full: "1/2 cup warm water"
     base: "water"
     unit: "cup"
     quantity: "1/2"
     prep: "warm"
+    component: false
   - full: "1/4 tsp. table salt"
     base: "table salt"
     unit: "tsp"
     quantity: "1/4"
     prep: ""
+    component: false
   - full: "5 large basil leaves, chopped coarse"
     base: "basil"
     unit: ""
     quantity: "5"
     prep: "chopped coarse"
+    component: false
   - full: "5 large mint leaves, chopped coarse"
     base: "mint"
     unit: ""
     quantity: "5"
     prep: "chopped coarse"
+    component: false
   - full: "10 sprigs Italian parsley, leaves only, chopped coarse"
-    base: "italian parsley"
+    base: "Italian parsley"
     unit: ""
     quantity: "10"
     prep: "leaves only, chopped coarse"
-  - full: "1/2 cup grated Fiore Sardo or Pecorino Romano cheese"
-    base: "fiore sardo or pecorino romano cheese"
+    component: false
+  - full: "1/2 cup grated Fiore Sardo cheese"
+    base: "Fiore Sardo cheese"
     unit: "cup"
     quantity: "1/2"
     prep: "grated"
+    component: false
+  - full: "1/2 cup grated Pecorino Romano cheese"
+    base: "Pecorino Romano cheese"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "grated"
+    component: false
 dish_type: "main dish (vegetable)"
-culture: "Italian (Sardinian)"
+culture: "Italian"
 difficulty: "challenging"
 occasion: "entertaining"
 keywords:
@@ -161,7 +201,8 @@ I first encountered this dish in a Sardinian cooking class taught by Giuliano Bu
 - 1 1/2 cups vegetable oil
 - 1/4 cup walnuts
 - 1 1/2 cups ricotta cheese
-- 1/2 cup grated Fiore Sardo or Pecorino Romano cheese
+- 1/2 cup grated Fiore Sardo cheese
+- 1/2 cup grated Pecorino Romano cheese
 - 2 large eggs
 - 1 large egg yolk
 - 5 large basil leaves, chopped coarse
@@ -183,7 +224,8 @@ I first encountered this dish in a Sardinian cooking class taught by Giuliano Bu
 - 5 large basil leaves, chopped coarse
 - 5 large mint leaves, chopped coarse
 - 10 sprigs Italian parsley, leaves only, chopped coarse
-- 1/2 cup grated Fiore Sardo or Pecorino Romano cheese
+- 1/2 cup grated Fiore Sardo cheese
+- 1/2 cup grated Pecorino Romano cheese
 
 *** = component recipe
 
@@ -203,7 +245,7 @@ I first encountered this dish in a Sardinian cooking class taught by Giuliano Bu
 ## Metadata
 
 - **Dish Type:** main dish (vegetable)
-- **Culture:** Italian (Sardinian)
+- **Culture:** Italian
 - **Difficulty:** challenging
 - **Occasion:** entertaining
 

@@ -114,7 +114,7 @@ ingredients:
     quantity: "1"
     prep: "quartered"
     component: false
-  - full: "Rosemary-Pepper Vinaigrette (see recipe below)"
+  - full: "Rosemary-Pepper Vinaigrette"
     base: "Rosemary-Pepper Vinaigrette"
     unit: ""
     quantity: ""
@@ -156,7 +156,7 @@ I like to use lamb loin in this salad: when roasted and sliced, it's tender, del
 - 1/4 cup finely diced shallot
 - Assorted salad greens-romaine, red and green oak leaf, mache, arugula, radicchio, endive, watercress
 - 1 cup quartered marinated artichoke hearts
-- Rosemary-Pepper Vinaigrette (see recipe below) ***
+- Rosemary-Pepper Vinaigrette ***
 
 *** = component recipe
 

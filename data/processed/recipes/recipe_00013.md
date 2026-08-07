@@ -12,7 +12,7 @@ ingredients:
     quantity: "3"
     prep: ""
     component: false
-  - full: "1/2 to 3/4 cup cooled caramel sauce (see recipe above)"
+  - full: "1/2 to 3/4 cup cooled caramel sauce"
     base: "Caramel Sauce"
     unit: "cup"
     quantity: "1/2 to 3/4"
@@ -60,7 +60,7 @@ Be sure the caramel sauce you use in this mousse has a deep, rich, fully develop
 
 - 4 egg yolks
 - 3 Tbs. sugar
-- 1/2 to 3/4 cup cooled caramel sauce (see recipe above) ***
+- 1/2 to 3/4 cup cooled caramel sauce ***
 - 2 tsp. gelatin powder
 - 3 Tbs. orange juice (juice of 1 medium orange)
 - 3 egg whites (or 3* oz. pasteurized egg whites)

@@ -24,7 +24,7 @@ ingredients:
     quantity: "2"
     prep: "cooked, shelled"
     component: false
-  - full: "2 to 3 Tbs. Creole Seasoning Mix, p. 44"
+  - full: "2 to 3 Tbs. Creole Seasoning Mix"
     base: "Creole Seasoning Mix"
     unit: "tbsp"
     quantity: "2 to 3"
@@ -56,7 +56,7 @@ You can buy crawfish live or already cooked and shelled. Most people use the coo
 - 6 scallions, chopped (including the tops)
 - 2 small green peppers, diced fine
 - 2 lb. cooked, shelled crawfish tails
-- 2 to 3 Tbs. Creole Seasoning Mix, p. 44 ***
+- 2 to 3 Tbs. Creole Seasoning Mix ***
 - 2 Tbs. Worcestershire sauce
 
 *** = component recipe

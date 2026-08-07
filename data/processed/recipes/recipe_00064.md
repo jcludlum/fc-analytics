@@ -78,7 +78,7 @@ ingredients:
     quantity: ""
     prep: ""
     component: false
-  - full: "Cumin Vinaigrette (see recipe at right)"
+  - full: "Cumin Vinaigrette"
     base: "Cumin Vinaigrette"
     unit: ""
     quantity: ""
@@ -115,7 +115,7 @@ You'll need about sixteen thin slices of eggplant, about three inches wide, so c
 - 1 small tomato, peeled, seeded, and diced
 - 1 Tbs. mixed chopped fresh herbs-thyme, rosemary, parsley, chives
 - Fresh cilantro sprigs for decoration
-- Cumin Vinaigrette (see recipe at right) ***
+- Cumin Vinaigrette ***
 
 *** = component recipe
 

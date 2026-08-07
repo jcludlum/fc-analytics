@@ -66,7 +66,7 @@ ingredients:
     quantity: "1"
     prep: ""
     component: false
-  - full: "4 to 6 Tbs. chopped preserved lemons (see recipe on opposite page)"
+  - full: "4 to 6 Tbs. chopped preserved lemons"
     base: "preserved lemons"
     unit: "tbsp"
     quantity: "4 to 6"
@@ -105,7 +105,7 @@ This is one of my favorite recipes-I consider it Mediterranean soul food. It's a
 - Salt
 - pepper
 - 1 cup water
-- 4 to 6 Tbs. chopped preserved lemons (see recipe on opposite page) ***
+- 4 to 6 Tbs. chopped preserved lemons ***
 - 4 to 6 Tbs. chopped flat-leaf parsley
 
 *** = component recipe

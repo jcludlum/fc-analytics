@@ -137,6 +137,13 @@ Fine Cooking Issue <issue> (<Month> <year>), page <page>
   entry elsewhere in the corpus (e.g. a sauce or dough used as an
   ingredient), set `component: true` in its frontmatter entry **and** mark
   it with `***` in the `## Ingredients` bullet list (the two must agree).
+- **No page/location references.** Strip parenthetical page or layout
+  references to component recipes (`"(p. 21)"`, `"(see recipe at right)"`,
+  `"(see recipe on opposite page)"`, `", p. 44"`, etc.) from `full`, the
+  description, and the directions. The Streamlit app doesn't preserve the
+  original magazine layout, so these pointers are meaningless there — the
+  `***` marker (plus the recipe title itself) is what signals "this is a
+  component recipe," not a page number.
 
 ## Directions rules
 

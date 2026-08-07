@@ -42,7 +42,7 @@ ingredients:
     quantity: "1"
     prep: "peeled and sliced"
     component: false
-  - full: "2 tsp. red-pepper paste (see recipe at left)"
+  - full: "2 tsp. red-pepper paste"
     base: "red-pepper paste"
     unit: "tsp"
     quantity: "2"
@@ -96,7 +96,7 @@ It's all right for the meat used in this dish to be slightly on the fatty side. 
 - 1 green pepper, sliced
 - 1 tsp. paprika
 - 1 small tomato, peeled and sliced
-- 2 tsp. red-pepper paste (see recipe at left) ***
+- 2 tsp. red-pepper paste ***
 - 1 tsp. salt
 - Black pepper
 - 1 1/2 lb. sauerkraut, drained and rinsed

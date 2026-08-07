@@ -6,7 +6,7 @@ ingredients:
     quantity: "2"
     prep: ""
     component: false
-  - full: "1/4 cup Creole Seasoning Mix, p. 44"
+  - full: "1/4 cup Creole Seasoning Mix"
     base: "Creole Seasoning Mix"
     unit: "cup"
     quantity: "1/4"
@@ -65,7 +65,7 @@ Creole Seasoning Mix and olive oil give this version a crusty, deliciously flavo
 ## Ingredients
 
 - 2 chickens, 2 1/2 to 3 lb. each
-- 1/4 cup Creole Seasoning Mix, p. 44 ***
+- 1/4 cup Creole Seasoning Mix ***
 - 3 Tbs. olive oil
 - 2 red peppers, diced fine
 - 8 medium onion, diced fine

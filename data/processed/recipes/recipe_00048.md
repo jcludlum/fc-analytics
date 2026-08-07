@@ -36,7 +36,7 @@ ingredients:
     quantity: "1"
     prep: "sliced"
     component: false
-  - full: "2 tsp. red-pepper paste (see recipe at right)"
+  - full: "2 tsp. red-pepper paste"
     base: "red-pepper paste"
     unit: "tsp"
     quantity: "2"
@@ -107,7 +107,7 @@ This soup is similar to the original meal prepared by cattlemen on the Hungarian
 - 2 lb. lean beef, cut into 3/4-in. cubes
 - 2 tsp. paprika, more or less to taste
 - 1 green pepper, sliced
-- 2 tsp. red-pepper paste (see recipe at right) ***
+- 2 tsp. red-pepper paste ***
 - 1 tsp. salt
 - 1 large potato, peeled and cut into chunks
 - 1 large carrot, peeled and cut into chunks

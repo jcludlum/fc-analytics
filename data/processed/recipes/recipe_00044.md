@@ -48,7 +48,7 @@ ingredients:
     quantity: ""
     prep: "freshly ground"
     component: false
-  - full: "2 cups lamb stock (see p. 33)"
+  - full: "2 cups lamb stock"
     base: "lamb stock"
     unit: "cup"
     quantity: "2"
@@ -85,7 +85,7 @@ keywords:
 ---
 # Lamb Loin & Spring Vegetables
 
-When buying the lamb, be sure to specify lamb loin on the bone. Whether your butcher bones the lamb or you do, save the bones and meat scraps to make the lamb stock (see the recipe on p. 33). The sauce for the lamb is light and brothy, just the ticket for springtime. To drink with the lamb, I would pour a red wine, perhaps a young merlot with lots of fruit and mild tannins. Serves six.
+When buying the lamb, be sure to specify lamb loin on the bone. Whether your butcher bones the lamb or you do, save the bones and meat scraps to make the lamb stock. The sauce for the lamb is light and brothy, just the ticket for springtime. To drink with the lamb, I would pour a red wine, perhaps a young merlot with lots of fruit and mild tannins. Serves six.
 
 ## Ingredients
 
@@ -97,7 +97,7 @@ When buying the lamb, be sure to specify lamb loin on the bone. Whether your but
 - Extra-virgin olive oil
 - Salt
 - freshly ground white pepper
-- 2 cups lamb stock (see p. 33) ***
+- 2 cups lamb stock ***
 - 3 shallots, peeled and chopped fine
 - 2 to 3 Tbs. unsalted butter
 - 1/2 cup chopped fresh herbs-half tarragon, the rest parsley and chives

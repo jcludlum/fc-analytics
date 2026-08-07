@@ -24,7 +24,7 @@ ingredients:
     quantity: "1"
     prep: "peeled and cut into 1/8-in. dice"
     component: false
-  - full: "1 tsp. Creole Seasoning Mix, p. 44"
+  - full: "1 tsp. Creole Seasoning Mix"
     base: "Creole Seasoning Mix"
     unit: "tsp"
     quantity: "1"
@@ -74,7 +74,7 @@ Ratatouille is too good to reserve for the summertime. Make this well ahead of s
 - 1 green pepper, chopped
 - 1 medium onion, chopped
 - 1 lb. eggplant, peeled and cut into 1/8-in. dice
-- 1 tsp. Creole Seasoning Mix, p. 44 ***
+- 1 tsp. Creole Seasoning Mix ***
 - 1 1/2 tsp. Worcestershire sauce
 - 1 1/2 tsp. hot red-pepper sauce
 - 1/2 cup chicken stock

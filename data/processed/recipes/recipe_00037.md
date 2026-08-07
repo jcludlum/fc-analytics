@@ -60,7 +60,7 @@ ingredients:
     quantity: "1/2"
     prep: ""
     component: false
-  - full: "2 to 3 tablespoons Curry Spice Mix (p. 21)"
+  - full: "2 to 3 tablespoons Curry Spice Mix"
     base: "Curry Spice Mix"
     unit: "tbsp"
     quantity: "2 to 3"
@@ -72,13 +72,13 @@ ingredients:
     quantity: ""
     prep: ""
     component: false
-  - full: "1 cup thin coconut milk (p. 22)"
+  - full: "1 cup thin coconut milk"
     base: "coconut milk"
     unit: "cup"
     quantity: "1"
     prep: "thin"
     component: true
-  - full: "1 cup thick coconut milk (p. 22)"
+  - full: "1 cup thick coconut milk"
     base: "coconut milk"
     unit: "cup"
     quantity: "1"
@@ -118,10 +118,10 @@ Serves six.
 - 2 pounds chicken thighs, skinned
 - 1 tablespoon oil
 - 1/2 teaspoon black mustard seeds
-- 2 to 3 tablespoons Curry Spice Mix (p. 21) ***
+- 2 to 3 tablespoons Curry Spice Mix ***
 - or curry powder
-- 1 cup thin coconut milk (p. 22) ***
-- 1 cup thick coconut milk (p. 22) ***
+- 1 cup thin coconut milk ***
+- 1 cup thick coconut milk ***
 - 1 teaspoon salt
 
 *** = component recipe

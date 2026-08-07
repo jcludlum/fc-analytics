@@ -1,95 +1,113 @@
 ---
 ingredients:
-  - full: "4 tsp. salt"
-    base: "salt"
-    unit: "tsp"
-    quantity: "4"
+  - full: "6 lb. pale liquid malt extract"
+    base: "pale liquid malt extract"
+    unit: "lb"
+    quantity: "6"
     prep: ""
     component: false
-  - full: "4 tsp. paprika"
-    base: "paprika"
-    unit: "tsp"
-    quantity: "4"
+  - full: "1/2 lb. English Crystal malted barley"
+    base: "crystal malted barley"
+    unit: "lb"
+    quantity: "1/2"
     prep: ""
     component: false
-  - full: "1 Tbs. granulated or powdered garlic"
-    base: "garlic"
-    unit: "tbsp"
-    quantity: "1"
-    prep: "granulated or powdered"
-    component: false
-  - full: "1 Tbs. black pepper"
-    base: "black pepper"
+  - full: "1 Tbs. gypsum"
+    base: "gypsum"
     unit: "tbsp"
     quantity: "1"
     prep: ""
     component: false
-  - full: "2 1/4 tsp. granulated or powdered onion"
-    base: "onion"
-    unit: "tsp"
-    quantity: "2 1/4"
-    prep: "granulated or powdered"
-    component: false
-  - full: "1 1/2 tsp. thyme"
-    base: "thyme"
-    unit: "tsp"
-    quantity: "1 1/2"
+  - full: "1 oz. bittering hops (Bullion, Northern Brewer, or Target)"
+    base: "bittering hops"
+    unit: "oz"
+    quantity: "1"
     prep: ""
     component: false
-  - full: "1 1/2 tsp. oregano"
-    base: "oregano"
-    unit: "tsp"
-    quantity: "1 1/2"
+  - full: "1 oz. aroma hops (Fuggle, Willamette, Styrian, or Kent Goldings)"
+    base: "aroma hops"
+    unit: "oz"
+    quantity: "1"
     prep: ""
     component: false
-  - full: "1 1/2 tsp. cayenne pepper"
-    base: "cayenne pepper"
+  - full: "1/2 tsp. Irish moss"
+    base: "Irish moss"
     unit: "tsp"
-    quantity: "1 1/2"
+    quantity: "1/2"
     prep: ""
     component: false
-dish_type: "seasoning"
-culture: "Creole"
-difficulty: "easy"
-occasion: "everyday"
+  - full: "1 package ale yeast (Whitbread, Nottingham, Edme, or Muntons)"
+    base: "ale yeast"
+    unit: ""
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "3/4 cup corn sugar"
+    base: "corn sugar"
+    unit: "cup"
+    quantity: "3/4"
+    prep: ""
+    component: false
+dish_type: "beverage"
+culture: "English"
+difficulty: "challenging"
+occasion: "homebrewing project"
 keywords:
-  - "spice blend"
-  - "all-purpose seasoning"
-  - "New Orleans"
-  - "make-ahead pantry staple"
+  - "homebrewing"
+  - "malt extract"
+  - "hops"
+  - "fermentation"
+  - "bottle carbonating"
 ---
-# Creole Seasoning Mix
+# English Pale Ale
 
-The importance of seasoning is something New Orleans cooks know innately. Well over thirty years ago, as my mother (Ella Brennan) and uncle (Dickie's father, Dick Brennan) strove for consistency in their first restaurant's most popular dishes, their chefs tried making small batches of seasoning mixes. The goal was to deliver the same flavor to the customer no matter who was cooking. The seasoning mixes have evolved into a few basic recipes, and these vary slightly from one Brennan restaurant to another. As chefs from our kitchens move on, the idea spreads, and now perhaps half the restaurants in New Orleans use their own combination of herbs and spices. Here's an all-purpose version that works well in almost anything. We even use it in mashed potatoes. Makes 1/2 cup.
+Makes fifty-two 12-ounce bottles.
 
 ## Ingredients
 
-- 4 tsp. salt
-- 4 tsp. paprika
-- 1 Tbs. granulated or powdered garlic
-- 1 Tbs. black pepper
-- 2 1/4 tsp. granulated or powdered onion
-- 1 1/2 tsp. thyme
-- 1 1/2 tsp. oregano
-- 1 1/2 tsp. cayenne pepper
+- 6 lb. pale liquid malt extract
+- 1/2 lb. English Crystal malted barley
+- 1 Tbs. gypsum
+- 1 oz. bittering hops (Bullion, Northern Brewer, or Target)
+- 1 oz. aroma hops (Fuggle, Willamette, Styrian, or Kent Goldings)
+- 1/2 tsp. Irish moss
+- 1 package ale yeast (Whitbread, Nottingham, Edme, or Muntons)
+- 3/4 cup corn sugar
 
 *** = component recipe
 
 ## Directions
 
-1. Combine all ingredients and store in an airtight container.
+1. Harden the water by dropping the gypsum into 2 gallons of cold water in your brew pot. (If the mineral content of your water already exceeds 300 parts per million, skip this step.)
+2. Coarsely crush the Crystal malt and steep it in the water to give color and flavor. Slowly heat the water, taking care to remove the grain before the water starts to boil.
+3. Add the malt extract to the boiling water and stir vigorously until it dissolves. When the wort is boiling again, set a timer for 60 minutes.
+4. Add the bittering hops 10 minutes into the boil.
+5. Add the Irish moss at 30 minutes into the boil.
+6. Add half the aromatic hops 50 minutes into the boil and the other half at 59 minutes.
+7. Rehydrate the yeast: pour 1 cup of lukewarm (100° to 110°F) water into a sterile glass, sprinkle the yeast on top, cover with foil, and let stand 10 to 15 minutes until it bubbles and smells bread-like.
+8. Quickly cool the wort by nestling the brew kettle in a sink of ice and water, stirring the water to keep it circulating. When the wort reaches 120°F, add enough cold water to bring the volume up to 5 gallons, aiming to reach 75°F within an hour.
+9. Strain and aerate the wort while transferring it into the fermenter, splashing it to introduce oxygen and straining it through a cheesecloth-lined colander to remove the hops. Top off the wort to 5 gallons and confirm it's at 75°F.
+10. Pitch the yeast into the fermenter (no stirring necessary). Seal the fermenter, attach the air lock, and fill it halfway with water.
+11. Put the fermenter in a place with a constant temperature between 55° and 70°F, away from light and foot traffic.
+12. Watch for signs of fermentation within 6 to 12 hours: a thick brown foam (kraeusen) will form and, over 2 to 4 days, dissipate as the yeast finishes converting the sugar to alcohol and settles to the bottom, clarifying the beer. Let the beer ferment for 10 days.
+13. About 10 days after brewing, check that the beer looks, smells, and tastes like uncarbonated beer, then prepare to bottle.
+14. Boil 3/4 cup corn sugar in 1 cup of water for 5 minutes to make a priming solution, then let it cool.
+15. Siphon the beer from the fermenter into a bottling bucket, add the sugar solution, and gently stir several times to distribute it.
+16. Siphon the primed beer into the bottles without agitating it, leaving about 1 inch of air space at the top, and seal tightly with a bottle capper.
+17. Let the beer mature and carbonate; it should be ready to drink within about two weeks.
+18. Serve at room temperature, decanting the beer to leave the yeast sediment behind in the bottle.
 
 ## Metadata
 
-- **Dish Type:** seasoning
-- **Culture:** Creole
-- **Difficulty:** easy
-- **Occasion:** everyday
+- Dish Type: beverage
+- Culture: English
+- Difficulty: challenging
+- Occasion: homebrewing project
 
 ## Keywords
 
-spice blend, all-purpose seasoning, New Orleans, make-ahead pantry staple
+homebrewing, malt extract, hops, fermentation, bottle carbonating
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 44
+Fine Cooking Issue 1 (March 1994), page 62

@@ -1,144 +1,144 @@
 ---
 ingredients:
-  - full: "1 oz. (2 Tbs.) unsalted butter, softened"
-    base: "butter"
-    unit: "oz"
-    quantity: "1"
-    prep: "softened"
-    component: false
-  - full: "7 1/4 oz. (1 3/4 cups) pecan halves"
-    base: "pecans"
-    unit: "oz"
-    quantity: "7 1/4"
-    prep: "halved"
-    component: false
-  - full: "2 1/4 oz. (1/2 cup plus 1 Tbs.) cake flour"
-    base: "cake flour"
-    unit: "oz"
-    quantity: "2 1/4"
-    prep: ""
-    component: false
-  - full: "3 Tbs. cornstarch"
-    base: "cornstarch"
-    unit: "tbsp"
+  - full: "3 lb. chicken, cut into 8 pieces"
+    base: "chicken"
+    unit: "lb"
     quantity: "3"
-    prep: ""
+    prep: "cut into 8 pieces"
     component: false
-  - full: "3 Tbs. cocoa powder"
-    base: "cocoa powder"
-    unit: "tbsp"
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "2 eggs"
-    base: "egg"
+  - full: "1/2 head of garlic"
+    base: "garlic"
     unit: ""
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "5 egg yolks"
-    base: "egg yolk"
-    unit: ""
-    quantity: "5"
-    prep: ""
-    component: false
-  - full: "3/4 cup sugar"
-    base: "sugar"
-    unit: "cup"
-    quantity: "3/4"
-    prep: ""
-    component: false
-  - full: "1/2 tsp. vanilla"
-    base: "vanilla"
-    unit: "tsp"
     quantity: "1/2"
     prep: ""
     component: false
-  - full: "1 1/2 oz. (3 Tbs.) unsalted butter, melted and cooled"
-    base: "butter"
-    unit: "oz"
-    quantity: "1 1/2"
-    prep: "melted and cooled"
+  - full: "1 onion, quartered"
+    base: "onion"
+    unit: ""
+    quantity: "1"
+    prep: "quartered"
     component: false
-  - full: "2 oz. (1/4 cup) water"
-    base: "water"
-    unit: "oz"
-    quantity: "2"
+  - full: "Salt"
+    base: "salt"
+    unit: ""
+    quantity: ""
     prep: ""
     component: false
-  - full: "2 oz. (1/4 cup) sugar"
-    base: "sugar"
-    unit: "oz"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1 tsp. Frangelico, or to taste"
-    base: "frangelico"
-    unit: "tsp"
+  - full: "1 recipe Mexican Red-Chile Sauce, above"
+    base: "Mexican Red-Chile Sauce"
+    unit: ""
     quantity: "1"
     prep: ""
+    component: true
+  - full: "4 ears of corn, broken into thirds"
+    base: "corn"
+    unit: ""
+    quantity: "4"
+    prep: "broken into thirds"
     component: false
-dish_type: "dessert"
-culture: "French"
-difficulty: "challenging"
-occasion: "entertaining"
+  - full: "1/2 lb. green beans, ends trimmed"
+    base: "green beans"
+    unit: "lb"
+    quantity: "1/2"
+    prep: "ends trimmed"
+    component: false
+  - full: "3 zucchini, cut into 3-in. pieces"
+    base: "zucchini"
+    unit: ""
+    quantity: "3"
+    prep: "cut into 3-in. pieces"
+    component: false
+  - full: "3 summer squash, cut into 3-in. pieces"
+    base: "summer squash"
+    unit: ""
+    quantity: "3"
+    prep: "cut into 3-in. pieces"
+    component: false
+  - full: "1-2 teaspoon oregano"
+    base: "oregano"
+    unit: "tsp"
+    quantity: "1-2"
+    prep: ""
+    component: false
+  - full: "2 sprigs epazote"
+    base: "epazote"
+    unit: ""
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "1 onion, chopped"
+    base: "onion"
+    unit: ""
+    quantity: "1"
+    prep: "chopped"
+    component: false
+  - full: "1 lime, cut into wedges"
+    base: "lime"
+    unit: ""
+    quantity: "1"
+    prep: "cut into wedges"
+    component: false
+  - full: "1 avocado, cut into wedges"
+    base: "avocado"
+    unit: ""
+    quantity: "1"
+    prep: "cut into wedges"
+    component: false
+dish_type: "soup"
+culture: "Mexican"
+difficulty: "moderate"
+occasion: "everyday"
 keywords:
-  - "genoise"
-  - "sponge cake"
-  - "roasted pecans"
-  - "nut-crusted cake"
-  - "chocolate cake"
-  - "variation recipe"
+  - "chicken soup"
+  - "chile broth"
+  - "corn on the cob"
+  - "green beans"
+  - "lime"
+  - "avocado"
+  - "mole de olla"
+  - "epazote"
 ---
-# Chocolate Sponge Cake in a Roasted-Pecan Crust
+# Clemole (Chicken & vegetables in chile broth)
 
-This is a variation of the lemon-and-almond sponge cake, using cocoa powder as part of the dry ingredients and pecan halves as decoration. I prefer to use a Dutch-processed cocoa, such as Droste or Van Houten, which gives the cake a rich, dark color and a delicious chocolate flavor. Serves eight.
+Serve clemole in big bowls accompanied by a stack of hot tortillas. Put plates of chopped onion, lime wedges, and slices of avocado on the table so that each person can add onion to taste and flavor the broth with a squirt of lime. The best way to eat the corn is to wade right in and eat it with your fingers. Serves four.
 
 ## Ingredients
 
-- 1 oz. (2 Tbs.) unsalted butter, softened
-- 7 1/4 oz. (1 3/4 cups) pecan halves
-- 2 1/4 oz. (1/2 cup plus 1 Tbs.) cake flour
-- 3 Tbs. cornstarch
-- 3 Tbs. cocoa powder
-- 2 eggs
-- 5 egg yolks
-- 3/4 cup sugar
-- 1/2 tsp. vanilla
-- 1 1/2 oz. (3 Tbs.) unsalted butter, melted and cooled
-- 2 oz. (1/4 cup) water
-- 2 oz. (1/4 cup) sugar
-- 1 tsp. Frangelico, or to taste
+- 3 lb. chicken, cut into 8 pieces
+- 1/2 head of garlic
+- 1 onion, quartered
+- Salt
+- 1 recipe Mexican Red-Chile Sauce, above ***
+- 4 ears of corn, broken into thirds
+- 1/2 lb. green beans, ends trimmed
+- 3 zucchini, cut into 3-in. pieces
+- 3 summer squash, cut into 3-in. pieces
+- 1-2 teaspoon oregano
+- 2 sprigs epazote
+- 1 onion, chopped
+- 1 lime, cut into wedges
+- 1 avocado, cut into wedges
 
 *** = component recipe
 
 ## Directions
 
-1. Position the rack in the lower third of the oven and heat to 325°F. Butter the bottom and sides of a 9- by 2-in. round cake pan well with the softened butter.
-2. Slice the pecan halves so that the flatter side is as level as possible, and place them, flat side down, in the cake pan to form a decorative pattern.
-3. Put the remaining pecans in a food processor fitted with the blade attachment and pulse until finely chopped.
-4. Put the chopped pecans in a medium-fine sieve and sift them over a piece of waxed paper, letting the ground pecans fall through the sieve. Reserve the ground pecans.
-5. Put the chopped pecans in the prepared pan and gently roll the pan, coating the bottom and sides with the nuts. Gently turn the pan upside down to remove any excess.
-6. In a medium bowl, sift the flour, cornstarch, cocoa powder, and reserved ground pecans together.
-7. In the bowl of a heavy-duty electric mixer fitted with the wire whip attachment, beat the eggs and yolks until blended.
-8. Gradually add the sugar and continue beating until the mixture is pale yellow and leaves a thick ribbon trail when the whip is lifted, 10 to 15 min. Beat in the vanilla.
-9. Using a large rubber spatula, gently fold a third of the flour mixture into the beaten eggs. Gently fold in the remaining flour mixture, a third at a time.
-10. Put about 2 cups of the batter in a medium bowl and gently fold in the melted, cooled butter. Return the mixture to the rest of the batter and fold just until combined.
-11. Scrape the batter into the prepared pan and bake for 30 to 40 min. Cool the cake completely in the pan on a wire rack.
-12. To make the sugar syrup, combine the water and sugar in a small saucepan. Cook over medium heat, stirring constantly with a wooden spoon until the sugar dissolves. Raise the heat to medium-high and bring to a boil. Cool the syrup to room temperature, then stir in the Frangelico.
-13. Invert the cake onto a flat serving plate and brush it with the Frangelico syrup.
+1. Put the chicken pieces in a large pot and add enough water to cover the chicken and also cover the vegetables that will be added later. Cut the garlic in half horizontally and add it to the pot along with the onion and 2 tsp. salt. Bring to a boil, then lower the heat, partially cover, and simmer for 10 min., skimming the scum that rises to the surface.
+2. While the chicken cooks, make the red-chile sauce.
+3. After the chicken has simmered for 10 min., add the corn, oregano or epazote, and 2 tsp. of salt. Strain the chile sauce right into the pot of chicken and vegetables, ladling some of the broth into the strainer and pressing firmly to force it through.
+4. Simmer 5 min. longer, then add the green beans. After another 10 min., add the squash. Cook about 5 min. longer, until the vegetables are tender.
 
 ## Metadata
 
-- Dish Type: dessert
-- Culture: French
-- Difficulty: challenging
-- Occasion: entertaining
+- **Dish Type:** soup
+- **Culture:** Mexican
+- **Difficulty:** moderate
+- **Occasion:** everyday
 
 ## Keywords
 
-genoise, sponge cake, roasted pecans, nut-crusted cake, chocolate cake, variation recipe
+chicken soup, chile broth, corn on the cob, green beans, lime, avocado, mole de olla, epazote
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 71
+Fine Cooking Issue 1 (March 1994), page 34

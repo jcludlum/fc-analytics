@@ -1,193 +1,84 @@
 ---
 ingredients:
-  - full: "4 red snapper fillets, 6 to 7 oz. each"
-    base: "red snapper fillet"
-    unit: ""
-    quantity: "4"
-    prep: "6 to 7 oz. each"
+  - full: "12 oz. butter, softened"
+    base: "butter"
+    unit: "oz"
+    quantity: "12"
+    prep: "softened"
     component: false
-  - full: "Fresh lemon juice"
-    base: "lemon juice"
+  - full: "6 scallions, chopped (including the tops)"
+    base: "scallion"
     unit: ""
-    quantity: ""
-    prep: "fresh"
-    component: false
-  - full: "Salt"
-    base: "salt"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "6 Tbs. olive oil"
-    base: "olive oil"
-    unit: "tbsp"
     quantity: "6"
+    prep: "chopped (including the tops)"
+    component: false
+  - full: "2 small green peppers, diced fine"
+    base: "green pepper"
+    unit: ""
+    quantity: "2"
+    prep: "diced fine"
+    component: false
+  - full: "2 lb. cooked, shelled crawfish tails"
+    base: "crawfish tails"
+    unit: "lb"
+    quantity: "2"
+    prep: "cooked, shelled"
+    component: false
+  - full: "2 to 3 Tbs. Creole Seasoning Mix, p. 44"
+    base: "Creole Seasoning Mix"
+    unit: "tbsp"
+    quantity: "2 to 3"
     prep: ""
-    component: false
-  - full: "2 medium yellow onions, sliced thin"
-    base: "yellow onion"
-    unit: ""
-    quantity: "2"
-    prep: "sliced thin"
-    component: false
-  - full: "2 cloves garlic, minced"
-    base: "garlic"
-    unit: ""
-    quantity: "2"
-    prep: "minced"
-    component: false
-  - full: "8 plum tomatoes, peeled, seeded, and cut into strips"
-    base: "plum tomatoes"
-    unit: ""
-    quantity: "8"
-    prep: "peeled, seeded, and cut into strips"
-    component: false
-  - full: "24 green olives, pitted and chopped rough"
-    base: "green olives"
-    unit: ""
-    quantity: "24"
-    prep: "pitted and chopped rough"
-    component: false
-  - full: "2 Tbs. capers"
-    base: "capers"
+    component: true
+  - full: "2 Tbs. Worcestershire sauce"
+    base: "worcestershire sauce"
     unit: "tbsp"
     quantity: "2"
     prep: ""
     component: false
-  - full: "2 pickled jalapenos, seeded and sliced"
-    base: "pickled jalapenos"
-    unit: ""
-    quantity: "2"
-    prep: "seeded and sliced"
-    component: false
-  - full: "1 to 2 Tbs. pickling juice from the jalapenos"
-    base: "pickling juice"
-    unit: "tbsp"
-    quantity: "1 to 2"
-    prep: "from the jalapenos"
-    component: false
-  - full: "1 tsp. dried thyme"
-    base: "thyme"
-    unit: "tsp"
-    quantity: "1"
-    prep: "dried"
-    component: false
-  - full: "1 tsp. dried marjoram"
-    base: "marjoram"
-    unit: "tsp"
-    quantity: "1"
-    prep: "dried"
-    component: false
-  - full: "2 bay leaves"
-    base: "bay leaf"
-    unit: ""
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1/2 tsp. ground cinnamon"
-    base: "cinnamon"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "ground"
-    component: false
-  - full: "2 whole cloves"
-    base: "whole cloves"
-    unit: ""
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1/2 tsp. coarse black pepper"
-    base: "black pepper"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "coarse"
-    component: false
-  - full: "2 Tbs. chopped parsley, plus extra leaves for garnish"
-    base: "parsley"
-    unit: "tbsp"
-    quantity: "2"
-    prep: "chopped, plus extra leaves for garnish"
-    component: false
-  - full: "1 cup fish stock"
-    base: "fish stock"
-    unit: "cup"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1 cup canned clam juice"
-    base: "clam juice"
-    unit: "cup"
-    quantity: "1"
-    prep: "canned"
-    component: false
-  - full: "1/4 cup olive oil"
-    base: "olive oil"
-    unit: "cup"
-    quantity: "1/4"
-    prep: ""
-    component: false
-dish_type: "main dish (seafood)"
-culture: "Mexican"
-difficulty: "moderate"
+dish_type: "appetizer"
+culture: "Creole"
+difficulty: "easy"
 occasion: "entertaining"
 keywords:
-  - "pan-steaming"
-  - "Veracruz-style"
-  - "tomato sauce"
-  - "olives"
-  - "capers"
+  - "crawfish"
+  - "Louisiana"
+  - "compound butter"
+  - "quick cooking"
 ---
-# Red Snapper Vera Cruz
+# Sauté of Louisiana Crawfish
 
-Serve this spicy dish alongside rice that's topped with fresh chopped herbs and butter. Grapefruit segments and avocado wedges on Bibb lettuce and a simple lime dressing make a refreshing salad. Bread or hot flour tortillas complete the meal. The fruitiness of a well-made dry gewurztraminer plays off the spiciness of this dish. Serves four.
+You can buy crawfish live or already cooked and shelled. Most people use the cooked tails. They're so much easier to cook with and don't usually cost more despite the labor. If you do want to try the whole ones, figure you'll get a half pound of cooked, shelled tails from every pound of live crawfish. Shrimp work beautifully for this recipe, too. The saute is a great party dish since it all goes together in about two minutes. We like to serve it with a full-flavored chardonnay that stands up to the seasoning in this dish. Serves eight.
 
 ## Ingredients
 
-- 4 red snapper fillets, 6 to 7 oz. each
-- Fresh lemon juice
-- Salt
-- 6 Tbs. olive oil
-- 2 medium yellow onions, sliced thin
-- 2 cloves garlic, minced
-- 8 plum tomatoes, peeled, seeded, and cut into strips
-- 24 green olives, pitted and chopped rough
-- 2 Tbs. capers
-- 2 pickled jalapenos, seeded and sliced
-- 1 to 2 Tbs. pickling juice from the jalapenos
-- 1 tsp. dried thyme
-- 1 tsp. dried marjoram
-- 2 bay leaves
-- 1/2 tsp. ground cinnamon
-- 2 whole cloves
-- 1/2 tsp. coarse black pepper
-- 2 Tbs. chopped parsley, plus extra leaves for garnish
-- 1 cup fish stock
-- 1 cup canned clam juice
-- 1/4 cup olive oil
+- 12 oz. butter, softened
+- 6 scallions, chopped (including the tops)
+- 2 small green peppers, diced fine
+- 2 lb. cooked, shelled crawfish tails
+- 2 to 3 Tbs. Creole Seasoning Mix, p. 44 ***
+- 2 Tbs. Worcestershire sauce
 
 *** = component recipe
 
 ## Directions
 
-1. Check the red snapper for bones and remove any with a pair of tweezers or needle-nose pliers. Sprinkle with lemon juice and salt, and set aside.
-2. In a large, heavy skillet, heat 6 Tbs. of oil. Saute the onions until soft, 6 to 7 min., over medium-high heat.
-3. Add the garlic and cook 1 min. Add the tomatoes and simmer 4 to 5 min.
-4. Add the olives, capers, jalapenos, pickling juice, herbs, spices, chopped parsley, and fish stock or clam juice. Simmer uncovered for 7 to 8 min. Season with salt and pepper to taste, and set aside in a warm place.
-5. In the same pan, heat 1/4 cup oil about 2 min., until it starts to shimmer. Saute the snapper, skin side down, 2 min. and then turn over.
-6. Cover the fish with the tomato mixture. Bring to a simmer, cover tightly, remove from the heat, and let steam for about 3 min.
-7. With a slotted spoon, arrange the fillets on warm plates and spoon the sauce over them. Garnish with parsley.
+1. In a frying pan, melt 2 Tbs. of the butter and saute the scallions, peppers, and crawfish tails with the Creole Seasoning Mix and Worcestershire sauce until warm, about 2 min.
+2. Remove from heat.
+3. Add the remaining butter about 1 Tbs. at a time, shaking the pan and stirring so that the butter softens and makes a creamy sauce but doesn't melt completely.
+4. Serve immediately.
 
 ## Metadata
 
-- **Dish Type:** main dish (seafood)
-- **Culture:** Mexican
-- **Difficulty:** moderate
+- **Dish Type:** appetizer
+- **Culture:** Creole
+- **Difficulty:** easy
 - **Occasion:** entertaining
 
 ## Keywords
 
-pan-steaming, Veracruz-style, tomato sauce, olives, capers
+crawfish, Louisiana, compound butter, quick cooking
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 29
+Fine Cooking Issue 1 (March 1994), page 46

@@ -1,16 +1,106 @@
 ---
 ingredients:
-  - full: "2 cups chicken broth"
-    base: "chicken broth"
+  - full: "1 lb. eggplant, peeled and cut into 1/2-in. slices"
+    base: "eggplant"
+    unit: "lb"
+    quantity: "1"
+    prep: "peeled and cut into 1/2-in. slices"
+    component: false
+  - full: "Coarse salt (kosher is good)"
+    base: "coarse salt"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "1 1/2 cups vegetable oil"
+    base: "vegetable oil"
     unit: "cup"
+    quantity: "1 1/2"
+    prep: ""
+    component: false
+  - full: "1/4 cup walnuts"
+    base: "walnuts"
+    unit: "cup"
+    quantity: "1/4"
+    prep: ""
+    component: false
+  - full: "1 1/2 cups ricotta cheese"
+    base: "ricotta cheese"
+    unit: "cup"
+    quantity: "1 1/2"
+    prep: ""
+    component: false
+  - full: "1/2 cup grated Fiore Sardo cheese"
+    base: "Fiore Sardo cheese"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "grated"
+    component: false
+  - full: "1/2 cup grated Pecorino Romano cheese"
+    base: "Pecorino Romano cheese"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "grated"
+    component: false
+  - full: "2 large eggs"
+    base: "egg"
+    unit: ""
     quantity: "2"
     prep: ""
     component: false
-  - full: "1 bay leaf"
-    base: "bay leaf"
+  - full: "1 large egg yolk"
+    base: "egg yolk"
     unit: ""
     quantity: "1"
     prep: ""
+    component: false
+  - full: "5 large basil leaves, chopped coarse"
+    base: "basil"
+    unit: ""
+    quantity: "5"
+    prep: "chopped coarse"
+    component: false
+  - full: "10 mint leaves, chopped coarse"
+    base: "mint"
+    unit: ""
+    quantity: "10"
+    prep: "chopped coarse"
+    component: false
+  - full: "10 sprigs Italian parsley, leaves only, chopped coarse"
+    base: "Italian parsley"
+    unit: ""
+    quantity: "10"
+    prep: "leaves only, chopped coarse"
+    component: false
+  - full: "Pepper"
+    base: "pepper"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "2 lb. Italian plum tomatoes, chopped"
+    base: "Italian plum tomatoes"
+    unit: "lb"
+    quantity: "2"
+    prep: "chopped"
+    component: false
+  - full: "1/4 cup extra-virgin olive oil"
+    base: "olive oil"
+    unit: "cup"
+    quantity: "1/4"
+    prep: ""
+    component: false
+  - full: "1 clove garlic, mashed"
+    base: "garlic"
+    unit: ""
+    quantity: "1"
+    prep: "mashed"
+    component: false
+  - full: "5 large basil leaves, chopped coarse"
+    base: "basil"
+    unit: ""
+    quantity: "5"
+    prep: "chopped coarse"
     component: false
   - full: "Salt"
     base: "salt"
@@ -24,143 +114,145 @@ ingredients:
     quantity: ""
     prep: ""
     component: false
-  - full: "8 oz. boneless, skinless chicken breasts"
-    base: "chicken breast"
-    unit: "oz"
-    quantity: "8"
-    prep: "boneless, skinless"
-    component: false
-  - full: "2 oz. prosciutto, in one piece"
-    base: "prosciutto"
-    unit: "oz"
-    quantity: "2"
-    prep: "in one piece"
-    component: false
-  - full: "2 oz. mortadella, in one piece"
-    base: "mortadella"
-    unit: "oz"
-    quantity: "2"
-    prep: "in one piece"
-    component: false
-  - full: "6 Tbs. ricotta cheese"
-    base: "ricotta cheese"
-    unit: "tbsp"
-    quantity: "6"
-    prep: ""
-    component: false
-  - full: "1/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
-    unit: "cup"
-    quantity: "1/4"
-    prep: "grated"
-    component: false
-  - full: "1 large egg"
-    base: "egg"
-    unit: ""
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1/8 tsp. freshly ground nutmeg"
-    base: "nutmeg"
-    unit: "tsp"
-    quantity: "1/8"
-    prep: "freshly ground"
-    component: false
-  - full: "3 cups unbleached flour"
+  - full: "2 cups unbleached flour"
     base: "flour"
     unit: "cup"
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "3 large eggs"
-    base: "egg"
-    unit: ""
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "3 tsp. extra-virgin olive oil"
-    base: "olive oil"
-    unit: "tsp"
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "1/4 tsp. salt"
-    base: "salt"
-    unit: "tsp"
-    quantity: "1/4"
-    prep: ""
-    component: false
-  - full: "2 qt. chicken broth"
-    base: "chicken broth"
-    unit: "qt"
     quantity: "2"
     prep: ""
     component: false
-  - full: "1/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
+  - full: "1 cup fine semolina flour"
+    base: "semolina flour"
     unit: "cup"
+    quantity: "1"
+    prep: "fine"
+    component: false
+  - full: "4 large egg yolks"
+    base: "egg yolk"
+    unit: ""
+    quantity: "4"
+    prep: ""
+    component: false
+  - full: "1/2 tsp. saffron threads, ground in a mortar"
+    base: "saffron threads"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: "ground in a mortar"
+    component: false
+  - full: "1/2 cup warm water"
+    base: "water"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "warm"
+    component: false
+  - full: "1/4 tsp. table salt"
+    base: "table salt"
+    unit: "tsp"
     quantity: "1/4"
+    prep: ""
+    component: false
+  - full: "5 large basil leaves, chopped coarse"
+    base: "basil"
+    unit: ""
+    quantity: "5"
+    prep: "chopped coarse"
+    component: false
+  - full: "5 large mint leaves, chopped coarse"
+    base: "mint"
+    unit: ""
+    quantity: "5"
+    prep: "chopped coarse"
+    component: false
+  - full: "10 sprigs Italian parsley, leaves only, chopped coarse"
+    base: "Italian parsley"
+    unit: ""
+    quantity: "10"
+    prep: "leaves only, chopped coarse"
+    component: false
+  - full: "1/2 cup grated Fiore Sardo cheese"
+    base: "Fiore Sardo cheese"
+    unit: "cup"
+    quantity: "1/2"
     prep: "grated"
     component: false
-dish_type: "soup"
+  - full: "1/2 cup grated Pecorino Romano cheese"
+    base: "Pecorino Romano cheese"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "grated"
+    component: false
+dish_type: "main dish (vegetable)"
 culture: "Italian"
 difficulty: "challenging"
-occasion: "holiday"
+occasion: "entertaining"
 keywords:
   - "handmade pasta"
-  - "tortellini"
-  - "Emilia-Romagna"
-  - "Bologna"
+  - "ravioli"
+  - "Sardinian"
+  - "eggplant"
 ---
-# Cappelletti in Brodo (Cappelletti in broth)
+# Culingiones or Ravioli di Melanzane (Eggplant-stuffed ravioli)
 
-Cappelletti, or "little hats," are a bit larger north and west of the city of Bologna, where they are known as tortellini. Cappelletti are traditionally served on holidays or special occasions, when there are extra hands to help shape the pasta. If possible, use full-flavored, homemade broth. I prefer parmigiano reggiano to the domestic Parmesans. Serves four.
+I first encountered this dish in a Sardinian cooking class taught by Giuliano Bugialli. Due to the diverse ancient cultures that occupied Sardinia, there are many different spellings for these ravioli, and certainly as many variations in how they're made. This recipe, from my friend Gianna Rosetti, whose family is from Sardinia, uses ricotta cheese and ground walnuts in the stuffing. Serves four.
 
 ## Ingredients
 
-- 2 cups chicken broth
-- 1 bay leaf
+- 1 lb. eggplant, peeled and cut into 1/2-in. slices
+- Coarse salt (kosher is good)
+- 1 1/2 cups vegetable oil
+- 1/4 cup walnuts
+- 1 1/2 cups ricotta cheese
+- 1/2 cup grated Fiore Sardo cheese
+- 1/2 cup grated Pecorino Romano cheese
+- 2 large eggs
+- 1 large egg yolk
+- 5 large basil leaves, chopped coarse
+- 10 mint leaves, chopped coarse
+- 10 sprigs Italian parsley, leaves only, chopped coarse
+- Pepper
+- 2 lb. Italian plum tomatoes, chopped
+- 1/4 cup extra-virgin olive oil
+- 1 clove garlic, mashed
+- 5 large basil leaves, chopped coarse
 - Salt
 - pepper
-- 8 oz. boneless, skinless chicken breasts
-- 2 oz. prosciutto, in one piece
-- 2 oz. mortadella, in one piece
-- 6 Tbs. ricotta cheese
-- 1/4 cup grated Parmesan cheese
-- 1 large egg
-- 1/8 tsp. freshly ground nutmeg
-- 3 cups unbleached flour
-- 3 large eggs
-- 3 tsp. extra-virgin olive oil
-- 1/4 tsp. salt
-- 2 qt. chicken broth
-- 1/4 cup grated Parmesan cheese
+- 2 cups unbleached flour
+- 1 cup fine semolina flour
+- 4 large egg yolks
+- 1/2 tsp. saffron threads, ground in a mortar
+- 1/2 cup warm water
+- 1/4 tsp. table salt
+- 5 large basil leaves, chopped coarse
+- 5 large mint leaves, chopped coarse
+- 10 sprigs Italian parsley, leaves only, chopped coarse
+- 1/2 cup grated Fiore Sardo cheese
+- 1/2 cup grated Pecorino Romano cheese
 
 *** = component recipe
 
 ## Directions
 
-1. In a medium-size pot, bring 2 cups of the chicken broth to a simmer. Add the bay leaf, season with salt and pepper, and simmer 5 min.
-2. Add the chicken and simmer 20 min. Remove the chicken from the broth and cool completely.
-3. Mince the chicken, prosciutto, and mortadella and put in a large bowl. Add the cheeses and the egg. Mix well and season with pepper and nutmeg.
-4. Cut a 4-inch-wide ribbon of dough into 2-inch squares.
-5. Place a 1/4 teaspoon of the filling in the center of each square. Fold the square in half so that two opposite corners almost meet. They should miss by 1/8 inch. Press to seal all around.
-6. With the folded edge as your base, wrap the triangle around the tip of your index finger.
-7. Overlap the two base corners and press to seal.
-8. Cook in the remaining chicken broth (do not add salt).
-9. Serve in soup bowls with some of the broth and a tablespoon of freshly grated Parmesan over each serving.
+1. To make the filling, layer the eggplant slices in a medium-size bowl, sprinkling each layer well with coarse salt. On top of the eggplant, set a plate slightly smaller than the bowl and place a heavy object (like a large can of tomatoes) on the plate. Let stand for 20 min. to extract any bitter juices that may be in the eggplant. Rinse under cold water and pat dry. Cut into 1/2-inch cubes.
+2. In a large frying pan, heat the oil over medium heat until very hot. Add the eggplant and toss constantly with a spoon until well browned. Remove the eggplant from the pan immediately and drain on a double layer of paper towels. Cool completely, and put in a large bowl.
+3. Grind the walnuts fine in a mortar and pestle or food processor. Add the cheeses, walnuts, eggs and egg yolk, basil, mint, and parsley to the eggplant. Mix well and season with pepper. Refrigerate at least 20 min.
+4. To prepare the sauce, heat the oil over a low flame in a saucepan. Add the mashed garlic to the pan and saute briefly, about 1 min. Do not allow the garlic to brown. Add the chopped tomatoes and cook over low heat for 20 min. Add the basil leaves and season well with salt and pepper.
+5. To finish, fold a 4-inch-wide ribbon of dough in half lengthwise to form a crease, then unfold.
+6. Place level tablespoons of the filling an inch apart along one side of the dough.
+7. Fold the dough over to cover and press between each mound with a finger. Use a crimped pastry cutter to cut the filled dough into 2-inch squares.
+8. Gently press the edges of each ravioli to ensure a proper seal.
+9. Cook in plenty of well-salted water.
+10. Chop the herbs coarse. Alternate layers of cooked pasta, sauce, herbs, and cheese.
 
 ## Metadata
 
-- **Dish Type:** soup
+- **Dish Type:** main dish (vegetable)
 - **Culture:** Italian
 - **Difficulty:** challenging
-- **Occasion:** holiday
+- **Occasion:** entertaining
 
 ## Keywords
 
-handmade pasta, tortellini, Emilia-Romagna, Bologna
+handmade pasta, ravioli, Sardinian, eggplant
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 25
+Fine Cooking Issue 1 (March 1994), page 24

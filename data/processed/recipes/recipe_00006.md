@@ -1,113 +1,193 @@
 ---
 ingredients:
-  - full: "6 lb. pale liquid malt extract"
-    base: "pale liquid malt extract"
-    unit: "lb"
+  - full: "4 red snapper fillets, 6 to 7 oz. each"
+    base: "red snapper fillet"
+    unit: ""
+    quantity: "4"
+    prep: "6 to 7 oz. each"
+    component: false
+  - full: "Fresh lemon juice"
+    base: "lemon juice"
+    unit: ""
+    quantity: ""
+    prep: "fresh"
+    component: false
+  - full: "Salt"
+    base: "salt"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "6 Tbs. olive oil"
+    base: "olive oil"
+    unit: "tbsp"
     quantity: "6"
     prep: ""
     component: false
-  - full: "1/2 lb. English Crystal malted barley"
-    base: "crystal malted barley"
-    unit: "lb"
-    quantity: "1/2"
-    prep: ""
+  - full: "2 medium yellow onions, sliced thin"
+    base: "yellow onion"
+    unit: ""
+    quantity: "2"
+    prep: "sliced thin"
     component: false
-  - full: "1 Tbs. gypsum"
-    base: "gypsum"
+  - full: "2 cloves garlic, minced"
+    base: "garlic"
+    unit: ""
+    quantity: "2"
+    prep: "minced"
+    component: false
+  - full: "8 plum tomatoes, peeled, seeded, and cut into strips"
+    base: "plum tomatoes"
+    unit: ""
+    quantity: "8"
+    prep: "peeled, seeded, and cut into strips"
+    component: false
+  - full: "24 green olives, pitted and chopped rough"
+    base: "green olives"
+    unit: ""
+    quantity: "24"
+    prep: "pitted and chopped rough"
+    component: false
+  - full: "2 Tbs. capers"
+    base: "capers"
     unit: "tbsp"
-    quantity: "1"
+    quantity: "2"
     prep: ""
     component: false
-  - full: "1 oz. bittering hops (Bullion, Northern Brewer, or Target)"
-    base: "bittering hops"
-    unit: "oz"
+  - full: "2 pickled jalapenos, seeded and sliced"
+    base: "pickled jalapenos"
+    unit: ""
+    quantity: "2"
+    prep: "seeded and sliced"
+    component: false
+  - full: "1 to 2 Tbs. pickling juice from the jalapenos"
+    base: "pickling juice"
+    unit: "tbsp"
+    quantity: "1 to 2"
+    prep: "from the jalapenos"
+    component: false
+  - full: "1 tsp. dried thyme"
+    base: "thyme"
+    unit: "tsp"
     quantity: "1"
+    prep: "dried"
+    component: false
+  - full: "1 tsp. dried marjoram"
+    base: "marjoram"
+    unit: "tsp"
+    quantity: "1"
+    prep: "dried"
+    component: false
+  - full: "2 bay leaves"
+    base: "bay leaf"
+    unit: ""
+    quantity: "2"
     prep: ""
     component: false
-  - full: "1 oz. aroma hops (Fuggle, Willamette, Styrian, or Kent Goldings)"
-    base: "aroma hops"
-    unit: "oz"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1/2 tsp. Irish moss"
-    base: "Irish moss"
+  - full: "1/2 tsp. ground cinnamon"
+    base: "cinnamon"
     unit: "tsp"
     quantity: "1/2"
+    prep: "ground"
+    component: false
+  - full: "2 whole cloves"
+    base: "whole cloves"
+    unit: ""
+    quantity: "2"
     prep: ""
     component: false
-  - full: "1 package ale yeast (Whitbread, Nottingham, Edme, or Muntons)"
-    base: "ale yeast"
-    unit: ""
+  - full: "1/2 tsp. coarse black pepper"
+    base: "black pepper"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: "coarse"
+    component: false
+  - full: "2 Tbs. chopped parsley, plus extra leaves for garnish"
+    base: "parsley"
+    unit: "tbsp"
+    quantity: "2"
+    prep: "chopped, plus extra leaves for garnish"
+    component: false
+  - full: "1 cup fish stock"
+    base: "fish stock"
+    unit: "cup"
     quantity: "1"
     prep: ""
     component: false
-  - full: "3/4 cup corn sugar"
-    base: "corn sugar"
+  - full: "1 cup canned clam juice"
+    base: "clam juice"
     unit: "cup"
-    quantity: "3/4"
+    quantity: "1"
+    prep: "canned"
+    component: false
+  - full: "1/4 cup olive oil"
+    base: "olive oil"
+    unit: "cup"
+    quantity: "1/4"
     prep: ""
     component: false
-dish_type: "beverage"
-culture: "English"
-difficulty: "challenging"
-occasion: "homebrewing project"
+dish_type: "main dish (seafood)"
+culture: "Mexican"
+difficulty: "moderate"
+occasion: "entertaining"
 keywords:
-  - "homebrewing"
-  - "malt extract"
-  - "hops"
-  - "fermentation"
-  - "bottle carbonating"
+  - "pan-steaming"
+  - "Veracruz-style"
+  - "tomato sauce"
+  - "olives"
+  - "capers"
 ---
-# English Pale Ale
+# Red Snapper Vera Cruz
 
-Makes fifty-two 12-ounce bottles.
+Serve this spicy dish alongside rice that's topped with fresh chopped herbs and butter. Grapefruit segments and avocado wedges on Bibb lettuce and a simple lime dressing make a refreshing salad. Bread or hot flour tortillas complete the meal. The fruitiness of a well-made dry gewurztraminer plays off the spiciness of this dish. Serves four.
 
 ## Ingredients
 
-- 6 lb. pale liquid malt extract
-- 1/2 lb. English Crystal malted barley
-- 1 Tbs. gypsum
-- 1 oz. bittering hops (Bullion, Northern Brewer, or Target)
-- 1 oz. aroma hops (Fuggle, Willamette, Styrian, or Kent Goldings)
-- 1/2 tsp. Irish moss
-- 1 package ale yeast (Whitbread, Nottingham, Edme, or Muntons)
-- 3/4 cup corn sugar
+- 4 red snapper fillets, 6 to 7 oz. each
+- Fresh lemon juice
+- Salt
+- 6 Tbs. olive oil
+- 2 medium yellow onions, sliced thin
+- 2 cloves garlic, minced
+- 8 plum tomatoes, peeled, seeded, and cut into strips
+- 24 green olives, pitted and chopped rough
+- 2 Tbs. capers
+- 2 pickled jalapenos, seeded and sliced
+- 1 to 2 Tbs. pickling juice from the jalapenos
+- 1 tsp. dried thyme
+- 1 tsp. dried marjoram
+- 2 bay leaves
+- 1/2 tsp. ground cinnamon
+- 2 whole cloves
+- 1/2 tsp. coarse black pepper
+- 2 Tbs. chopped parsley, plus extra leaves for garnish
+- 1 cup fish stock
+- 1 cup canned clam juice
+- 1/4 cup olive oil
 
 *** = component recipe
 
 ## Directions
 
-1. Harden the water by dropping the gypsum into 2 gallons of cold water in your brew pot. (If the mineral content of your water already exceeds 300 parts per million, skip this step.)
-2. Coarsely crush the Crystal malt and steep it in the water to give color and flavor. Slowly heat the water, taking care to remove the grain before the water starts to boil.
-3. Add the malt extract to the boiling water and stir vigorously until it dissolves. When the wort is boiling again, set a timer for 60 minutes.
-4. Add the bittering hops 10 minutes into the boil.
-5. Add the Irish moss at 30 minutes into the boil.
-6. Add half the aromatic hops 50 minutes into the boil and the other half at 59 minutes.
-7. Rehydrate the yeast: pour 1 cup of lukewarm (100° to 110°F) water into a sterile glass, sprinkle the yeast on top, cover with foil, and let stand 10 to 15 minutes until it bubbles and smells bread-like.
-8. Quickly cool the wort by nestling the brew kettle in a sink of ice and water, stirring the water to keep it circulating. When the wort reaches 120°F, add enough cold water to bring the volume up to 5 gallons, aiming to reach 75°F within an hour.
-9. Strain and aerate the wort while transferring it into the fermenter, splashing it to introduce oxygen and straining it through a cheesecloth-lined colander to remove the hops. Top off the wort to 5 gallons and confirm it's at 75°F.
-10. Pitch the yeast into the fermenter (no stirring necessary). Seal the fermenter, attach the air lock, and fill it halfway with water.
-11. Put the fermenter in a place with a constant temperature between 55° and 70°F, away from light and foot traffic.
-12. Watch for signs of fermentation within 6 to 12 hours: a thick brown foam (kraeusen) will form and, over 2 to 4 days, dissipate as the yeast finishes converting the sugar to alcohol and settles to the bottom, clarifying the beer. Let the beer ferment for 10 days.
-13. About 10 days after brewing, check that the beer looks, smells, and tastes like uncarbonated beer, then prepare to bottle.
-14. Boil 3/4 cup corn sugar in 1 cup of water for 5 minutes to make a priming solution, then let it cool.
-15. Siphon the beer from the fermenter into a bottling bucket, add the sugar solution, and gently stir several times to distribute it.
-16. Siphon the primed beer into the bottles without agitating it, leaving about 1 inch of air space at the top, and seal tightly with a bottle capper.
-17. Let the beer mature and carbonate; it should be ready to drink within about two weeks.
-18. Serve at room temperature, decanting the beer to leave the yeast sediment behind in the bottle.
+1. Check the red snapper for bones and remove any with a pair of tweezers or needle-nose pliers. Sprinkle with lemon juice and salt, and set aside.
+2. In a large, heavy skillet, heat 6 Tbs. of oil. Saute the onions until soft, 6 to 7 min., over medium-high heat.
+3. Add the garlic and cook 1 min. Add the tomatoes and simmer 4 to 5 min.
+4. Add the olives, capers, jalapenos, pickling juice, herbs, spices, chopped parsley, and fish stock or clam juice. Simmer uncovered for 7 to 8 min. Season with salt and pepper to taste, and set aside in a warm place.
+5. In the same pan, heat 1/4 cup oil about 2 min., until it starts to shimmer. Saute the snapper, skin side down, 2 min. and then turn over.
+6. Cover the fish with the tomato mixture. Bring to a simmer, cover tightly, remove from the heat, and let steam for about 3 min.
+7. With a slotted spoon, arrange the fillets on warm plates and spoon the sauce over them. Garnish with parsley.
 
 ## Metadata
 
-- Dish Type: beverage
-- Culture: English
-- Difficulty: challenging
-- Occasion: homebrewing project
+- **Dish Type:** main dish (seafood)
+- **Culture:** Mexican
+- **Difficulty:** moderate
+- **Occasion:** entertaining
 
 ## Keywords
 
-homebrewing, malt extract, hops, fermentation, bottle carbonating
+pan-steaming, Veracruz-style, tomato sauce, olives, capers
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 62
+Fine Cooking Issue 1 (March 1994), page 29

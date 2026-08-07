@@ -1,84 +1,91 @@
 ---
 ingredients:
-  - full: "12 oz. butter, softened"
-    base: "butter"
-    unit: "oz"
-    quantity: "12"
-    prep: "softened"
-    component: false
-  - full: "6 scallions, chopped (including the tops)"
-    base: "scallion"
+  - full: "32 to 40 medium shrimp or 24 to 28 large shrimp"
+    base: "shrimp"
     unit: ""
+    quantity: "32 to 40"
+    prep: "medium"
+    component: false
+  - full: "2 lemons"
+    base: "lemon"
+    unit: ""
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "6 Tbs. olive oil"
+    base: "olive oil"
+    unit: "tbsp"
     quantity: "6"
-    prep: "chopped (including the tops)"
+    prep: ""
     component: false
-  - full: "2 small green peppers, diced fine"
-    base: "green pepper"
+  - full: "7 oz. crimini or regular white mushrooms, sliced"
+    base: "mushrooms"
+    unit: "oz"
+    quantity: "7"
+    prep: "sliced"
+    component: false
+  - full: "Salt"
+    base: "salt"
     unit: ""
-    quantity: "2"
-    prep: "diced fine"
-    component: false
-  - full: "2 lb. cooked, shelled crawfish tails"
-    base: "crawfish tails"
-    unit: "lb"
-    quantity: "2"
-    prep: "cooked, shelled"
-    component: false
-  - full: "2 to 3 Tbs. Creole Seasoning Mix, p. 44"
-    base: "Creole Seasoning Mix"
-    unit: "tbsp"
-    quantity: "2 to 3"
-    prep: ""
-    component: true
-  - full: "2 Tbs. Worcestershire sauce"
-    base: "worcestershire sauce"
-    unit: "tbsp"
-    quantity: "2"
+    quantity: ""
     prep: ""
     component: false
-dish_type: "appetizer"
-culture: "Creole"
+  - full: "pepper"
+    base: "pepper"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "4 to 5 sprigs of parsley, chopped rough"
+    base: "parsley"
+    unit: ""
+    quantity: "4 to 5"
+    prep: "chopped rough"
+    component: false
+dish_type: "main dish (seafood)"
+culture: "American"
 difficulty: "easy"
-occasion: "entertaining"
+occasion: "everyday"
 keywords:
-  - "crawfish"
-  - "Louisiana"
-  - "compound butter"
-  - "quick cooking"
+  - "pan-steaming"
+  - "quick"
+  - "lemon"
 ---
-# Sauté of Louisiana Crawfish
+# Lemon Shrimp with Mushrooms
 
-You can buy crawfish live or already cooked and shelled. Most people use the cooked tails. They're so much easier to cook with and don't usually cost more despite the labor. If you do want to try the whole ones, figure you'll get a half pound of cooked, shelled tails from every pound of live crawfish. Shrimp work beautifully for this recipe, too. The saute is a great party dish since it all goes together in about two minutes. We like to serve it with a full-flavored chardonnay that stands up to the seasoning in this dish. Serves eight.
+For this simple combination, the lemon juice and zest add a wonderful fresh taste, while the mushrooms contribute interesting texture. A fruity chardonnay with a lot of body would go well with the tang of the lemon and the sweetness of the shrimp. Serves four.
 
 ## Ingredients
 
-- 12 oz. butter, softened
-- 6 scallions, chopped (including the tops)
-- 2 small green peppers, diced fine
-- 2 lb. cooked, shelled crawfish tails
-- 2 to 3 Tbs. Creole Seasoning Mix, p. 44 ***
-- 2 Tbs. Worcestershire sauce
+- 32 to 40 medium shrimp or 24 to 28 large shrimp
+- 2 lemons
+- 6 Tbs. olive oil
+- 7 oz. crimini or regular white mushrooms, sliced
+- Salt
+- pepper
+- 4 to 5 sprigs of parsley, chopped rough
 
 *** = component recipe
 
 ## Directions
 
-1. In a frying pan, melt 2 Tbs. of the butter and saute the scallions, peppers, and crawfish tails with the Creole Seasoning Mix and Worcestershire sauce until warm, about 2 min.
-2. Remove from heat.
-3. Add the remaining butter about 1 Tbs. at a time, shaking the pan and stirring so that the butter softens and makes a creamy sauce but doesn't melt completely.
-4. Serve immediately.
+1. Peel the shrimp except for the last remaining tail section.
+2. Remove the zest of half a lemon with a fine zester, or use a knife, and then cut the zest into fine julienne. Juice the lemons.
+3. In a large skillet set over medium-high heat, saute the mushrooms in 4 Tbs. oil for about 1 min., until they begin to release their juices. Push to the sides of the pan.
+4. Add 2 Tbs. oil and bring it up to temperature. Add the shrimp and saute about 1 min. on both sides. Season with salt and pepper.
+5. Add lemon zest and juice, and parsley. Cover tightly and remove from heat. Let steam about 6 min.
 
 ## Metadata
 
-- **Dish Type:** appetizer
-- **Culture:** Creole
+- **Dish Type:** main dish (seafood)
+- **Culture:** American
 - **Difficulty:** easy
-- **Occasion:** entertaining
+- **Occasion:** everyday
 
 ## Keywords
 
-crawfish, Louisiana, compound butter, quick cooking
+pan-steaming, quick, lemon
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 46
+Fine Cooking Issue 1 (March 1994), page 29

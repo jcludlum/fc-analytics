@@ -1,152 +1,74 @@
 ---
 ingredients:
-  - full: "1 oz. (2 Tbs.) unsalted butter, softened"
-    base: "butter"
-    unit: "oz"
-    quantity: "1"
-    prep: "softened"
-    component: false
-  - full: "1 1/4 oz. (20) whole blanched almonds"
+  - full: "4 oz. (1 1/4 cup) sliced, blanched almonds"
     base: "almonds"
     unit: "oz"
-    quantity: "1 1/4"
-    prep: "blanched"
+    quantity: "4"
+    prep: "sliced, blanched"
     component: false
-  - full: "6 oz. (1 1/4 cups) slivered almonds"
-    base: "almonds"
+  - full: "4 oz. (1/3 cup) corn syrup"
+    base: "corn syrup"
     unit: "oz"
-    quantity: "6"
-    prep: "slivered"
-    component: false
-  - full: "1/2 tsp. grated lemon zest"
-    base: "lemon zest"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "grated"
-    component: false
-  - full: "2 1/4 oz. (1/2 cup plus 1 Tbs.) cake flour"
-    base: "cake flour"
-    unit: "oz"
-    quantity: "2 1/4"
+    quantity: "4"
     prep: ""
     component: false
-  - full: "2 oz. (1/4 cup plus 2 Tbs.) cornstarch"
-    base: "cornstarch"
-    unit: "oz"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "2 eggs"
-    base: "egg"
-    unit: ""
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "5 egg yolks"
-    base: "egg yolk"
-    unit: ""
-    quantity: "5"
-    prep: ""
-    component: false
-  - full: "5 oz. (1/2 cup plus 2 Tbs.) sugar"
+  - full: "4 oz. (1/2 cup) sugar"
     base: "sugar"
     unit: "oz"
-    quantity: "5"
+    quantity: "4"
     prep: ""
     component: false
-  - full: "1/2 tsp. vanilla"
-    base: "vanilla"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: ""
-    component: false
-  - full: "1 1/2 oz. (3 Tbs.) unsalted butter, melted and cooled"
+  - full: "4 oz. unsalted butter"
     base: "butter"
     unit: "oz"
-    quantity: "1 1/2"
-    prep: "melted and cooled"
-    component: false
-  - full: "2 oz. (1/4 cup) water"
-    base: "water"
-    unit: "oz"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "2 oz. (1/4 cup) sugar"
-    base: "sugar"
-    unit: "oz"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1 tsp. kirsch, or to taste"
-    base: "kirsch"
-    unit: "tsp"
-    quantity: "1"
+    quantity: "4"
     prep: ""
     component: false
 dish_type: "dessert"
 culture: "French"
-difficulty: "challenging"
+difficulty: "moderate"
 occasion: "entertaining"
 keywords:
-  - "genoise"
-  - "sponge cake"
-  - "roasted almonds"
-  - "nut-crusted cake"
-  - "kirsch"
-  - "lemon dessert"
+  - "candy-making"
+  - "hand-shaped nougat cups"
+  - "crunchy cookie"
+  - "make-ahead dessert component"
 ---
-# Lemon Sponge Cake in a Roasted-Almond Crust
+# Almond Nougat Cups
 
-A delectable sponge cake flavored with lemon, vanilla, and kirsch, hidden under a layer of golden-brown almonds. Serves eight.
+For a spectacular dessert, you can fill these cups with caramel mousse topped with caramel sauce (recipes given below). Or fill the cups with any flavor ice cream or sorbet. You can also enjoy them on their own as a type of crunchy cookie, either left flat or rolled around a wooden spoon handle. Makes 72 dessert cups.
 
 ## Ingredients
 
-- 1 oz. (2 Tbs.) unsalted butter, softened
-- 1 1/4 oz. (20) whole blanched almonds
-- 6 oz. (1 1/4 cups) slivered almonds
-- 1/2 tsp. grated lemon zest
-- 2 1/4 oz. (1/2 cup plus 1 Tbs.) cake flour
-- 2 oz. (1/4 cup plus 2 Tbs.) cornstarch
-- 2 eggs
-- 5 egg yolks
-- 5 oz. (1/2 cup plus 2 Tbs.) sugar
-- 1/2 tsp. vanilla
-- 1 1/2 oz. (3 Tbs.) unsalted butter, melted and cooled
-- 2 oz. (1/4 cup) water
-- 2 oz. (1/4 cup) sugar
-- 1 tsp. kirsch, or to taste
+- 4 oz. (1 1/4 cup) sliced, blanched almonds
+- 4 oz. (1/3 cup) corn syrup
+- 4 oz. (1/2 cup) sugar
+- 4 oz. unsalted butter
 
 *** = component recipe
 
 ## Directions
 
-1. Position the rack in the lower third of the oven and heat to 325°F. Butter the bottom and sides of a 9- by 2-in. round cake pan well with the softened butter.
-2. Cut the whole blanched almonds in half lengthwise and place them, flat side down, in the cake pan to form a decorative pattern.
-3. Put the slivered almonds in a food processor fitted with the blade attachment and pulse 40 to 50 times, or until the almonds are finely chopped.
-4. Put the chopped almonds in a medium-fine sieve and sift them over a piece of waxed paper, letting the ground almonds fall through the sieve. You should have 3/4 to 1 cup of chopped almonds and 1/4 cup of ground almonds. Reserve the ground almonds.
-5. Put the chopped almonds in the prepared pan and gently roll the pan, coating the bottom and sides with the almonds. Gently turn the pan upside down to remove any excess chopped almonds.
-6. Grate the lemon zest, being careful not to get any of the white pith.
-7. In a medium bowl, sift the flour, cornstarch, and reserved ground almonds together.
-8. In the bowl of a heavy-duty electric mixer fitted with the wire whip attachment, beat the eggs and yolks until blended.
-9. Gradually add the sugar and continue beating until the mixture is pale yellow and leaves a thick ribbon trail when the whip is lifted, 10 to 15 min. Beat in the vanilla and lemon zest.
-10. Using a large rubber spatula, gently fold a third of the flour mixture into the beaten eggs. Gently fold in the remaining flour mixture, a third at a time.
-11. Put about 2 cups of the batter in a medium bowl and gently fold in the melted, cooled butter. Return the mixture to the rest of the batter and fold just until combined.
-12. Scrape the batter into the prepared pan and bake for 30 to 40 min. Cool the cake completely in the pan on a wire rack.
-13. To make the sugar syrup, combine the water and sugar in a small saucepan. Cook over medium heat, stirring constantly with a wooden spoon until the sugar dissolves. Raise the heat to medium-high and bring to a boil. Cool the syrup to room temperature, then stir in the kirsch.
-14. Invert the cake onto a flat serving plate and brush it with the kirsch syrup.
+1. Heat oven to 350°F.
+2. Lightly crush the almonds. Prepare a baking tray by lightly coating it with vegetable oil.
+3. Combine the corn syrup and sugar in a 1-qt. saucepan and set over medium heat. Bring to a boil, stirring until the sugar is dissolved.
+4. Stir in the almonds, and then the whole piece of butter. Continue cooking until the butter is absorbed and all the ingredients come into one homogeneous mass. Remove from heat.
+5. For each portion, put 1 Tbs. of the mixture onto the prepared tray and press into a thin round using the back of a soupspoon. Be sure to spread the mixture thin.
+6. Bake until nicely golden brown, 8 to 10 min. Turn the pan halfway through cooking so the wafers brown evenly.
+7. Cool slightly, and then remove them from the baking tray and quickly shape them on the back of a custard cup or small dish.
+8. Once shaped, keep the almond nougat cups dry in a sealed container so they remain crisp.
 
 ## Metadata
 
 - Dish Type: dessert
 - Culture: French
-- Difficulty: challenging
+- Difficulty: moderate
 - Occasion: entertaining
 
 ## Keywords
 
-genoise, sponge cake, roasted almonds, nut-crusted cake, kirsch, lemon dessert
+candy-making, hand-shaped nougat cups, crunchy cookie, make-ahead dessert component
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 70
+Fine Cooking Issue 1 (March 1994), page 38

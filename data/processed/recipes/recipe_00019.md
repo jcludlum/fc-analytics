@@ -1,242 +1,105 @@
 ---
 ingredients:
-  - full: "1 Tbs. dark miso"
-    base: "miso"
-    unit: "tbsp"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1 Tbs. sugar"
-    base: "sugar"
-    unit: "tbsp"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1 Tbs. mirin (sweet Japanese cooking wine)"
-    base: "mirin"
-    unit: "tbsp"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1/2 tsp. grated ginger"
-    base: "ginger"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "grated"
-    component: false
-  - full: "1/2 tsp. grated garlic"
-    base: "garlic"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "grated"
-    component: false
-  - full: "1/2 tsp. sesame oil"
-    base: "sesame oil"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: ""
-    component: false
-  - full: "Pinch cayenne pepper"
-    base: "cayenne pepper"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "3/4 lb. flank steak, trimmed"
-    base: "flank steak"
-    unit: "lb"
-    quantity: "3/4"
-    prep: "trimmed"
-    component: false
-  - full: "1/2 stalk celery, trimmed"
-    base: "celery"
-    unit: ""
-    quantity: "1/2"
-    prep: "trimmed"
-    component: false
-  - full: "1/2 Japanese cucumber"
-    base: "Japanese cucumber"
-    unit: ""
-    quantity: "1/2"
-    prep: ""
-    component: false
-  - full: "1/4 carrot, peeled"
-    base: "carrot"
-    unit: ""
-    quantity: "1/4"
-    prep: "peeled"
-    component: false
-  - full: "1 medium tomato"
-    base: "tomato"
+  - full: "1 roll, 10 in. long and 2 1/2 in. in diameter or the equivalent amount of bread"
+    base: "bread roll"
     unit: ""
     quantity: "1"
     prep: ""
     component: false
-  - full: "1 1/2 tsp. cilantro leaves"
-    base: "cilantro"
-    unit: "tsp"
-    quantity: "1 1/2"
+  - full: "2 cups heavy cream"
+    base: "heavy cream"
+    unit: "cup"
+    quantity: "2"
     prep: ""
     component: false
-  - full: "1 1/2 tsp. mint leaves"
-    base: "mint"
-    unit: "tsp"
-    quantity: "1 1/2"
-    prep: ""
-    component: false
-  - full: "1/2 tsp. peeled and chopped ginger"
-    base: "ginger"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "peeled and chopped"
-    component: false
-  - full: "1/2 tsp. minced garlic"
-    base: "garlic"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "minced"
-    component: false
-  - full: "Pinch red-chile flakes"
-    base: "red-chile flakes"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "1/2 cup rice-wine vinegar"
-    base: "rice-wine vinegar"
+  - full: "1/2 cup milk"
+    base: "milk"
     unit: "cup"
     quantity: "1/2"
     prep: ""
     component: false
-  - full: "2 Tbs. sugar"
+  - full: "1/4 cup sugar"
     base: "sugar"
-    unit: "tbsp"
-    quantity: "2"
+    unit: "cup"
+    quantity: "1/4"
     prep: ""
     component: false
-  - full: "2 Tbs. soy sauce"
-    base: "soy sauce"
-    unit: "tbsp"
-    quantity: "2"
+  - full: "9 oz. white chocolate, chopped"
+    base: "white chocolate"
+    unit: "oz"
+    quantity: "9"
+    prep: "chopped"
+    component: false
+  - full: "1 egg"
+    base: "egg"
+    unit: ""
+    quantity: "1"
     prep: ""
     component: false
-  - full: "1 1/2 tsp. Dijon mustard"
-    base: "Dijon mustard"
-    unit: "tsp"
-    quantity: "1 1/2"
-    prep: ""
-    component: false
-  - full: "1 1/2 tsp. sesame oil"
-    base: "sesame oil"
-    unit: "tsp"
-    quantity: "1 1/2"
-    prep: ""
-    component: false
-  - full: "2 Tbs. corn oil"
-    base: "corn oil"
-    unit: "tbsp"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "4 large radicchio leaves"
-    base: "radicchio"
+  - full: "4 egg yolks"
+    base: "egg yolk"
     unit: ""
     quantity: "4"
     prep: ""
     component: false
-  - full: "1 1/2 cups mixed baby lettuce"
-    base: "baby lettuce"
-    unit: "cup"
-    quantity: "1 1/2"
-    prep: "mixed"
-    component: false
-  - full: "8 cilantro sprigs"
-    base: "cilantro"
+  - full: "Semisweet chocolate for garnish (optional)"
+    base: "semisweet chocolate"
     unit: ""
-    quantity: "8"
+    quantity: ""
     prep: ""
     component: false
-  - full: "2 tsp. sesame seeds"
-    base: "sesame seeds"
-    unit: "tsp"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1/2 oz. vermicelli-size rice noodles, deep fried (optional)"
-    base: "rice noodles"
-    unit: "oz"
-    quantity: "1/2"
-    prep: "deep fried"
-    component: false
-dish_type: "salad"
-culture: "Japanese"
+dish_type: "dessert"
+culture: "Creole"
 difficulty: "moderate"
 occasion: "entertaining"
 keywords:
-  - "make-ahead marinade"
-  - "grilled flank steak"
-  - "miso marinade"
+  - "bread pudding"
+  - "New Orleans"
+  - "custard dessert"
+  - "make-ahead"
+  - "water bath baking"
 ---
-# Grilled Miso-Marinated Flank Steak Salad
+# White-Chocolate Bread Pudding with White-Chocolate Sauce
 
-Miso--fermented soybean paste-is available at Asian markets. There are several types, with different colors, flavors, and textures. We suggest that you marinate the meat for three hours, but you can leave it for a lot longer without ill effects. Miso won't break down the meat quickly, so if you need extra time, prepare the marinated meat and the vinaigrette the day before. We garnish this salad with a Japanese rice noodle, deep fried for less than a minute until puffy. We would serve the salad with a bottle of Caymus Conundrum, a blend of four grape varietals. The muscat provides sweetness for the miso, but this wine still has a good acid balance to go with the vinaigrette. Serves four.
+In New Orleans, our long French rolls are crisp on the outside, light and airy within. They're great for this recipe since they soak up custard more readily than heavier breads. Use whatever is available to you that's good but light-perhaps an Italian or Viennese bread. Serve the pudding warm or make it a day ahead and cut it into squares or triangles. For wine, a sauternes is ideal. Serves eight.
 
 ## Ingredients
 
-- 1 Tbs. dark miso
-- 1 Tbs. sugar
-- 1 Tbs. mirin (sweet Japanese cooking wine)
-- 1/2 tsp. grated ginger
-- 1/2 tsp. grated garlic
-- 1/2 tsp. sesame oil
-- Pinch cayenne pepper
-- 3/4 lb. flank steak, trimmed
-- 1/2 stalk celery, trimmed
-- 1/2 Japanese cucumber
-- 1/4 carrot, peeled
-- 1 medium tomato
-- 1 1/2 tsp. cilantro leaves
-- 1 1/2 tsp. mint leaves
-- 1/2 tsp. peeled and chopped ginger
-- 1/2 tsp. minced garlic
-- Pinch red-chile flakes
-- 1/2 cup rice-wine vinegar
-- 2 Tbs. sugar
-- 2 Tbs. soy sauce
-- 1 1/2 tsp. Dijon mustard
-- 1 1/2 tsp. sesame oil
-- 2 Tbs. corn oil
-- 4 large radicchio leaves
-- 1 1/2 cups mixed baby lettuce
-- 8 cilantro sprigs
-- 2 tsp. sesame seeds
-- 1/2 oz. vermicelli-size rice noodles, deep fried (optional)
+- 1 roll, 10 in. long and 2 1/2 in. in diameter or the equivalent amount of bread
+- 2 cups heavy cream
+- 1/2 cup milk
+- 1/4 cup sugar
+- 9 oz. white chocolate, chopped
+- 1 egg
+- 4 egg yolks
+- Semisweet chocolate for garnish (optional)
 
 *** = component recipe
 
 ## Directions
 
-1. Combine the marinade ingredients in a bowl and whisk.
-2. Holding the knife at a 30° angle, slice the flank steak across the grain into 4 equal pieces. Pound with a toothed meat mallet to tenderize.
-3. Marinate 3 hours.
-4. To make the vinaigrette, puree all the ingredients in a blender.
-5. Grill the flank steak until medium rare, about 5 min. total.
-6. Slice the cucumber and carrot in half lengthwise, and then cut them and the celery diagonally into pieces 1/8 in. thick by 3 in. long. (Do not cut the celery in half first.) Cut the tomato into 8 wedges.
-7. Slice the steak crosswise into 1/2-in. strips. Mix the beef and cut vegetables in a large bowl and toss with the vinaigrette.
-8. To assemble, place a radicchio leaf on each plate to form an open cup. Put the lettuce in the radicchio cup and top with the salad.
-9. Garnish with cilantro sprigs, a sprinkling of sesame seeds, and the fried rice noodle if desired.
+1. Cut the roll into eight slices, place on the middle rack of a 250°F oven, and leave until dry, about 20 min.
+2. In a saucepan, heat 1 1/2 cups of the heavy cream, the milk, and the sugar over low heat, stirring until the sugar is dissolved.
+3. Add 5 oz. of the white chocolate, stir until melted, and remove from the heat.
+4. In a large bowl, whisk the egg and yolks together. Whisk the chocolate mixture into the eggs a little at a time.
+5. Tear the bread into 1-in. pieces, add to the white-chocolate custard, and stir to mix. Leave to soak, stirring occasionally, until all the custard has been absorbed by the bread, 1 to 2 hours.
+6. Put the mixture into an 8-in. square, 2-in. deep baking dish. Put the dish in a slightly larger pan and add hot water to come halfway up the sides of the baking dish.
+7. Bake the pudding in the water bath at 350°F for 45 to 50 min., until the custard is set and the top is golden brown.
+8. Serve warm or cold. If chilled, loosen the sides with a metal spatula and invert the pudding onto a cutting surface. Cut it into four squares and cut each square into a triangle, and serve standing on one edge.
+9. For the sauce, heat the remaining cream in a small pan. Add the remaining 4 oz. white chocolate and melt.
+10. If desired, grate some semisweet chocolate and sprinkle on top of the pudding.
 
 ## Metadata
 
-- **Dish Type:** salad
-- **Culture:** Japanese
+- **Dish Type:** dessert
+- **Culture:** Creole
 - **Difficulty:** moderate
 - **Occasion:** entertaining
 
 ## Keywords
 
-make-ahead marinade, grilled flank steak, miso marinade
+bread pudding, New Orleans, custard dessert, make-ahead, water bath baking
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 58
+Fine Cooking Issue 1 (March 1994), page 47

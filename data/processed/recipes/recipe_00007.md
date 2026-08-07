@@ -1,74 +1,76 @@
 ---
 ingredients:
-  - full: "4 oz. (1 1/4 cup) sliced, blanched almonds"
-    base: "almonds"
-    unit: "oz"
-    quantity: "4"
-    prep: "sliced, blanched"
-    component: false
-  - full: "4 oz. (1/3 cup) corn syrup"
-    base: "corn syrup"
-    unit: "oz"
-    quantity: "4"
+  - full: "10 guajillo, New Mexico, or California chiles (or 7 ancho, mulato, or pasilla chiles)"
+    base: "dried chiles"
+    unit: ""
+    quantity: "10"
     prep: ""
     component: false
-  - full: "4 oz. (1/2 cup) sugar"
-    base: "sugar"
-    unit: "oz"
-    quantity: "4"
+  - full: "Vegetable oil"
+    base: "vegetable oil"
+    unit: ""
+    quantity: ""
     prep: ""
     component: false
-  - full: "4 oz. unsalted butter"
-    base: "butter"
-    unit: "oz"
-    quantity: "4"
+  - full: "1 tomato"
+    base: "tomato"
+    unit: ""
+    quantity: "1"
     prep: ""
     component: false
-dish_type: "dessert"
-culture: "French"
-difficulty: "moderate"
-occasion: "entertaining"
+  - full: "1 clove garlic"
+    base: "garlic"
+    unit: ""
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "1 cup water"
+    base: "water"
+    unit: "cup"
+    quantity: "1"
+    prep: ""
+    component: false
+dish_type: "sauce/condiment"
+culture: "Mexican"
+difficulty: "easy"
+occasion: "everyday"
 keywords:
-  - "candy-making"
-  - "hand-shaped nougat cups"
-  - "crunchy cookie"
-  - "make-ahead dessert component"
+  - "dried chiles"
+  - "guajillo"
+  - "roasted and pureed"
+  - "table salsa"
+  - "component sauce"
 ---
-# Almond Nougat Cups
-
-For a spectacular dessert, you can fill these cups with caramel mousse topped with caramel sauce (recipes given below). Or fill the cups with any flavor ice cream or sorbet. You can also enjoy them on their own as a type of crunchy cookie, either left flat or rolled around a wooden spoon handle. Makes 72 dessert cups.
+# Mexican Red-Chile Sauce
 
 ## Ingredients
 
-- 4 oz. (1 1/4 cup) sliced, blanched almonds
-- 4 oz. (1/3 cup) corn syrup
-- 4 oz. (1/2 cup) sugar
-- 4 oz. unsalted butter
+- 10 guajillo, New Mexico, or California chiles (or 7 ancho, mulato, or pasilla chiles)
+- Vegetable oil
+- 1 tomato
+- 1 clove garlic
+- 1 cup water
 
 *** = component recipe
 
 ## Directions
 
-1. Heat oven to 350°F.
-2. Lightly crush the almonds. Prepare a baking tray by lightly coating it with vegetable oil.
-3. Combine the corn syrup and sugar in a 1-qt. saucepan and set over medium heat. Bring to a boil, stirring until the sugar is dissolved.
-4. Stir in the almonds, and then the whole piece of butter. Continue cooking until the butter is absorbed and all the ingredients come into one homogeneous mass. Remove from heat.
-5. For each portion, put 1 Tbs. of the mixture onto the prepared tray and press into a thin round using the back of a soupspoon. Be sure to spread the mixture thin.
-6. Bake until nicely golden brown, 8 to 10 min. Turn the pan halfway through cooking so the wafers brown evenly.
-7. Cool slightly, and then remove them from the baking tray and quickly shape them on the back of a custard cup or small dish.
-8. Once shaped, keep the almond nougat cups dry in a sealed container so they remain crisp.
+1. Roast the whole chiles in a little bit of oil in a frying pan over low heat (you can also roast them in a dry pan, but they are more likely to burn and turn bitter). Cook the chiles one at a time for a minute or two, flipping them over and pressing them against the pan with a spatula, until they soften and release their aroma; be careful not to let them burn.
+2. Cut the tomato in half lengthwise and roast it in the same pan the chiles were in, flipping the pieces occasionally, for several minutes until they're soft but not mushy.
+3. Rip the chiles into pieces and put them in a blender or food processor. Add the tomato, garlic, and water. Blend until the chiles are a smooth puree, about two minutes.
+4. Pour the pureed sauce through a sieve to remove skin and seeds, tapping on the strainer with a finger or spoon to move the thick sauce through. For a salsa, strain the puree into a bowl, thin it with a tablespoon or so of water, and add salt. To cook further, strain the sauce into a bowl or right into the cooking pot, pouring a cup or two of meat broth or water into the strainer and pressing the puree against it with a spoon to force more of the chile through — it's fine if the sauce is a little watery to start, since it will cook down.
 
 ## Metadata
 
-- Dish Type: dessert
-- Culture: French
-- Difficulty: moderate
-- Occasion: entertaining
+- **Dish Type:** sauce/condiment
+- **Culture:** Mexican
+- **Difficulty:** easy
+- **Occasion:** everyday
 
 ## Keywords
 
-candy-making, hand-shaped nougat cups, crunchy cookie, make-ahead dessert component
+dried chiles, guajillo, roasted and pureed, table salsa, component sauce
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 38
+Fine Cooking Issue 1 (March 1994), page 32

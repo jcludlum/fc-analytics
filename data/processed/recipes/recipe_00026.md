@@ -1,243 +1,242 @@
 ---
 ingredients:
-  - full: "2 lb. mixed greens (beet tops, spinach, watercress, Swiss chard, dandelion)"
-    base: "mixed greens"
-    unit: "lb"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "Coarse salt (kosher is good)"
-    base: "coarse salt"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "10 large basil leaves, chopped coarse"
-    base: "basil"
-    unit: ""
-    quantity: "10"
-    prep: "chopped coarse"
-    component: false
-  - full: "10 large borage leaves, chopped coarse (optional)"
-    base: "borage"
-    unit: ""
-    quantity: "10"
-    prep: "chopped coarse, optional"
-    component: false
-  - full: "1/4 cup fresh marjoram leaves, chopped coarse"
-    base: "marjoram"
-    unit: "cup"
-    quantity: "1/4"
-    prep: "fresh, chopped coarse"
-    component: false
-  - full: "2 cloves garlic, minced"
-    base: "garlic"
-    unit: ""
-    quantity: "2"
-    prep: "minced"
-    component: false
-  - full: "1/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
-    unit: "cup"
-    quantity: "1/4"
-    prep: "grated"
-    component: false
-  - full: "1 cup ricotta cheese"
-    base: "ricotta cheese"
-    unit: "cup"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "2 large eggs"
-    base: "egg"
-    unit: ""
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1/2 cup fresh bread crumbs"
-    base: "bread crumbs"
-    unit: "cup"
-    quantity: "1/2"
-    prep: "fresh"
-    component: false
-  - full: "Salt"
-    base: "salt"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "pepper"
-    base: "pepper"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "Nutmeg"
-    base: "nutmeg"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "3 cups unbleached flour"
-    base: "flour"
-    unit: "cup"
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "3 large eggs"
-    base: "egg"
-    unit: ""
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "1 Tbs. extra-virgin olive oil"
-    base: "olive oil"
+  - full: "1 Tbs. dark miso"
+    base: "miso"
     unit: "tbsp"
     quantity: "1"
     prep: ""
     component: false
-  - full: "1/2 tsp. salt"
-    base: "salt"
+  - full: "1 Tbs. sugar"
+    base: "sugar"
+    unit: "tbsp"
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "1 Tbs. mirin (sweet Japanese cooking wine)"
+    base: "mirin"
+    unit: "tbsp"
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "1/2 tsp. grated ginger"
+    base: "ginger"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: "grated"
+    component: false
+  - full: "1/2 tsp. grated garlic"
+    base: "garlic"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: "grated"
+    component: false
+  - full: "1/2 tsp. sesame oil"
+    base: "sesame oil"
     unit: "tsp"
     quantity: "1/2"
     prep: ""
     component: false
-  - full: "1/2 cup cold water (or equal parts water and dry white wine)"
-    base: "water"
-    unit: "cup"
-    quantity: "1/2"
-    prep: "cold"
+  - full: "Pinch cayenne pepper"
+    base: "cayenne pepper"
+    unit: ""
+    quantity: ""
+    prep: ""
     component: false
-  - full: "1 1/2 cups walnuts"
-    base: "walnuts"
-    unit: "cup"
+  - full: "3/4 lb. flank steak, trimmed"
+    base: "flank steak"
+    unit: "lb"
+    quantity: "3/4"
+    prep: "trimmed"
+    component: false
+  - full: "1/2 stalk celery, trimmed"
+    base: "celery"
+    unit: ""
+    quantity: "1/2"
+    prep: "trimmed"
+    component: false
+  - full: "1/2 Japanese cucumber"
+    base: "Japanese cucumber"
+    unit: ""
+    quantity: "1/2"
+    prep: ""
+    component: false
+  - full: "1/4 carrot, peeled"
+    base: "carrot"
+    unit: ""
+    quantity: "1/4"
+    prep: "peeled"
+    component: false
+  - full: "1 medium tomato"
+    base: "tomato"
+    unit: ""
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "1 1/2 tsp. cilantro leaves"
+    base: "cilantro"
+    unit: "tsp"
     quantity: "1 1/2"
     prep: ""
     component: false
-  - full: "1/2 cup pine nuts"
-    base: "pine nuts"
+  - full: "1 1/2 tsp. mint leaves"
+    base: "mint"
+    unit: "tsp"
+    quantity: "1 1/2"
+    prep: ""
+    component: false
+  - full: "1/2 tsp. peeled and chopped ginger"
+    base: "ginger"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: "peeled and chopped"
+    component: false
+  - full: "1/2 tsp. minced garlic"
+    base: "garlic"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: "minced"
+    component: false
+  - full: "Pinch red-chile flakes"
+    base: "red-chile flakes"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "1/2 cup rice-wine vinegar"
+    base: "rice-wine vinegar"
     unit: "cup"
     quantity: "1/2"
     prep: ""
     component: false
-  - full: "1 clove garlic"
-    base: "garlic"
-    unit: ""
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "3/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
-    unit: "cup"
-    quantity: "3/4"
-    prep: "grated"
-    component: false
-  - full: "20 sprigs Italian parsley, leaves only"
-    base: "Italian parsley"
-    unit: ""
-    quantity: "20"
-    prep: "leaves only"
-    component: false
-  - full: "1/4 cup unsalted butter, softened"
-    base: "unsalted butter"
-    unit: "cup"
-    quantity: "1/4"
-    prep: "softened"
-    component: false
-  - full: "1 cup heavy cream"
-    base: "heavy cream"
-    unit: "cup"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "2 Tbs. extra-virgin olive oil"
-    base: "olive oil"
+  - full: "2 Tbs. sugar"
+    base: "sugar"
     unit: "tbsp"
     quantity: "2"
     prep: ""
     component: false
-  - full: "Salt"
-    base: "salt"
-    unit: ""
-    quantity: ""
+  - full: "2 Tbs. soy sauce"
+    base: "soy sauce"
+    unit: "tbsp"
+    quantity: "2"
     prep: ""
     component: false
-  - full: "pepper"
-    base: "pepper"
-    unit: ""
-    quantity: ""
+  - full: "1 1/2 tsp. Dijon mustard"
+    base: "Dijon mustard"
+    unit: "tsp"
+    quantity: "1 1/2"
     prep: ""
     component: false
-dish_type: "main dish (vegetable)"
-culture: "Italian"
-difficulty: "challenging"
+  - full: "1 1/2 tsp. sesame oil"
+    base: "sesame oil"
+    unit: "tsp"
+    quantity: "1 1/2"
+    prep: ""
+    component: false
+  - full: "2 Tbs. corn oil"
+    base: "corn oil"
+    unit: "tbsp"
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "4 large radicchio leaves"
+    base: "radicchio"
+    unit: ""
+    quantity: "4"
+    prep: ""
+    component: false
+  - full: "1 1/2 cups mixed baby lettuce"
+    base: "baby lettuce"
+    unit: "cup"
+    quantity: "1 1/2"
+    prep: "mixed"
+    component: false
+  - full: "8 cilantro sprigs"
+    base: "cilantro"
+    unit: ""
+    quantity: "8"
+    prep: ""
+    component: false
+  - full: "2 tsp. sesame seeds"
+    base: "sesame seeds"
+    unit: "tsp"
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "1/2 oz. vermicelli-size rice noodles, deep fried (optional)"
+    base: "rice noodles"
+    unit: "oz"
+    quantity: "1/2"
+    prep: "deep fried"
+    component: false
+dish_type: "salad"
+culture: "Japanese"
+difficulty: "moderate"
 occasion: "entertaining"
 keywords:
-  - "handmade pasta"
-  - "ravioli"
-  - "Ligurian"
-  - "walnut sauce"
-  - "greens"
+  - "make-ahead marinade"
+  - "grilled flank steak"
+  - "miso marinade"
 ---
-# Pansoti in Salsa di Noci (Ravioli with walnut sauce)
+# Grilled Miso-Marinated Flank Steak Salad
 
-In Ligurian dialect pansoti means potbellied. Traditionally, the filling is prepared with preboggion, a mixture of wild herbs and greens sold in bundles. A less common but equally authentic version is to use dry white wine as part of the liquid in the pasta. If you want to try this, substitute wine for up to half the amount of water. Serves four.
+Miso--fermented soybean paste-is available at Asian markets. There are several types, with different colors, flavors, and textures. We suggest that you marinate the meat for three hours, but you can leave it for a lot longer without ill effects. Miso won't break down the meat quickly, so if you need extra time, prepare the marinated meat and the vinaigrette the day before. We garnish this salad with a Japanese rice noodle, deep fried for less than a minute until puffy. We would serve the salad with a bottle of Caymus Conundrum, a blend of four grape varietals. The muscat provides sweetness for the miso, but this wine still has a good acid balance to go with the vinaigrette. Serves four.
 
 ## Ingredients
 
-- 2 lb. mixed greens (beet tops, spinach, watercress, Swiss chard, dandelion)
-- Coarse salt (kosher is good)
-- 10 large basil leaves, chopped coarse
-- 10 large borage leaves, chopped coarse (optional)
-- 1/4 cup fresh marjoram leaves, chopped coarse
-- 2 cloves garlic, minced
-- 1/4 cup grated Parmesan cheese
-- 1 cup ricotta cheese
-- 2 large eggs
-- 1/2 cup fresh bread crumbs
-- Salt
-- pepper
-- Nutmeg
-- 3 cups unbleached flour
-- 3 large eggs
-- 1 Tbs. extra-virgin olive oil
-- 1/2 tsp. salt
-- 1/2 cup cold water (or equal parts water and dry white wine)
-- 1 1/2 cups walnuts
-- 1/2 cup pine nuts
-- 1 clove garlic
-- 3/4 cup grated Parmesan cheese
-- 20 sprigs Italian parsley, leaves only
-- 1/4 cup unsalted butter, softened
-- 1 cup heavy cream
-- 2 Tbs. extra-virgin olive oil
-- Salt
-- pepper
+- 1 Tbs. dark miso
+- 1 Tbs. sugar
+- 1 Tbs. mirin (sweet Japanese cooking wine)
+- 1/2 tsp. grated ginger
+- 1/2 tsp. grated garlic
+- 1/2 tsp. sesame oil
+- Pinch cayenne pepper
+- 3/4 lb. flank steak, trimmed
+- 1/2 stalk celery, trimmed
+- 1/2 Japanese cucumber
+- 1/4 carrot, peeled
+- 1 medium tomato
+- 1 1/2 tsp. cilantro leaves
+- 1 1/2 tsp. mint leaves
+- 1/2 tsp. peeled and chopped ginger
+- 1/2 tsp. minced garlic
+- Pinch red-chile flakes
+- 1/2 cup rice-wine vinegar
+- 2 Tbs. sugar
+- 2 Tbs. soy sauce
+- 1 1/2 tsp. Dijon mustard
+- 1 1/2 tsp. sesame oil
+- 2 Tbs. corn oil
+- 4 large radicchio leaves
+- 1 1/2 cups mixed baby lettuce
+- 8 cilantro sprigs
+- 2 tsp. sesame seeds
+- 1/2 oz. vermicelli-size rice noodles, deep fried (optional)
 
 *** = component recipe
 
 ## Directions
 
-1. To make the filling, rinse and drain the greens, removing any large stems. In a large pot, bring to a boil 3 qt. water and season well with salt. Add the greens and cook just until wilted, about 4 min. Drain and then rinse under cold water until cooled. Squeeze out as much excess water as possible. Chop fine.
-2. Put the greens in a large bowl and add the basil, borage, marjoram, garlic, cheeses, eggs, and bread crumbs. Mix well and season with salt, pepper, and freshly ground nutmeg. Refrigerate at least 20 min.
-3. To prepare the sauce, grind the walnuts and pine nuts fine in a large mortar and pestle or a food processor. Add the garlic and mash or process until well blended. Add the Parmesan and parsley and blend well.
-4. Transfer the mixture to a medium-size bowl. Add the butter, heavy cream, and olive oil and stir until smooth. Season with salt and pepper.
-5. To finish, trim a ribbon of dough to 4 inches wide. Fold the bottom corner up and cut along the vertical leg of the triangle you've created.
-6. Unfold and cut the square diagonally to make two triangles.
-7. Place a teaspoon of the filling in the center of each triangle. Fold the triangle in half, bringing the two ends of the longest side together. Press to seal all around.
-8. Cook in plenty of well-salted water. Gently toss cooked pasta in the prepared sauce, and serve immediately.
+1. Combine the marinade ingredients in a bowl and whisk.
+2. Holding the knife at a 30° angle, slice the flank steak across the grain into 4 equal pieces. Pound with a toothed meat mallet to tenderize.
+3. Marinate 3 hours.
+4. To make the vinaigrette, puree all the ingredients in a blender.
+5. Grill the flank steak until medium rare, about 5 min. total.
+6. Slice the cucumber and carrot in half lengthwise, and then cut them and the celery diagonally into pieces 1/8 in. thick by 3 in. long. (Do not cut the celery in half first.) Cut the tomato into 8 wedges.
+7. Slice the steak crosswise into 1/2-in. strips. Mix the beef and cut vegetables in a large bowl and toss with the vinaigrette.
+8. To assemble, place a radicchio leaf on each plate to form an open cup. Put the lettuce in the radicchio cup and top with the salad.
+9. Garnish with cilantro sprigs, a sprinkling of sesame seeds, and the fried rice noodle if desired.
 
 ## Metadata
 
-- **Dish Type:** main dish (vegetable)
-- **Culture:** Italian
-- **Difficulty:** challenging
+- **Dish Type:** salad
+- **Culture:** Japanese
+- **Difficulty:** moderate
 - **Occasion:** entertaining
 
 ## Keywords
 
-handmade pasta, ravioli, Ligurian, walnut sauce, greens
+make-ahead marinade, grilled flank steak, miso marinade
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 24
+Fine Cooking Issue 1 (March 1994), page 58

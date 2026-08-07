@@ -1,101 +1,105 @@
 ---
 ingredients:
-  - full: "2 chickens, 2 1/2 to 3 lb. each"
-    base: "chicken"
+  - full: "2 carrots"
+    base: "carrot"
     unit: ""
     quantity: "2"
     prep: ""
     component: false
-  - full: "1/4 cup Creole Seasoning Mix, p. 44"
-    base: "Creole Seasoning Mix"
+  - full: "8 slices ginger, 1/8-in. thick"
+    base: "ginger"
+    unit: ""
+    quantity: "8"
+    prep: "sliced, 1/8-in. thick"
+    component: false
+  - full: "1/2 lb. snow peas"
+    base: "snow peas"
+    unit: "lb"
+    quantity: "1/2"
+    prep: ""
+    component: false
+  - full: "2 scallions"
+    base: "scallion"
+    unit: ""
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "2 lb. pork tenderloin"
+    base: "pork tenderloin"
+    unit: "lb"
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "1/3 cup peanut oil"
+    base: "peanut oil"
+    unit: "cup"
+    quantity: "1/3"
+    prep: ""
+    component: false
+  - full: "4 cloves garlic"
+    base: "garlic"
+    unit: ""
+    quantity: "4"
+    prep: ""
+    component: false
+  - full: "2 Tbs. white wine"
+    base: "white wine"
+    unit: "tbsp"
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "1/4 cup soy sauce"
+    base: "soy sauce"
     unit: "cup"
     quantity: "1/4"
     prep: ""
-    component: true
-  - full: "3 Tbs. olive oil"
-    base: "olive oil"
-    unit: "tbsp"
-    quantity: "3"
-    prep: ""
     component: false
-  - full: "2 red peppers, diced fine"
-    base: "red pepper"
-    unit: ""
-    quantity: "2"
-    prep: "diced fine"
-    component: false
-  - full: "8 medium onion, diced fine"
-    base: "onion"
-    unit: ""
-    quantity: "8"
-    prep: "diced fine"
-    component: false
-  - full: "2 tsp. red-wine vinegar"
-    base: "red wine vinegar"
-    unit: "tsp"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1 Tbs. honey"
-    base: "honey"
-    unit: "tbsp"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1 Tbs. Worcestershire sauce"
-    base: "worcestershire sauce"
-    unit: "tbsp"
-    quantity: "1"
-    prep: ""
-    component: false
-dish_type: "main dish (poultry)"
-culture: "Creole"
+dish_type: "main dish (meat)"
+culture: "Chinese"
 difficulty: "moderate"
-occasion: "entertaining"
+occasion: "weeknight"
 keywords:
-  - "roast chicken"
-  - "sweet-spicy sauce"
-  - "wine pairing"
-  - "Louisiana cuisine"
+  - "stir-fry"
+  - "quick-cooking"
+  - "julienne technique"
 ---
-# Roasted Chicken with Honey Red-Pepper Sauce
+# Stir-Fried Pork Tenderloin with Snow Peas, Carrots, and Ginger Julienne
 
-Creole Seasoning Mix and olive oil give this version a crusty, deliciously flavored skin. We suggest a pinot noir with this dish. You might not normally think of red wine with chicken, but it often works well. In this case, the chicken is fairly highly seasoned and served with an intense sauce. The fruitiness and spiciness of pinot noir echo the same qualities in the sauce. You wouldn't want to serve just any red: a merlot or cabernet, for instance, would overpower the chicken. Serves eight.
+You can use the recipe as is or as a guide, substituting as you like-perhaps chicken instead of pork or mushrooms and red peppers for the vegetables. I like to add a julienne of shiitake mushrooms, tossing them in with the rest of the vegetables. I like red wine with pork, but nothing too heavy. A light pinot noir would be my choice over a heavier cabernet or even a medium-weight merlot. Serves four.
 
 ## Ingredients
 
-- 2 chickens, 2 1/2 to 3 lb. each
-- 1/4 cup Creole Seasoning Mix, p. 44 ***
-- 3 Tbs. olive oil
-- 2 red peppers, diced fine
-- 8 medium onion, diced fine
-- 2 tsp. red-wine vinegar
-- 1 Tbs. honey
-- 1 Tbs. Worcestershire sauce
+- 2 carrots
+- 8 slices ginger, 1/8-in. thick
+- 1/2 lb. snow peas
+- 2 scallions
+- 2 lb. pork tenderloin
+- 1/3 cup peanut oil
+- 4 cloves garlic
+- 2 Tbs. white wine
+- 1/4 cup soy sauce
 
 *** = component recipe
 
 ## Directions
 
-1. Heat the oven to 425°F.
-2. Season the chickens inside and out with all but 1 tsp. of the Creole Seasoning, then rub with 2 Tbs. of the oil.
-3. Put the chickens in the oven. After 10 min., reduce the heat to 350°F. Continue cooking until the skin is golden brown and the meat is just done, about 50 min. longer. Remove and let rest.
-4. Meanwhile, cook the red pepper and onion gently in the remaining 1 Tbs. of the oil in a covered frying pan until soft but not browned, about 15 min. Set aside.
-5. When the chicken is done, skim the excess fat from the roasting-pan juices and add the pepper mixture to the pan. Heat, scraping up any cooked-on drippings with a wooden spatula.
-6. Whisk in the vinegar, honey, Worcestershire sauce, and reserved Creole Seasoning to taste.
-7. Cut each chicken into four serving pieces and serve with the sauce.
+1. Cut the carrots into strips 1/8 in. in diameter and 2 in. long. Bring a small pan of water to a boil, add salt and the carrot julienne, and boil until just barely tender. Drain and set aside.
+2. Cut 8 slices of ginger on the diagonal to make them as large as possible, then cut into 1/8-in. strips. Snap off the stems from the snow peas and remove the string. Chop the scallions, including some of the green top. Cut the pork into thin slices and then into 1/4-in. strips.
+3. Heat the oil in a frying pan over high heat. Add the pork and stir while cooking.
+4. After 1 min., add the blanched carrots, the snow peas, and the ginger. Stir and cook for another couple of minutes.
+5. Add the scallions and garlic and then the wine and soy sauce.
 
 ## Metadata
 
-- **Dish Type:** main dish (poultry)
-- **Culture:** Creole
+- **Dish Type:** main dish (meat)
+- **Culture:** Chinese
 - **Difficulty:** moderate
-- **Occasion:** entertaining
+- **Occasion:** weeknight
 
 ## Keywords
 
-roast chicken, sweet-spicy sauce, wine pairing, Louisiana cuisine
+stir-fry, quick-cooking, julienne technique
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 47
+Fine Cooking Issue 1 (March 1994), page 54

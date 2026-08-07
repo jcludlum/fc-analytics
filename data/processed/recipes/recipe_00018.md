@@ -1,100 +1,123 @@
 ---
 ingredients:
-  - full: "2 lb. beef ribs, cut into 2-in. pieces"
-    base: "beef ribs"
-    unit: "lb"
-    quantity: "2"
-    prep: "cut into 2-in. pieces"
-    component: false
-  - full: "2 lb. pork ribs, cut into 2-in. pieces"
-    base: "pork ribs"
-    unit: "lb"
-    quantity: "2"
-    prep: "cut into 2-in. pieces"
-    component: false
-  - full: "Salt"
-    base: "salt"
-    unit: ""
-    quantity: ""
+  - full: "4 tsp. red-wine vinegar"
+    base: "red-wine vinegar"
+    unit: "tsp"
+    quantity: "4"
     prep: ""
     component: false
-  - full: "1/2 head of garlic"
+  - full: "1/4 tsp. salt"
+    base: "salt"
+    unit: "tsp"
+    quantity: "1/4"
+    prep: ""
+    component: false
+  - full: "1/4 tsp. pepper"
+    base: "pepper"
+    unit: "tsp"
+    quantity: "1/4"
+    prep: ""
+    component: false
+  - full: "1 clove garlic"
     base: "garlic"
     unit: ""
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "1/2 cup olive oil"
+    base: "olive oil"
+    unit: "cup"
     quantity: "1/2"
     prep: ""
     component: false
-  - full: "1 recipe Mexican Red-Chile Sauce, above"
-    base: "Mexican Red-Chile Sauce"
+  - full: "2 heads radicchio"
+    base: "radicchio"
     unit: ""
-    quantity: "1"
-    prep: ""
-    component: true
-  - full: "2 Tbs. vegetable oil"
-    base: "vegetable oil"
-    unit: "tbsp"
     quantity: "2"
     prep: ""
     component: false
-  - full: "1 Tbs. white vinegar"
-    base: "white vinegar"
-    unit: "tbsp"
-    quantity: "1"
+  - full: "2 heads frisee"
+    base: "frisee"
+    unit: ""
+    quantity: "2"
     prep: ""
     component: false
-  - full: "1/2 tsp. dried oregano"
-    base: "oregano"
+  - full: "24 medium shiitake mushrooms"
+    base: "shiitake mushrooms"
+    unit: ""
+    quantity: "24"
+    prep: ""
+    component: false
+  - full: "3 Tbs. olive oil"
+    base: "olive oil"
+    unit: "tbsp"
+    quantity: "3"
+    prep: ""
+    component: false
+  - full: "1/2 tsp. salt"
+    base: "salt"
     unit: "tsp"
     quantity: "1/2"
-    prep: "dried"
+    prep: ""
     component: false
-dish_type: "main dish (meat)"
-culture: "Mexican"
-difficulty: "moderate"
-occasion: "everyday"
+  - full: "1/4 tsp. pepper"
+    base: "pepper"
+    unit: "tsp"
+    quantity: "1/4"
+    prep: ""
+    component: false
+dish_type: "salad"
+culture: "American"
+difficulty: "easy"
+occasion: "entertaining"
 keywords:
-  - "pork ribs"
-  - "beef ribs"
-  - "pressure cooker option"
-  - "vinegar"
-  - "spicy stew"
-  - "adobo"
+  - "grilled mushrooms"
+  - "shiitake"
+  - "garlic vinaigrette"
+  - "first course"
 ---
-# Carne en Adobo (Spicy meat stew)
+# Grilled-Mushroom Salad
 
-This stew is best when made from well-marbled cuts of meat, like country-style pork ribs or short ribs of beef. I top the adobo with onion slices and serve it with rice and tortillas or bread. Serves four.
+Almost any kind of mushroom can be substituted for the shiitake in this salad, and the greens can be varied, too. Try Belgian endive, romaine, or mixed baby greens. A light wine, such as a sauvignon blanc, will not clash with the vinaigrette. Serves eight.
 
 ## Ingredients
 
-- 2 lb. beef ribs, cut into 2-in. pieces
-- 2 lb. pork ribs, cut into 2-in. pieces
-- Salt
-- 1/2 head of garlic
-- 1 recipe Mexican Red-Chile Sauce, above ***
-- 2 Tbs. vegetable oil
-- 1 Tbs. white vinegar
-- 1/2 tsp. dried oregano
+- 4 tsp. red-wine vinegar
+- 1/4 tsp. salt
+- 1/4 tsp. pepper
+- 1 clove garlic
+- 1/2 cup olive oil
+- 2 heads radicchio
+- 2 heads frisee
+- 24 medium shiitake mushrooms
+- 3 Tbs. olive oil
+- 1/2 tsp. salt
+- 1/4 tsp. pepper
 
 *** = component recipe
 
 ## Directions
 
-1. Put the meat in a pot or pressure cooker, cover with water, and add 1 1/2 tsp. salt. Cut the garlic horizontally so the flesh is exposed and add it to the meat. In a regular pot, bring to a simmer and cook until the meat pulls apart easily, about 1 hour. If using a pressure cooker, seal it and pressurize over high heat, then lower the heat to medium and cook for 35 min.
-2. Make the chile sauce and strain it into a bowl. When the meat is cooked, pour a cup of the meat broth through the same strainer to get more of the chile pulp into the sauce.
-3. Heat the oil in a frying pan over high heat. When the oil is very hot, just before it starts smoking, quickly add the strained chile sauce, being careful not to splatter yourself. Fry over high heat, stirring frequently, for about 5 min.
-4. Add the meat, 1 1/2 cups of the meat broth, vinegar, and oregano. Lower the heat to medium and continue cooking, stirring occasionally, until the sauce is thick, about 20 min. Season with salt to taste.
+1. Whisk the vinegar, salt, and pepper together.
+2. Crush the garlic and add, and then slowly whisk in the oil.
+3. Tear the greens into pieces, wash, and dry.
+4. Cut off the mushroom stems so that they're even with the caps.
+5. Toss the caps with 1 Tbs. oil and half the salt and pepper.
+6. Grill or broil until tender, about 2 min. a side.
+7. Remove from the heat and toss with remaining oil, salt, and pepper.
+8. Toss the greens with the vinaigrette, set the mushrooms on top, and pour over the salad any mushroom juices that have accumulated.
 
 ## Metadata
 
-- **Dish Type:** main dish (meat)
-- **Culture:** Mexican
-- **Difficulty:** moderate
-- **Occasion:** everyday
+- **Dish Type:** salad
+- **Culture:** American
+- **Difficulty:** easy
+- **Occasion:** entertaining
 
 ## Keywords
 
-pork ribs, beef ribs, pressure cooker option, vinegar, spicy stew, adobo
+grilled mushrooms, shiitake, garlic vinaigrette, first course
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 34
+Fine Cooking Issue 1 (March 1994), page 46

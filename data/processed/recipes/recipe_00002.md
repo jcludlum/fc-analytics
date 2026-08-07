@@ -1,17 +1,161 @@
 ---
 ingredients:
-  - full: "2 Tbs. olive oil"
+  - full: "2 lb. mixed greens (beet tops, spinach, watercress, Swiss chard, dandelion)"
+    base: "mixed greens"
+    unit: "lb"
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "Coarse salt (kosher is good)"
+    base: "coarse salt"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "10 large basil leaves, chopped coarse"
+    base: "basil"
+    unit: ""
+    quantity: "10"
+    prep: "chopped coarse"
+    component: false
+  - full: "10 large borage leaves, chopped coarse (optional)"
+    base: "borage"
+    unit: ""
+    quantity: "10"
+    prep: "chopped coarse, optional"
+    component: false
+  - full: "1/4 cup fresh marjoram leaves, chopped coarse"
+    base: "marjoram"
+    unit: "cup"
+    quantity: "1/4"
+    prep: "fresh, chopped coarse"
+    component: false
+  - full: "2 cloves garlic, minced"
+    base: "garlic"
+    unit: ""
+    quantity: "2"
+    prep: "minced"
+    component: false
+  - full: "1/4 cup grated Parmesan cheese"
+    base: "parmesan cheese"
+    unit: "cup"
+    quantity: "1/4"
+    prep: "grated"
+    component: false
+  - full: "1 cup ricotta cheese"
+    base: "ricotta cheese"
+    unit: "cup"
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "2 large eggs"
+    base: "egg"
+    unit: ""
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "1/2 cup fresh bread crumbs"
+    base: "bread crumbs"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "fresh"
+    component: false
+  - full: "Salt"
+    base: "salt"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "pepper"
+    base: "pepper"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "Nutmeg"
+    base: "nutmeg"
+    unit: ""
+    quantity: ""
+    prep: ""
+    component: false
+  - full: "3 cups unbleached flour"
+    base: "flour"
+    unit: "cup"
+    quantity: "3"
+    prep: ""
+    component: false
+  - full: "3 large eggs"
+    base: "egg"
+    unit: ""
+    quantity: "3"
+    prep: ""
+    component: false
+  - full: "1 Tbs. extra-virgin olive oil"
+    base: "olive oil"
+    unit: "tbsp"
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "1/2 tsp. salt"
+    base: "salt"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: ""
+    component: false
+  - full: "1/2 cup cold water (or equal parts water and dry white wine)"
+    base: "water"
+    unit: "cup"
+    quantity: "1/2"
+    prep: "cold"
+    component: false
+  - full: "1 1/2 cups walnuts"
+    base: "walnuts"
+    unit: "cup"
+    quantity: "1 1/2"
+    prep: ""
+    component: false
+  - full: "1/2 cup pine nuts"
+    base: "pine nuts"
+    unit: "cup"
+    quantity: "1/2"
+    prep: ""
+    component: false
+  - full: "1 clove garlic"
+    base: "garlic"
+    unit: ""
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "3/4 cup grated Parmesan cheese"
+    base: "parmesan cheese"
+    unit: "cup"
+    quantity: "3/4"
+    prep: "grated"
+    component: false
+  - full: "20 sprigs Italian parsley, leaves only"
+    base: "Italian parsley"
+    unit: ""
+    quantity: "20"
+    prep: "leaves only"
+    component: false
+  - full: "1/4 cup unsalted butter, softened"
+    base: "unsalted butter"
+    unit: "cup"
+    quantity: "1/4"
+    prep: "softened"
+    component: false
+  - full: "1 cup heavy cream"
+    base: "heavy cream"
+    unit: "cup"
+    quantity: "1"
+    prep: ""
+    component: false
+  - full: "2 Tbs. extra-virgin olive oil"
     base: "olive oil"
     unit: "tbsp"
     quantity: "2"
     prep: ""
     component: false
-  - full: "3/4 lb. flank steak"
-    base: "flank steak"
-    unit: "lb"
-    quantity: "3/4"
-    prep: ""
-    component: false
   - full: "Salt"
     base: "salt"
     unit: ""
@@ -24,106 +168,76 @@ ingredients:
     quantity: ""
     prep: ""
     component: false
-  - full: "4 oz. cepes, sliced"
-    base: "cepes"
-    unit: "oz"
-    quantity: "4"
-    prep: "sliced"
-    component: false
-  - full: "1/2 cup olive oil"
-    base: "olive oil"
-    unit: "cup"
-    quantity: "1/2"
-    prep: ""
-    component: false
-  - full: "1 1/2 tsp. sherry vinegar"
-    base: "sherry vinegar"
-    unit: "tsp"
-    quantity: "1 1/2"
-    prep: ""
-    component: false
-  - full: "1/4 tsp. garlic, minced"
-    base: "garlic"
-    unit: "tsp"
-    quantity: "1/4"
-    prep: "minced"
-    component: false
-  - full: "Salt"
-    base: "salt"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "pepper"
-    base: "pepper"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "Parmesan"
-    base: "parmesan cheese"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-  - full: "Caper berries"
-    base: "caper berries"
-    unit: ""
-    quantity: ""
-    prep: ""
-    component: false
-dish_type: "appetizer"
-culture: "French-Italian"
-difficulty: "easy"
+dish_type: "main dish (vegetable)"
+culture: "Italian"
+difficulty: "challenging"
 occasion: "entertaining"
 keywords:
-  - "carpaccio"
-  - "seared flank steak"
-  - "wild mushrooms"
-  - "caper berries"
-  - "cabernet sauvignon pairing"
+  - "handmade pasta"
+  - "ravioli"
+  - "Ligurian"
+  - "walnut sauce"
+  - "greens"
 ---
-# Carpaccio of Beef with Marinated Cèpes
+# Pansoti in Salsa di Noci (Ravioli with walnut sauce)
 
-Traditional carpaccio is paper-thin slices of raw beef. We love our version of this dish because searing the flank steak briefly adds a touch of smokiness that's perfect with the Parmesan. Make individual plates or one big plate served family style. If fresh cepes (also called porcini mushrooms) are unavailable, use shiitake, chanterelle, or oyster mushrooms. Caper berries are the fruit of the same plant whose brined flower buds we eat as capers. Look for caper berries at specialty food shops, but if you can't find them, substitute regular capers. With all the flavor in this dish, we like a wine that has a lot of strength of character but softer tannins, such as a cabernet sauvignon. Serves four.
+In Ligurian dialect pansoti means potbellied. Traditionally, the filling is prepared with preboggion, a mixture of wild herbs and greens sold in bundles. A less common but equally authentic version is to use dry white wine as part of the liquid in the pasta. If you want to try this, substitute wine for up to half the amount of water. Serves four.
 
 ## Ingredients
 
-- 2 Tbs. olive oil
-- 3/4 lb. flank steak
+- 2 lb. mixed greens (beet tops, spinach, watercress, Swiss chard, dandelion)
+- Coarse salt (kosher is good)
+- 10 large basil leaves, chopped coarse
+- 10 large borage leaves, chopped coarse (optional)
+- 1/4 cup fresh marjoram leaves, chopped coarse
+- 2 cloves garlic, minced
+- 1/4 cup grated Parmesan cheese
+- 1 cup ricotta cheese
+- 2 large eggs
+- 1/2 cup fresh bread crumbs
 - Salt
 - pepper
-- 4 oz. cepes, sliced
-- 1/2 cup olive oil
-- 1 1/2 tsp. sherry vinegar
-- 1/4 tsp. garlic, minced
+- Nutmeg
+- 3 cups unbleached flour
+- 3 large eggs
+- 1 Tbs. extra-virgin olive oil
+- 1/2 tsp. salt
+- 1/2 cup cold water (or equal parts water and dry white wine)
+- 1 1/2 cups walnuts
+- 1/2 cup pine nuts
+- 1 clove garlic
+- 3/4 cup grated Parmesan cheese
+- 20 sprigs Italian parsley, leaves only
+- 1/4 cup unsalted butter, softened
+- 1 cup heavy cream
+- 2 Tbs. extra-virgin olive oil
 - Salt
 - pepper
-- Parmesan
-- Caper berries
 
 *** = component recipe
 
 ## Directions
 
-1. To prepare the steak, heat 2 Tbs. olive oil in a frying pan until it's smoking hot.
-2. Season the flank steak, then sear for 1 min. each side. Chill the steak thoroughly.
-3. Slice straight down very thin. Arrange on plate and keep cold.
-4. For the mushrooms, clean the pan, then heat 1/2 cup oil and saute the cepes.
-5. Just before they're done, add the garlic and saute another few seconds. Add the vinegar and seasonings. Transfer the mixture to a bowl and cool.
-6. To assemble, place some mushrooms on the center of the carpaccio. With a vegetable peeler, shave Parmesan on top. Add the caper berries.
+1. To make the filling, rinse and drain the greens, removing any large stems. In a large pot, bring to a boil 3 qt. water and season well with salt. Add the greens and cook just until wilted, about 4 min. Drain and then rinse under cold water until cooled. Squeeze out as much excess water as possible. Chop fine.
+2. Put the greens in a large bowl and add the basil, borage, marjoram, garlic, cheeses, eggs, and bread crumbs. Mix well and season with salt, pepper, and freshly ground nutmeg. Refrigerate at least 20 min.
+3. To prepare the sauce, grind the walnuts and pine nuts fine in a large mortar and pestle or a food processor. Add the garlic and mash or process until well blended. Add the Parmesan and parsley and blend well.
+4. Transfer the mixture to a medium-size bowl. Add the butter, heavy cream, and olive oil and stir until smooth. Season with salt and pepper.
+5. To finish, trim a ribbon of dough to 4 inches wide. Fold the bottom corner up and cut along the vertical leg of the triangle you've created.
+6. Unfold and cut the square diagonally to make two triangles.
+7. Place a teaspoon of the filling in the center of each triangle. Fold the triangle in half, bringing the two ends of the longest side together. Press to seal all around.
+8. Cook in plenty of well-salted water. Gently toss cooked pasta in the prepared sauce, and serve immediately.
 
 ## Metadata
 
-- Dish Type: appetizer
-- Culture: French-Italian
-- Difficulty: easy
-- Occasion: entertaining
+- **Dish Type:** main dish (vegetable)
+- **Culture:** Italian
+- **Difficulty:** challenging
+- **Occasion:** entertaining
 
 ## Keywords
 
-carpaccio, seared flank steak, wild mushrooms, caper berries, cabernet sauvignon pairing
+handmade pasta, ravioli, Ligurian, walnut sauce, greens
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 59
+Fine Cooking Issue 1 (March 1994), page 24

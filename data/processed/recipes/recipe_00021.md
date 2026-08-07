@@ -1,105 +1,103 @@
 ---
 ingredients:
-  - full: "2 carrots"
-    base: "carrot"
+  - full: "1-lb. can peeled tomatoes, drained and chopped"
+    base: "tomato"
+    unit: "lb"
+    quantity: "1"
+    prep: "peeled, drained and chopped"
+    component: false
+  - full: "1 green pepper, chopped"
+    base: "green pepper"
     unit: ""
-    quantity: "2"
+    quantity: "1"
+    prep: "chopped"
+    component: false
+  - full: "1 medium onion, chopped"
+    base: "onion"
+    unit: ""
+    quantity: "1"
+    prep: "chopped"
+    component: false
+  - full: "1 lb. eggplant, peeled and cut into 1/8-in. dice"
+    base: "eggplant"
+    unit: "lb"
+    quantity: "1"
+    prep: "peeled and cut into 1/8-in. dice"
+    component: false
+  - full: "1 tsp. Creole Seasoning Mix, p. 44"
+    base: "Creole Seasoning Mix"
+    unit: "tsp"
+    quantity: "1"
+    prep: ""
+    component: true
+  - full: "1 1/2 tsp. Worcestershire sauce"
+    base: "worcestershire sauce"
+    unit: "tsp"
+    quantity: "1 1/2"
     prep: ""
     component: false
-  - full: "8 slices ginger, 1/8-in. thick"
-    base: "ginger"
-    unit: ""
-    quantity: "8"
-    prep: "sliced, 1/8-in. thick"
+  - full: "1 1/2 tsp. hot red-pepper sauce"
+    base: "hot red-pepper sauce"
+    unit: "tsp"
+    quantity: "1 1/2"
+    prep: ""
     component: false
-  - full: "1/2 lb. snow peas"
-    base: "snow peas"
-    unit: "lb"
+  - full: "1/2 cup chicken stock"
+    base: "chicken stock"
+    unit: "cup"
     quantity: "1/2"
     prep: ""
     component: false
-  - full: "2 scallions"
-    base: "scallion"
-    unit: ""
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "2 lb. pork tenderloin"
-    base: "pork tenderloin"
-    unit: "lb"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1/3 cup peanut oil"
-    base: "peanut oil"
-    unit: "cup"
-    quantity: "1/3"
-    prep: ""
-    component: false
-  - full: "4 cloves garlic"
-    base: "garlic"
-    unit: ""
-    quantity: "4"
-    prep: ""
-    component: false
-  - full: "2 Tbs. white wine"
-    base: "white wine"
+  - full: "1 Tbs. chopped fresh basil (or 1 tsp. dried)"
+    base: "basil"
     unit: "tbsp"
-    quantity: "2"
-    prep: ""
+    quantity: "1"
+    prep: "chopped fresh (or 1 tsp. dried)"
     component: false
-  - full: "1/4 cup soy sauce"
-    base: "soy sauce"
-    unit: "cup"
-    quantity: "1/4"
-    prep: ""
-    component: false
-dish_type: "main dish (meat)"
-culture: "Chinese"
-difficulty: "moderate"
-occasion: "weeknight"
+dish_type: "side dish"
+culture: "Creole"
+difficulty: "easy"
+occasion: "everyday"
 keywords:
-  - "stir-fry"
-  - "quick-cooking"
-  - "julienne technique"
+  - "ratatouille"
+  - "one-pot"
+  - "make-ahead"
+  - "served warm or cold"
 ---
-# Stir-Fried Pork Tenderloin with Snow Peas, Carrots, and Ginger Julienne
+# Creole Ratatouille
 
-You can use the recipe as is or as a guide, substituting as you like-perhaps chicken instead of pork or mushrooms and red peppers for the vegetables. I like to add a julienne of shiitake mushrooms, tossing them in with the rest of the vegetables. I like red wine with pork, but nothing too heavy. A light pinot noir would be my choice over a heavier cabernet or even a medium-weight merlot. Serves four.
+Ratatouille is too good to reserve for the summertime. Make this well ahead of serving if you like. Our Creole version is extra-easy to make, and it's equally good warm or cold. Makes about 5 cups.
 
 ## Ingredients
 
-- 2 carrots
-- 8 slices ginger, 1/8-in. thick
-- 1/2 lb. snow peas
-- 2 scallions
-- 2 lb. pork tenderloin
-- 1/3 cup peanut oil
-- 4 cloves garlic
-- 2 Tbs. white wine
-- 1/4 cup soy sauce
+- 1-lb. can peeled tomatoes, drained and chopped
+- 1 green pepper, chopped
+- 1 medium onion, chopped
+- 1 lb. eggplant, peeled and cut into 1/8-in. dice
+- 1 tsp. Creole Seasoning Mix, p. 44 ***
+- 1 1/2 tsp. Worcestershire sauce
+- 1 1/2 tsp. hot red-pepper sauce
+- 1/2 cup chicken stock
+- 1 Tbs. chopped fresh basil (or 1 tsp. dried)
 
 *** = component recipe
 
 ## Directions
 
-1. Cut the carrots into strips 1/8 in. in diameter and 2 in. long. Bring a small pan of water to a boil, add salt and the carrot julienne, and boil until just barely tender. Drain and set aside.
-2. Cut 8 slices of ginger on the diagonal to make them as large as possible, then cut into 1/8-in. strips. Snap off the stems from the snow peas and remove the string. Chop the scallions, including some of the green top. Cut the pork into thin slices and then into 1/4-in. strips.
-3. Heat the oil in a frying pan over high heat. Add the pork and stir while cooking.
-4. After 1 min., add the blanched carrots, the snow peas, and the ginger. Stir and cook for another couple of minutes.
-5. Add the scallions and garlic and then the wine and soy sauce.
+1. Put all the ingredients in a saucepan and simmer until the vegetables are tender, about 20 min.
+2. Taste and add salt as needed.
 
 ## Metadata
 
-- **Dish Type:** main dish (meat)
-- **Culture:** Chinese
-- **Difficulty:** moderate
-- **Occasion:** weeknight
+- **Dish Type:** side dish
+- **Culture:** Creole
+- **Difficulty:** easy
+- **Occasion:** everyday
 
 ## Keywords
 
-stir-fry, quick-cooking, julienne technique
+ratatouille, one-pot, make-ahead, served warm or cold
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 54
+Fine Cooking Issue 1 (March 1994), page 47

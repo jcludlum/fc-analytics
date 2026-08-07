@@ -1,92 +1,114 @@
 ---
 ingredients:
-  - full: "4 egg yolks"
-    base: "egg yolk"
-    unit: ""
-    quantity: "4"
-    prep: ""
-    component: false
-  - full: "3 Tbs. sugar"
-    base: "sugar"
-    unit: "tbsp"
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "1/2 to 3/4 cup cooled caramel sauce (see recipe above)"
-    base: "Caramel Sauce"
-    unit: "cup"
-    quantity: "1/2 to 3/4"
-    prep: "cooled"
-    component: true
-  - full: "2 tsp. gelatin powder"
-    base: "gelatin"
-    unit: "tsp"
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "3 Tbs. orange juice (juice of 1 medium orange)"
-    base: "orange juice"
-    unit: "tbsp"
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "3 egg whites (or 3* oz. pasteurized egg whites)"
-    base: "egg white"
-    unit: ""
-    quantity: "3"
-    prep: ""
-    component: false
-  - full: "1 1/2 cups heavy cream"
-    base: "heavy cream"
-    unit: "cup"
+  - full: "1 1/2 lb. chicken pieces"
+    base: "chicken"
+    unit: "lb"
     quantity: "1 1/2"
     prep: ""
     component: false
-dish_type: "dessert"
-culture: "French"
-difficulty: "challenging"
-occasion: "entertaining"
+  - full: "2 cloves garlic"
+    base: "garlic"
+    unit: ""
+    quantity: "2"
+    prep: ""
+    component: false
+  - full: "1 onion, quartered"
+    base: "onion"
+    unit: ""
+    quantity: "1"
+    prep: "quartered"
+    component: false
+  - full: "1/2 tsp. salt"
+    base: "salt"
+    unit: "tsp"
+    quantity: "1/2"
+    prep: ""
+    component: false
+  - full: "12 corn tortillas"
+    base: "corn tortillas"
+    unit: ""
+    quantity: "12"
+    prep: ""
+    component: false
+  - full: "1/4 cup vegetable oil"
+    base: "vegetable oil"
+    unit: "cup"
+    quantity: "1/4"
+    prep: ""
+    component: false
+  - full: "1 recipe Mexican Red-Chile Sauce, above"
+    base: "Mexican Red-Chile Sauce"
+    unit: ""
+    quantity: "1"
+    prep: ""
+    component: true
+  - full: "1 onion, sliced"
+    base: "onion"
+    unit: ""
+    quantity: "1"
+    prep: "sliced"
+    component: false
+  - full: "1/3 cup cheese (queso anejo, queso fresco, farmer cheese, feta, or mild Parmesan), grated or crumbled"
+    base: "cheese"
+    unit: "cup"
+    quantity: "1/3"
+    prep: "grated or crumbled"
+    component: false
+  - full: "1/2 cup thick or sour cream"
+    base: "sour cream"
+    unit: "cup"
+    quantity: "1/2"
+    prep: ""
+    component: false
+dish_type: "main dish (poultry)"
+culture: "Mexican"
+difficulty: "moderate"
+occasion: "everyday"
 keywords:
-  - "gelatin-set mousse"
-  - "meringue"
-  - "make-ahead dessert"
-  - "freezer-friendly"
+  - "shredded chicken"
+  - "corn tortillas"
+  - "chile-coated tortillas"
+  - "queso fresco"
+  - "make-ahead"
 ---
-# Caramel Mousse
+# Chicken Enchiladas
 
-Be sure the caramel sauce you use in this mousse has a deep, rich, fully developed flavor. For a different flavor, you can use honey or maple syrup in place of the caramel sauce. This mousse can also be frozen. Simply defrost it overnight in the refrigerator and use as needed. Serves four.
+Poached, shredded chicken is a popular filling for enchiladas, and my favorite. Shrimp, pork, and beef also taste wonderful wrapped in the chile-coated tortillas. Serves four.
 
 ## Ingredients
 
-- 4 egg yolks
-- 3 Tbs. sugar
-- 1/2 to 3/4 cup cooled caramel sauce (see recipe above) ***
-- 2 tsp. gelatin powder
-- 3 Tbs. orange juice (juice of 1 medium orange)
-- 3 egg whites (or 3* oz. pasteurized egg whites)
-- 1 1/2 cups heavy cream
+- 1 1/2 lb. chicken pieces
+- 2 cloves garlic
+- 1 onion, quartered
+- 1/2 tsp. salt
+- 12 corn tortillas
+- 1/4 cup vegetable oil
+- 1 recipe Mexican Red-Chile Sauce, above ***
+- 1 onion, sliced
+- 1/3 cup cheese (queso anejo, queso fresco, farmer cheese, feta, or mild Parmesan), grated or crumbled
+- 1/2 cup thick or sour cream
 
 *** = component recipe
 
 ## Directions
 
-1. Whip together the yolks, 2 Tbs. sugar, and 1/2 cup caramel sauce, or more to taste, over hot but not boiling water until hot and thick, about 10 min. The mixture should leave a thin ribbon trail when you raise the whisk. (To cook the yolks properly, the mixture should reach at least 165°F.)
-2. Remove from heat and continue beating until lukewarm.
-3. Combine the orange juice and the gelatin in a small stainless-steel bowl. Let the mixture stand for 5 min. and then melt over hot water, bringing the mixture to about 100°. Let cool slightly.
-4. Prepare a meringue by combining the egg whites and 1 Tbs. sugar and whipping this mixture to medium-stiff peaks—until peaks fall over just slightly. Whip the cream to medium stiff.
-5. To assemble the mousse, fold the slightly warm gelatin mixture into the egg-yolk mixture, then fold in the meringue, and finally fold in the whipped cream. Refrigerate at least 2 hours.
+1. Put the chicken pieces in a saucepan, cover with water, and add the garlic, half the onion, and the salt. Bring to a boil, then lower the heat and simmer until the chicken is firm, about 20 min. Remove the chicken from the water and let it cool.
+2. When the chicken is cool enough to handle, tear the meat off the bones and pull it apart along the grain into long, thin strands.
+3. Let the tortillas sit out on the counter for a few minutes until they become leathery, which prevents them from absorbing too much oil. Heat the oil in a small frying pan over medium-high heat and fry the tortillas in the oil until they become soft and pliable, just a few seconds — if fried too long they will become crisp and break when rolled. Drain the fried tortillas on a paper towel.
+4. Prepare the red-chile sauce, thin it with 1/2 to 1 cup of water, and heat it in a frying pan. Dip a fried tortilla into the sauce, coating both sides — don't leave it in too long or it will get mushy. Place the tortilla on a plate or nonstaining work surface, put a 1-in. band of chicken on it, and roll it into a cylinder. Repeat with the rest of the tortillas.
+5. Serve the enchiladas on a serving platter or directly on a dinner plate, seam-side down. Three or four enchiladas make a good-size serving. They can be made ahead and reheated, covered with foil, for about 15 min. in a 350°F oven. Top with raw onion slices, cheese, and thick or sour cream. If the onion is sharp, soak the slices in water for 5 min. before serving.
 
 ## Metadata
 
-- Dish Type: dessert
-- Culture: French
-- Difficulty: challenging
-- Occasion: entertaining
+- **Dish Type:** main dish (poultry)
+- **Culture:** Mexican
+- **Difficulty:** moderate
+- **Occasion:** everyday
 
 ## Keywords
 
-gelatin-set mousse, meringue, make-ahead dessert, freezer-friendly
+shredded chicken, corn tortillas, chile-coated tortillas, queso fresco, make-ahead
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 39
+Fine Cooking Issue 1 (March 1994), page 33

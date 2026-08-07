@@ -1,106 +1,46 @@
 ---
 ingredients:
-  - full: "1 lb. eggplant, peeled and cut into 1/2-in. slices"
-    base: "eggplant"
-    unit: "lb"
-    quantity: "1"
-    prep: "peeled and cut into 1/2-in. slices"
+  - full: "3 Tbs. fresh ginger in 1/8-in. dice"
+    base: "ginger"
+    unit: "tbsp"
+    quantity: "3"
+    prep: "diced, 1/8-in."
     component: false
-  - full: "Coarse salt (kosher is good)"
-    base: "coarse salt"
+  - full: "16 wonton wrappers"
+    base: "wonton wrappers"
     unit: ""
-    quantity: ""
+    quantity: "16"
     prep: ""
     component: false
-  - full: "1 1/2 cups vegetable oil"
-    base: "vegetable oil"
-    unit: "cup"
-    quantity: "1 1/2"
+  - full: "3 oz. crabmeat"
+    base: "crabmeat"
+    unit: "oz"
+    quantity: "3"
     prep: ""
     component: false
-  - full: "1/4 cup walnuts"
-    base: "walnuts"
-    unit: "cup"
-    quantity: "1/4"
-    prep: ""
-    component: false
-  - full: "1 1/2 cups ricotta cheese"
-    base: "ricotta cheese"
-    unit: "cup"
-    quantity: "1 1/2"
-    prep: ""
-    component: false
-  - full: "1/2 cup grated Fiore Sardo cheese"
-    base: "Fiore Sardo cheese"
-    unit: "cup"
-    quantity: "1/2"
-    prep: "grated"
-    component: false
-  - full: "1/2 cup grated Pecorino Romano cheese"
-    base: "Pecorino Romano cheese"
-    unit: "cup"
-    quantity: "1/2"
-    prep: "grated"
-    component: false
-  - full: "2 large eggs"
-    base: "egg"
-    unit: ""
+  - full: "2 oz. fresh chèvre cheese"
+    base: "chèvre cheese"
+    unit: "oz"
     quantity: "2"
     prep: ""
     component: false
-  - full: "1 large egg yolk"
-    base: "egg yolk"
+  - full: "1/2 head Chinese cabbage, about 1/2 lb."
+    base: "Chinese cabbage"
     unit: ""
-    quantity: "1"
+    quantity: "1/2"
     prep: ""
     component: false
-  - full: "5 large basil leaves, chopped coarse"
-    base: "basil"
-    unit: ""
-    quantity: "5"
-    prep: "chopped coarse"
-    component: false
-  - full: "10 mint leaves, chopped coarse"
-    base: "mint"
-    unit: ""
-    quantity: "10"
-    prep: "chopped coarse"
-    component: false
-  - full: "10 sprigs Italian parsley, leaves only, chopped coarse"
-    base: "Italian parsley"
-    unit: ""
-    quantity: "10"
-    prep: "leaves only, chopped coarse"
-    component: false
-  - full: "Pepper"
-    base: "pepper"
-    unit: ""
-    quantity: ""
+  - full: "6 oz. shiitake mushrooms"
+    base: "shiitake mushrooms"
+    unit: "oz"
+    quantity: "6"
     prep: ""
     component: false
-  - full: "2 lb. Italian plum tomatoes, chopped"
-    base: "Italian plum tomatoes"
-    unit: "lb"
-    quantity: "2"
-    prep: "chopped"
-    component: false
-  - full: "1/4 cup extra-virgin olive oil"
-    base: "olive oil"
-    unit: "cup"
-    quantity: "1/4"
+  - full: "3 Tbs. peanut oil"
+    base: "peanut oil"
+    unit: "tbsp"
+    quantity: "3"
     prep: ""
-    component: false
-  - full: "1 clove garlic, mashed"
-    base: "garlic"
-    unit: ""
-    quantity: "1"
-    prep: "mashed"
-    component: false
-  - full: "5 large basil leaves, chopped coarse"
-    base: "basil"
-    unit: ""
-    quantity: "5"
-    prep: "chopped coarse"
     component: false
   - full: "Salt"
     base: "salt"
@@ -114,145 +54,116 @@ ingredients:
     quantity: ""
     prep: ""
     component: false
-  - full: "2 cups unbleached flour"
-    base: "flour"
-    unit: "cup"
+  - full: "6 Tbs. white wine"
+    base: "white wine"
+    unit: "tbsp"
+    quantity: "6"
+    prep: ""
+    component: false
+  - full: "7 Tbs. chopped shallot"
+    base: "shallot"
+    unit: "tbsp"
+    quantity: "7"
+    prep: "chopped"
+    component: false
+  - full: "1/2 lb. cold butter"
+    base: "butter"
+    unit: "lb"
+    quantity: "1/2"
+    prep: ""
+    component: false
+  - full: "1 1/2 tsp. ginger juice, or more, to taste"
+    base: "ginger juice"
+    unit: "tsp"
+    quantity: "1 1/2"
+    prep: ""
+    component: false
+  - full: "2 Tbs. sesame-seed oil"
+    base: "sesame oil"
+    unit: "tbsp"
     quantity: "2"
     prep: ""
     component: false
-  - full: "1 cup fine semolina flour"
-    base: "semolina flour"
-    unit: "cup"
-    quantity: "1"
-    prep: "fine"
-    component: false
-  - full: "4 large egg yolks"
-    base: "egg yolk"
+  - full: "8 leaves red-oak or other leaf lettuce"
+    base: "leaf lettuce"
     unit: ""
+    quantity: "8"
+    prep: ""
+    component: false
+  - full: "8 edible flowers (optional)"
+    base: "edible flowers"
+    unit: ""
+    quantity: "8"
+    prep: ""
+    component: false
+  - full: "4 tsp. salmon caviar (optional)"
+    base: "salmon caviar"
+    unit: "tsp"
     quantity: "4"
     prep: ""
     component: false
-  - full: "1/2 tsp. saffron threads, ground in a mortar"
-    base: "saffron threads"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: "ground in a mortar"
-    component: false
-  - full: "1/2 cup warm water"
-    base: "water"
-    unit: "cup"
-    quantity: "1/2"
-    prep: "warm"
-    component: false
-  - full: "1/4 tsp. table salt"
-    base: "table salt"
-    unit: "tsp"
-    quantity: "1/4"
-    prep: ""
-    component: false
-  - full: "5 large basil leaves, chopped coarse"
-    base: "basil"
-    unit: ""
-    quantity: "5"
-    prep: "chopped coarse"
-    component: false
-  - full: "5 large mint leaves, chopped coarse"
-    base: "mint"
-    unit: ""
-    quantity: "5"
-    prep: "chopped coarse"
-    component: false
-  - full: "10 sprigs Italian parsley, leaves only, chopped coarse"
-    base: "Italian parsley"
-    unit: ""
-    quantity: "10"
-    prep: "leaves only, chopped coarse"
-    component: false
-  - full: "1/2 cup grated Fiore Sardo cheese"
-    base: "Fiore Sardo cheese"
-    unit: "cup"
-    quantity: "1/2"
-    prep: "grated"
-    component: false
-  - full: "1/2 cup grated Pecorino Romano cheese"
-    base: "Pecorino Romano cheese"
-    unit: "cup"
-    quantity: "1/2"
-    prep: "grated"
-    component: false
-dish_type: "main dish (vegetable)"
-culture: "Italian"
+dish_type: "appetizer"
+culture: "Asian-French fusion"
 difficulty: "challenging"
 occasion: "entertaining"
 keywords:
-  - "handmade pasta"
-  - "ravioli"
-  - "Sardinian"
-  - "eggplant"
+  - "hand-folded wontons"
+  - "beurre blanc technique"
+  - "elegant plating"
 ---
-# Culingiones or Ravioli di Melanzane (Eggplant-stuffed ravioli)
+# Crab & Chèvre Wontons with Ginger-Butter Sauce
 
-I first encountered this dish in a Sardinian cooking class taught by Giuliano Bugialli. Due to the diverse ancient cultures that occupied Sardinia, there are many different spellings for these ravioli, and certainly as many variations in how they're made. This recipe, from my friend Gianna Rosetti, whose family is from Sardinia, uses ricotta cheese and ground walnuts in the stuffing. Serves four.
+You won't believe how well crabmeat, goat cheese, and ginger go together until you try these wontons. I have special striped wonton wrappers made for the restaurant, but the plain ones you can buy at the grocery store are fine. I offer this serving size as an appetizer, but people often split an order. Match the butter sauce and strong flavors in this dish with a buttery, full-flavored chardonnay. Serves four.
 
 ## Ingredients
 
-- 1 lb. eggplant, peeled and cut into 1/2-in. slices
-- Coarse salt (kosher is good)
-- 1 1/2 cups vegetable oil
-- 1/4 cup walnuts
-- 1 1/2 cups ricotta cheese
-- 1/2 cup grated Fiore Sardo cheese
-- 1/2 cup grated Pecorino Romano cheese
-- 2 large eggs
-- 1 large egg yolk
-- 5 large basil leaves, chopped coarse
-- 10 mint leaves, chopped coarse
-- 10 sprigs Italian parsley, leaves only, chopped coarse
-- Pepper
-- 2 lb. Italian plum tomatoes, chopped
-- 1/4 cup extra-virgin olive oil
-- 1 clove garlic, mashed
-- 5 large basil leaves, chopped coarse
+- 3 Tbs. fresh ginger in 1/8-in. dice
+- 16 wonton wrappers
+- 3 oz. crabmeat
+- 2 oz. fresh chèvre cheese
+- 1/2 head Chinese cabbage, about 1/2 lb.
+- 6 oz. shiitake mushrooms
+- 3 Tbs. peanut oil
 - Salt
 - pepper
-- 2 cups unbleached flour
-- 1 cup fine semolina flour
-- 4 large egg yolks
-- 1/2 tsp. saffron threads, ground in a mortar
-- 1/2 cup warm water
-- 1/4 tsp. table salt
-- 5 large basil leaves, chopped coarse
-- 5 large mint leaves, chopped coarse
-- 10 sprigs Italian parsley, leaves only, chopped coarse
-- 1/2 cup grated Fiore Sardo cheese
-- 1/2 cup grated Pecorino Romano cheese
+- 6 Tbs. white wine
+- 7 Tbs. chopped shallot
+- 1/2 lb. cold butter
+- 1 1/2 tsp. ginger juice, or more, to taste
+- 2 Tbs. sesame-seed oil
+- 8 leaves red-oak or other leaf lettuce
+- 8 edible flowers (optional)
+- 4 tsp. salmon caviar (optional)
 
 *** = component recipe
 
 ## Directions
 
-1. To make the filling, layer the eggplant slices in a medium-size bowl, sprinkling each layer well with coarse salt. On top of the eggplant, set a plate slightly smaller than the bowl and place a heavy object (like a large can of tomatoes) on the plate. Let stand for 20 min. to extract any bitter juices that may be in the eggplant. Rinse under cold water and pat dry. Cut into 1/2-inch cubes.
-2. In a large frying pan, heat the oil over medium heat until very hot. Add the eggplant and toss constantly with a spoon until well browned. Remove the eggplant from the pan immediately and drain on a double layer of paper towels. Cool completely, and put in a large bowl.
-3. Grind the walnuts fine in a mortar and pestle or food processor. Add the cheeses, walnuts, eggs and egg yolk, basil, mint, and parsley to the eggplant. Mix well and season with pepper. Refrigerate at least 20 min.
-4. To prepare the sauce, heat the oil over a low flame in a saucepan. Add the mashed garlic to the pan and saute briefly, about 1 min. Do not allow the garlic to brown. Add the chopped tomatoes and cook over low heat for 20 min. Add the basil leaves and season well with salt and pepper.
-5. To finish, fold a 4-inch-wide ribbon of dough in half lengthwise to form a crease, then unfold.
-6. Place level tablespoons of the filling an inch apart along one side of the dough.
-7. Fold the dough over to cover and press between each mound with a finger. Use a crimped pastry cutter to cut the filled dough into 2-inch squares.
-8. Gently press the edges of each ravioli to ensure a proper seal.
-9. Cook in plenty of well-salted water.
-10. Chop the herbs coarse. Alternate layers of cooked pasta, sauce, herbs, and cheese.
+1. Dice the ginger. Lay the wonton wrappers on a work surface. Top each one with about 1 tsp. of crab, the same quantity of cheese, and a sprinkling of diced ginger.
+2. Moisten the edges of each wrapper with warm water, fold the wonton in half, and press to seal.
+3. Fold over the longest of the sealed edges, allowing a quarter or half inch, and fold but don't press down.
+4. Twist to join the two corners that aren't folded back. Moisten one of the corners and press the two together.
+5. Blanch the filled wontons in boiling salted water just until they begin to soften, about 2 min. Drain well and spread out on a plate.
+6. Shred the cabbage and cut the shiitakes into thin strips. Over medium heat, saute the vegetables quickly in the peanut oil until they're just barely cooked (you might want to undercook them slightly at this point since they'll be reheated later). Season with salt and pepper.
+7. In a small, heavy saucepan, boil the wine and shallot until the wine has reduced to about 1 tsp.
+8. Over the lowest possible heat, start whisking in the butter 1 Tbs. at a time. As soon as a piece is almost incorporated into the sauce, add another. The butter should soften and form a smooth sauce but not melt completely. Move the pan on and off the heat if necessary to keep the sauce from getting so warm that it melts.
+9. Whisk in the ginger juice and salt and pepper to taste. Set the saucepan in a larger pan of barely warm water so that it doesn't cool off.
+10. Heat the oven to 450°F. In a large frying pan or skillet that can be transferred to the oven, saute the wontons in the sesame-seed oil until golden on both sides.
+11. Put the pan in the oven for 2 min. and reheat the cabbage and mushrooms on the stove.
+12. Arrange the lettuce and flowers on plates. Spoon a strip of cabbage and mushrooms down the center and top with the wontons.
+13. Pour the butter sauce over and around the wontons and garnish with 1 tsp. of salmon caviar in the middle of each plate.
 
 ## Metadata
 
-- **Dish Type:** main dish (vegetable)
-- **Culture:** Italian
+- **Dish Type:** appetizer
+- **Culture:** Asian-French fusion
 - **Difficulty:** challenging
 - **Occasion:** entertaining
 
 ## Keywords
 
-handmade pasta, ravioli, Sardinian, eggplant
+hand-folded wontons, beurre blanc technique, elegant plating
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 24
+Fine Cooking Issue 1 (March 1994), page 55

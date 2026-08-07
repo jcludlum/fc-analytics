@@ -1,114 +1,62 @@
 ---
 ingredients:
-  - full: "1 1/2 lb. chicken pieces"
-    base: "chicken"
-    unit: "lb"
-    quantity: "1 1/2"
-    prep: ""
-    component: false
-  - full: "2 cloves garlic"
-    base: "garlic"
-    unit: ""
-    quantity: "2"
-    prep: ""
-    component: false
-  - full: "1 onion, quartered"
-    base: "onion"
-    unit: ""
-    quantity: "1"
-    prep: "quartered"
-    component: false
-  - full: "1/2 tsp. salt"
-    base: "salt"
-    unit: "tsp"
-    quantity: "1/2"
-    prep: ""
-    component: false
-  - full: "12 corn tortillas"
-    base: "corn tortillas"
+  - full: "twelve slices of ginger"
+    base: "ginger"
     unit: ""
     quantity: "12"
-    prep: ""
-    component: false
-  - full: "1/4 cup vegetable oil"
-    base: "vegetable oil"
-    unit: "cup"
-    quantity: "1/4"
-    prep: ""
-    component: false
-  - full: "1 recipe Mexican Red-Chile Sauce, above"
-    base: "Mexican Red-Chile Sauce"
-    unit: ""
-    quantity: "1"
-    prep: ""
-    component: true
-  - full: "1 onion, sliced"
-    base: "onion"
-    unit: ""
-    quantity: "1"
     prep: "sliced"
     component: false
-  - full: "1/3 cup cheese (queso anejo, queso fresco, farmer cheese, feta, or mild Parmesan), grated or crumbled"
-    base: "cheese"
-    unit: "cup"
-    quantity: "1/3"
-    prep: "grated or crumbled"
-    component: false
-  - full: "1/2 cup thick or sour cream"
-    base: "sour cream"
+  - full: "a half cup of peanut oil"
+    base: "peanut oil"
     unit: "cup"
     quantity: "1/2"
     prep: ""
     component: false
-dish_type: "main dish (poultry)"
-culture: "Mexican"
-difficulty: "moderate"
+  - full: "a few whole, dried hot peppers"
+    base: "hot pepper"
+    unit: ""
+    quantity: ""
+    prep: "whole, dried"
+    component: false
+dish_type: "sauce/condiment"
+culture: "Chinese"
+difficulty: "easy"
 occasion: "everyday"
 keywords:
-  - "shredded chicken"
-  - "corn tortillas"
-  - "chile-coated tortillas"
-  - "queso fresco"
-  - "make-ahead"
+  - "infused oil"
+  - "Chinese cooking technique"
+  - "quick prep"
 ---
-# Chicken Enchiladas
+# Ginger Oil
 
-Poached, shredded chicken is a popular filling for enchiladas, and my favorite. Shrimp, pork, and beef also taste wonderful wrapped in the chile-coated tortillas. Serves four.
+To flavor oil, thick slices are best because you can cook them long enough to get the flavor out. They don't burn up so fast as dice or julienne.
 
 ## Ingredients
 
-- 1 1/2 lb. chicken pieces
-- 2 cloves garlic
-- 1 onion, quartered
-- 1/2 tsp. salt
-- 12 corn tortillas
-- 1/4 cup vegetable oil
-- 1 recipe Mexican Red-Chile Sauce, above ***
-- 1 onion, sliced
-- 1/3 cup cheese (queso anejo, queso fresco, farmer cheese, feta, or mild Parmesan), grated or crumbled
-- 1/2 cup thick or sour cream
+- twelve slices of ginger
+- a half cup of peanut oil
+- a few whole, dried hot peppers
 
 *** = component recipe
 
 ## Directions
 
-1. Put the chicken pieces in a saucepan, cover with water, and add the garlic, half the onion, and the salt. Bring to a boil, then lower the heat and simmer until the chicken is firm, about 20 min. Remove the chicken from the water and let it cool.
-2. When the chicken is cool enough to handle, tear the meat off the bones and pull it apart along the grain into long, thin strands.
-3. Let the tortillas sit out on the counter for a few minutes until they become leathery, which prevents them from absorbing too much oil. Heat the oil in a small frying pan over medium-high heat and fry the tortillas in the oil until they become soft and pliable, just a few seconds — if fried too long they will become crisp and break when rolled. Drain the fried tortillas on a paper towel.
-4. Prepare the red-chile sauce, thin it with 1/2 to 1 cup of water, and heat it in a frying pan. Dip a fried tortilla into the sauce, coating both sides — don't leave it in too long or it will get mushy. Place the tortilla on a plate or nonstaining work surface, put a 1-in. band of chicken on it, and roll it into a cylinder. Repeat with the rest of the tortillas.
-5. Serve the enchiladas on a serving platter or directly on a dinner plate, seam-side down. Three or four enchiladas make a good-size serving. They can be made ahead and reheated, covered with foil, for about 15 min. in a 350°F oven. Top with raw onion slices, cheese, and thick or sour cream. If the onion is sharp, soak the slices in water for 5 min. before serving.
+1. Put twelve slices of ginger and a half cup of peanut oil in a small frying pan. For a spicier oil, add a few whole, dried hot peppers with the ginger.
+2. Cook over medium heat until the ginger is browned and the oil is almost smoking.
+3. Remove the pan from the heat and take out the ginger; what remains is a tasty oil.
+4. Use the oil to dress pasta or make into a sauce for fish.
 
 ## Metadata
 
-- **Dish Type:** main dish (poultry)
-- **Culture:** Mexican
-- **Difficulty:** moderate
+- **Dish Type:** sauce/condiment
+- **Culture:** Chinese
+- **Difficulty:** easy
 - **Occasion:** everyday
 
 ## Keywords
 
-shredded chicken, corn tortillas, chile-coated tortillas, queso fresco, make-ahead
+infused oil, Chinese cooking technique, quick prep
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 33
+Fine Cooking Issue 1 (March 1994), page 53

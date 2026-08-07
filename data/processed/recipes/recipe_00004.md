@@ -1,106 +1,108 @@
 ---
 ingredients:
-  - full: "4 Tbs. butter"
-    base: "butter"
-    unit: "tbsp"
+  - full: "4 flounder fillets, 6 to 7 oz. each"
+    base: "flounder fillet"
+    unit: ""
     quantity: "4"
-    prep: ""
+    prep: "6 to 7 oz. each"
     component: false
-  - full: "2 ribs celery, chopped fine"
-    base: "celery"
+  - full: "2 oranges (or 12 to 16 segments)"
+    base: "orange"
     unit: ""
     quantity: "2"
-    prep: "chopped fine"
+    prep: "or 12 to 16 segments"
     component: false
-  - full: "1 green pepper, chopped fine"
-    base: "green pepper"
+  - full: "2 grapefruit (or 12 to 16 segments)"
+    base: "grapefruit"
     unit: ""
-    quantity: "1"
-    prep: "chopped fine"
+    quantity: "2"
+    prep: "or 12 to 16 segments"
     component: false
-  - full: "1 medium onion, chopped fine"
-    base: "onion"
-    unit: ""
-    quantity: "1"
-    prep: "chopped fine"
+  - full: "8 slices lean bacon, diced into 1/4-in. pieces"
+    base: "bacon"
+    unit: "slice"
+    quantity: "8"
+    prep: "diced into 1/4-in. pieces"
     component: false
-  - full: "1 cup raw rice"
-    base: "rice"
-    unit: "cup"
-    quantity: "1"
-    prep: ""
-    component: false
-  - full: "1 2/3 cups fish stock (or 1 cup chicken stock and 2/3 cup water)"
-    base: "fish stock"
-    unit: "cup"
-    quantity: "1 2/3"
-    prep: ""
-    component: false
-  - full: "1 tsp. salt"
+  - full: "1/2 tsp. salt"
     base: "salt"
     unit: "tsp"
-    quantity: "1"
+    quantity: "1/2"
     prep: ""
     component: false
-  - full: "1/2 lb. cooked, shelled crawfish tails"
-    base: "crawfish tails"
-    unit: "lb"
-    quantity: "1/2"
-    prep: "cooked, shelled"
+  - full: "1/4 tsp. white pepper"
+    base: "white pepper"
+    unit: "tsp"
+    quantity: "1/4"
+    prep: ""
     component: false
-dish_type: "appetizer"
-culture: "Creole"
+  - full: "1 large or 2 medium red onions, sliced as thin as possible"
+    base: "red onion"
+    unit: ""
+    quantity: "1"
+    prep: "sliced as thin as possible"
+    component: false
+  - full: "1 Tbs. chopped fresh tarragon"
+    base: "tarragon"
+    unit: "tbsp"
+    quantity: "1"
+    prep: "fresh, chopped"
+    component: false
+  - full: "1 to 1 1/4 lb. fresh spinach, washed and drained"
+    base: "spinach"
+    unit: "lb"
+    quantity: "1"
+    prep: "washed and drained"
+    component: false
+dish_type: "main dish (seafood)"
+culture: "American"
 difficulty: "moderate"
-occasion: "entertaining"
+occasion: "everyday"
 keywords:
-  - "crawfish"
-  - "Louisiana"
-  - "rice cakes"
-  - "make-ahead"
-  - "food processor technique"
+  - "pan-steaming"
+  - "citrus"
+  - "wilted spinach"
+  - "quick"
 ---
-# Popcorn-Rice & Crawfish Boudin Cakes
+# Flounder Fillets with Bacon, Red Onion & Citrus
 
-Popcorn rice is available at most supermarkets now, but if you can't find it, any aromatic rice, such as basmati, will work fine. Since we always have lots of crawfish shells around at the restaurant, we use them for stock and put it in this dish. If you have shells, by all means make a stock by cooking them along with a bit of onion, celery, and garlic in enough water to cover them all. Otherwise, regular fish stock will do nicely, or even chicken stock. You can make these luscious cakes hours ahead of time and reheat them. They taste something like a Creole risotto. Try these with shrimp, too. Makes eight cakes.
+This dish is almost a complete meal. Serve it with small, boiled red potatoes, a salad, and good bread. A California sauvignon blanc with a fair amount of acidity, one that has pronounced herbal or grassy overtones, would hold up well to the citrus and onions. Serves four.
 
 ## Ingredients
 
-- 4 Tbs. butter
-- 2 ribs celery, chopped fine
-- 1 green pepper, chopped fine
-- 1 medium onion, chopped fine
-- 1 cup raw rice
-- 1 2/3 cups fish stock (or 1 cup chicken stock and 2/3 cup water)
-- 1 tsp. salt
-- 1/2 lb. cooked, shelled crawfish tails
+- 4 flounder fillets, 6 to 7 oz. each
+- 2 oranges (or 12 to 16 segments)
+- 2 grapefruit (or 12 to 16 segments)
+- 8 slices lean bacon, diced into 1/4-in. pieces
+- 1/2 tsp. salt
+- 1/4 tsp. white pepper
+- 1 large or 2 medium red onions, sliced as thin as possible
+- 1 Tbs. chopped fresh tarragon
+- 1 to 1 1/4 lb. fresh spinach, washed and drained
 
 *** = component recipe
 
 ## Directions
 
-1. In a saucepan, melt the butter.
-2. Add the celery, green pepper, and onion and saute 2 min.
-3. Stir in the rice.
-4. Add the fish stock (or chicken stock and water) and salt.
-5. Bring to a boil, cover, reduce heat, and simmer until the rice is tender, about 20 min.
-6. Chop the crawfish and stir in.
-7. Taste for seasoning and add salt if needed.
-8. Let the rice cool slightly.
-9. Whir in a food processor just long enough to chop the mixture, but not so long that it becomes a puree.
-10. Form the mixture into eight cakes by hand and put them on a buttered baking sheet, or pack the rice lightly into small ramekins and unmold onto the sheet.
-11. When ready to serve, reheat in a 350°F oven for 15 to 20 min. and then transfer to plates with a wide metal spatula.
+1. Trim the edges of the flounder to remove any traces of skin.
+2. Prepare the citrus by cutting away the rind and pith, then cut individual segments away from the membrane. Put into a bowl and set aside.
+3. Saute the bacon slowly in a heavy skillet until golden and crispy, stirring occasionally. Drain on paper towels and set aside. Reserve the bacon fat for cooking the fish and spinach later.
+4. Using the same heavy skillet, bring 2 Tbs. of the bacon fat up to temperature over high heat. Lightly salt and pepper the fillets and place them in the hot skillet. Sear well on one side, about 1 min., and then turn the fish.
+5. Sprinkle the sliced onion around the fish. Add the fruit and its juice, the bacon, and the tarragon. Cover with a tight-fitting lid. Remove from the heat and let steam for 5 to 6 min., depending on the thickness of the fillet.
+6. Meanwhile, in another skillet heat 2 Tbs. reserved bacon fat over a medium-high setting. (If you run out of bacon fat, supplement with vegetable oil.) Once the fat is hot, add the spinach. Toss it with a spatula just until the spinach is warm and has begun to wilt.
+7. Arrange the spinach on warm plates. By this time the flounder should be done. Lay it on the spinach and place fruit segments and onions loosely over the fish. Spoon the bacon, the tarragon, and the pan juices over each portion.
 
 ## Metadata
 
-- **Dish Type:** appetizer
-- **Culture:** Creole
+- **Dish Type:** main dish (seafood)
+- **Culture:** American
 - **Difficulty:** moderate
-- **Occasion:** entertaining
+- **Occasion:** everyday
 
 ## Keywords
 
-crawfish, Louisiana, rice cakes, make-ahead, food processor technique
+pan-steaming, citrus, wilted spinach, quick
 
 ## Source
 
-Fine Cooking Issue 1 (March 1994), page 46
+Fine Cooking Issue 1 (March 1994), page 28

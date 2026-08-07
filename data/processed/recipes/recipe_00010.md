@@ -87,7 +87,6 @@ ingredients:
 dish_type: "soup"
 culture: "Mexican"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "chicken soup"
   - "chile broth"
@@ -133,7 +132,6 @@ Serve clemole in big bowls accompanied by a stack of hot tortillas. Put plates o
 - **Dish Type:** soup
 - **Culture:** Mexican
 - **Difficulty:** moderate
-- **Occasion:** everyday
 
 ## Keywords
 

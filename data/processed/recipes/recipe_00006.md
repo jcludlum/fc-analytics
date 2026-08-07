@@ -129,7 +129,6 @@ ingredients:
 dish_type: "main dish (seafood)"
 culture: "Mexican"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "pan-steaming"
   - "Veracruz-style"
@@ -182,7 +181,6 @@ Serve this spicy dish alongside rice that's topped with fresh chopped herbs and 
 - **Dish Type:** main dish (seafood)
 - **Culture:** Mexican
 - **Difficulty:** moderate
-- **Occasion:** entertaining
 
 ## Keywords
 

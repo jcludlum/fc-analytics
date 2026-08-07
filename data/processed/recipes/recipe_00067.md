@@ -69,7 +69,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "American"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "vinaigrette"
   - "cumin"
@@ -107,7 +106,6 @@ Makes 1 cup.
 - Dish Type: sauce/condiment
 - Culture: American
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

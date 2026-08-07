@@ -69,7 +69,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Italian"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "granita"
   - "tomato"
@@ -113,7 +112,6 @@ I like this best during a seafood dinner. Use the most flavorful tomatoes you ca
 - Dish Type: dessert
 - Culture: Italian
 - Difficulty: moderate
-- Occasion: entertaining
 
 ## Keywords
 

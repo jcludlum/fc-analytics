@@ -39,7 +39,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Italian"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "granita"
   - "rhubarb"
@@ -75,7 +74,6 @@ Makes about 5 cups.
 - Dish Type: dessert
 - Culture: Italian
 - Difficulty: moderate
-- Occasion: everyday
 
 ## Keywords
 

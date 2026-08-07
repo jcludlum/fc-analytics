@@ -75,7 +75,6 @@ ingredients:
 dish_type: "main dish (meat)"
 culture: "Hungarian"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "Transylvanian"
   - "sauerkraut"
@@ -118,7 +117,6 @@ It's all right for the meat used in this dish to be slightly on the fatty side. 
 - Dish Type: main dish (meat)
 - Culture: Hungarian
 - Difficulty: moderate
-- Occasion: everyday
 
 ## Keywords
 

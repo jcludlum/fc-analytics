@@ -105,7 +105,6 @@ ingredients:
 dish_type: "soup"
 culture: "Italian"
 difficulty: "challenging"
-occasion: "holiday"
 keywords:
   - "handmade pasta"
   - "tortellini"
@@ -155,7 +154,6 @@ Cappelletti, or "little hats," are a bit larger north and west of the city of Bo
 - **Dish Type:** soup
 - **Culture:** Italian
 - **Difficulty:** challenging
-- **Occasion:** holiday
 
 ## Keywords
 

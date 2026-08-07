@@ -75,7 +75,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "American"
 difficulty: "easy"
-occasion: "entertaining"
 keywords:
   - "asparagus"
   - "orange sauce"
@@ -120,7 +119,6 @@ Freshly squeezed orange juice is an absolute must for this recipe; don't be temp
 - Dish Type: appetizer
 - Culture: American
 - Difficulty: easy
-- Occasion: entertaining
 
 ## Keywords
 

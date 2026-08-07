@@ -87,7 +87,6 @@ ingredients:
 dish_type: "main dish (seafood)"
 culture: "American"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "salmon"
   - "lentils"
@@ -130,7 +129,6 @@ In my restaurant, I finish this dish with a pinot noir sauce that I make with ri
 - Dish Type: main dish (seafood)
 - Culture: American
 - Difficulty: moderate
-- Occasion: entertaining
 
 ## Keywords
 

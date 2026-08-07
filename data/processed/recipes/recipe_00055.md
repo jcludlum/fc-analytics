@@ -33,7 +33,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Italian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "granita"
   - "peach"
@@ -68,7 +67,6 @@ Makes about 6 cups.
 - Dish Type: dessert
 - Culture: Italian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

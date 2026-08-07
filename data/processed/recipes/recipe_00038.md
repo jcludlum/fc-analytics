@@ -15,7 +15,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "Indian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "coconut milk"
   - "South Indian"
@@ -45,7 +44,6 @@ Makes 1 cup thick milk and 1 cup thin milk.
 - Dish Type: sauce/condiment
 - Culture: Indian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

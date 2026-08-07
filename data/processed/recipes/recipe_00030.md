@@ -93,7 +93,6 @@ ingredients:
 dish_type: "main dish (vegetable)"
 culture: "German"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "yeasted tart"
   - "leek and bacon custard"
@@ -156,7 +155,6 @@ Now that I live in California, I find many occasions to bake a leek tart. It's g
 - Dish Type: main dish (vegetable)
 - Culture: German
 - Difficulty: moderate
-- Occasion: everyday
 
 ## Keywords
 

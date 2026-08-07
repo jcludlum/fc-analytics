@@ -87,7 +87,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "American"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "lentils"
   - "eggplant"
@@ -136,7 +135,6 @@ You'll need about sixteen thin slices of eggplant, about three inches wide, so c
 - Dish Type: appetizer
 - Culture: American
 - Difficulty: challenging
-- Occasion: entertaining
 
 ## Keywords
 

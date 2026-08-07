@@ -57,7 +57,6 @@ ingredients:
 dish_type: "seasoning"
 culture: "Indian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "spice blend"
   - "South Indian"
@@ -93,7 +92,6 @@ Makes approximately 1/4 cup.
 - Dish Type: seasoning
 - Culture: Indian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

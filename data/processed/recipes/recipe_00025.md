@@ -105,7 +105,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "Asian-French fusion"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "hand-folded wontons"
   - "beurre blanc technique"
@@ -158,7 +157,6 @@ You won't believe how well crabmeat, goat cheese, and ginger go together until y
 - **Dish Type:** appetizer
 - **Culture:** Asian-French fusion
 - **Difficulty:** challenging
-- **Occasion:** entertaining
 
 ## Keywords
 

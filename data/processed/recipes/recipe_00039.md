@@ -81,7 +81,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "Mediterranean"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "artichokes"
   - "fennel"
@@ -124,7 +123,6 @@ This is one of my favorite recipes-I consider it Mediterranean soul food. It's a
 - Dish Type: appetizer
 - Culture: Mediterranean
 - Difficulty: moderate
-- Occasion: entertaining
 
 ## Keywords
 

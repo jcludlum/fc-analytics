@@ -51,7 +51,6 @@ ingredients:
 dish_type: "main dish (poultry)"
 culture: "Creole"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "roast chicken"
   - "sweet-spicy sauce"
@@ -90,7 +89,6 @@ Creole Seasoning Mix and olive oil give this version a crusty, deliciously flavo
 - **Dish Type:** main dish (poultry)
 - **Culture:** Creole
 - **Difficulty:** moderate
-- **Occasion:** entertaining
 
 ## Keywords
 

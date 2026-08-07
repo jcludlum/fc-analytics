@@ -51,7 +51,6 @@ ingredients:
 dish_type: "seasoning"
 culture: "Creole"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "spice blend"
   - "all-purpose seasoning"
@@ -84,7 +83,6 @@ The importance of seasoning is something New Orleans cooks know innately. Well o
 - **Dish Type:** seasoning
 - **Culture:** Creole
 - **Difficulty:** easy
-- **Occasion:** everyday
 
 ## Keywords
 

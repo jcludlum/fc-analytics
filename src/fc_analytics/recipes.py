@@ -33,7 +33,6 @@ class Recipe:
     dish_type: str
     culture: str
     difficulty: str
-    occasion: str
     keywords: list[str]
     ingredients: list[Ingredient]
     issue: int
@@ -75,7 +74,6 @@ def _parse_recipe(path: Path) -> Recipe:
         dish_type=frontmatter.get("dish_type", ""),
         culture=frontmatter.get("culture", ""),
         difficulty=frontmatter.get("difficulty", ""),
-        occasion=frontmatter.get("occasion", ""),
         keywords=frontmatter.get("keywords") or [],
         ingredients=ingredients,
         issue=int(issue),

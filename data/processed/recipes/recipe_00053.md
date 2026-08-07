@@ -33,7 +33,6 @@ ingredients:
 dish_type: "main dish (vegetable)"
 culture: "American"
 difficulty: "easy"
-occasion: "weekend breakfast"
 keywords:
   - "cast iron"
   - "Dutch baby"
@@ -68,7 +67,6 @@ Baking a puff pancake is a great way to season a skillet because nothing ever st
 - Dish Type: main dish (vegetable)
 - Culture: American
 - Difficulty: easy
-- Occasion: weekend breakfast
 
 ## Keywords
 

@@ -65,7 +65,6 @@ ingredients:
 dish_type: "<one of: appetizer, beverage, soup, salad, main dish (meat), main dish (seafood), main dish (poultry), main dish (vegetable), side dish, sauce/condiment, seasoning, dessert>"
 culture: "<cuisine/culture of origin, e.g. Italian, Mexican, Japanese, American fusion>"
 difficulty: "<one of: easy, moderate, challenging>"
-occasion: "<e.g. weeknight, holiday, entertaining, everyday, special occasion>"
 keywords:
   - "<freeform searchable keyword or short phrase>"
 ---
@@ -92,7 +91,6 @@ keywords:
 - Dish Type: <dish_type>
 - Culture: <culture>
 - Difficulty: <difficulty>
-- Occasion: <occasion>
 
 ## Keywords
 
@@ -170,17 +168,13 @@ Fine Cooking Issue <issue> (<Month> <year>), page <page>
   number of ingredients, number of components/sub-recipes, techniques
   required (e.g. hand-shaping stuffed pasta is harder than sautéing), and
   overall number of steps — not a gut feeling.
-- **Occasion** is free text. Prefer an explicit cue from the source text
-  (e.g. "traditionally served on holidays") when there is one; otherwise use
-  reasonable judgment based on the dish and flag it as an inference in your
-  response.
 
 ## Keywords rules
 
 Freeform tags capturing defining characteristics not already covered by
-Dish Type/Culture/Occasion or the ingredient list itself (e.g. technique,
-regional specificity, notable characteristic). Do not include the recipe
-author's name, magazine sourcing/resource info, or generic filler terms.
+Dish Type/Culture or the ingredient list itself (e.g. technique, regional
+specificity, notable characteristic). Do not include the recipe author's
+name, magazine sourcing/resource info, or generic filler terms.
 
 ## Source line
 

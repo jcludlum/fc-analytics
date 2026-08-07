@@ -51,7 +51,6 @@ ingredients:
 dish_type: "main dish (meat)"
 culture: "Mexican"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "pork ribs"
   - "beef ribs"
@@ -89,7 +88,6 @@ This stew is best when made from well-marbled cuts of meat, like country-style p
 - **Dish Type:** main dish (meat)
 - **Culture:** Mexican
 - **Difficulty:** moderate
-- **Occasion:** everyday
 
 ## Keywords
 

@@ -75,7 +75,6 @@ ingredients:
 dish_type: "main dish (meat)"
 culture: "American"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "lamb loin"
   - "spring vegetables"
@@ -123,7 +122,6 @@ When buying the lamb, be sure to specify lamb loin on the bone. Whether your but
 - Dish Type: main dish (meat)
 - Culture: American
 - Difficulty: challenging
-- Occasion: entertaining
 
 ## Keywords
 

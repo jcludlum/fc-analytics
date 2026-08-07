@@ -69,7 +69,6 @@ ingredients:
 dish_type: "main dish (poultry)"
 culture: "American"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "roast chicken"
   - "vinaigrette sauce"
@@ -115,7 +114,6 @@ Serves four.
 - Dish Type: main dish (poultry)
 - Culture: American
 - Difficulty: moderate
-- Occasion: entertaining
 
 ## Keywords
 

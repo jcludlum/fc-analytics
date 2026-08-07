@@ -57,7 +57,6 @@ ingredients:
 dish_type: "main dish (vegetable)"
 culture: "Hungarian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "mushroom"
   - "paprikás"
@@ -95,7 +94,6 @@ The day before we make this, we always clean the mushrooms and let them sit, unc
 - Dish Type: main dish (vegetable)
 - Culture: Hungarian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

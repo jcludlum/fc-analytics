@@ -39,7 +39,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "French"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "candy-making"
   - "orange caramel sauce"
@@ -75,7 +74,6 @@ To vary the flavor, use a different juice in place of the orange juice, such as 
 - Dish Type: sauce/condiment
 - Culture: French
 - Difficulty: moderate
-- Occasion: entertaining
 
 ## Keywords
 

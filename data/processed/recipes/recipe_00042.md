@@ -39,7 +39,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "Mediterranean"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "preserved lemons"
   - "salt-cured"
@@ -75,7 +74,6 @@ Preserved lemons were a revelation to me-they're versatile, delicious, and easy 
 - Dish Type: sauce/condiment
 - Culture: Mediterranean
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

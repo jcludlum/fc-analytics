@@ -57,7 +57,6 @@ ingredients:
 dish_type: "soup"
 culture: "American"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "lamb stock"
   - "homemade stock"
@@ -96,7 +95,6 @@ This stock makes a flavorful base for a sauce to accompany many lamb dishes. You
 - Dish Type: soup
 - Culture: American
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

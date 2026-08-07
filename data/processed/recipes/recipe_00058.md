@@ -33,7 +33,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Italian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "granita"
   - "blueberry"
@@ -67,7 +66,6 @@ Makes about 4 cups.
 - Dish Type: dessert
 - Culture: Italian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

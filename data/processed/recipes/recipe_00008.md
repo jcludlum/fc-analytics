@@ -63,7 +63,6 @@ ingredients:
 dish_type: "main dish (poultry)"
 culture: "Mexican"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "shredded chicken"
   - "corn tortillas"
@@ -103,7 +102,6 @@ Poached, shredded chicken is a popular filling for enchiladas, and my favorite. 
 - **Dish Type:** main dish (poultry)
 - **Culture:** Mexican
 - **Difficulty:** moderate
-- **Occasion:** everyday
 
 ## Keywords
 

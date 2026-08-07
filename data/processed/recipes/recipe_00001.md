@@ -183,7 +183,6 @@ ingredients:
 dish_type: "main dish (vegetable)"
 culture: "Italian"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "handmade pasta"
   - "ravioli"
@@ -247,7 +246,6 @@ I first encountered this dish in a Sardinian cooking class taught by Giuliano Bu
 - **Dish Type:** main dish (vegetable)
 - **Culture:** Italian
 - **Difficulty:** challenging
-- **Occasion:** entertaining
 
 ## Keywords
 

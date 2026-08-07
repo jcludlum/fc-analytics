@@ -87,7 +87,6 @@ ingredients:
 dish_type: "dessert"
 culture: "French"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "genoise"
   - "sponge cake"
@@ -141,7 +140,6 @@ A delectable sponge cake flavored with lemon, vanilla, and kirsch, hidden under 
 - Dish Type: dessert
 - Culture: French
 - Difficulty: challenging
-- Occasion: entertaining
 
 ## Keywords
 

@@ -51,7 +51,6 @@ ingredients:
 dish_type: "side dish"
 culture: "American"
 difficulty: "challenging"
-occasion: "everyday"
 keywords:
   - "San Francisco sourdough"
   - "dual starters"
@@ -93,7 +92,6 @@ Five years ago, after living in Northern California for fifteen years, I moved b
 - Dish Type: side dish
 - Culture: American
 - Difficulty: challenging
-- Occasion: everyday
 
 ## Keywords
 

@@ -81,7 +81,6 @@ ingredients:
 dish_type: "dessert"
 culture: "French"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "genoise"
   - "sponge cake"
@@ -133,7 +132,6 @@ This is a variation of the lemon-and-almond sponge cake, using cocoa powder as p
 - Dish Type: dessert
 - Culture: French
 - Difficulty: challenging
-- Occasion: entertaining
 
 ## Keywords
 

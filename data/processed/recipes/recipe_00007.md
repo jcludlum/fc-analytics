@@ -33,7 +33,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "Mexican"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "dried chiles"
   - "guajillo"
@@ -65,7 +64,6 @@ keywords:
 - **Dish Type:** sauce/condiment
 - **Culture:** Mexican
 - **Difficulty:** easy
-- **Occasion:** everyday
 
 ## Keywords
 

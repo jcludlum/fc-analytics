@@ -45,7 +45,6 @@ ingredients:
 dish_type: "main dish (seafood)"
 culture: "American"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "pan-steaming"
   - "quick"
@@ -80,7 +79,6 @@ For this simple combination, the lemon juice and zest add a wonderful fresh tast
 - **Dish Type:** main dish (seafood)
 - **Culture:** American
 - **Difficulty:** easy
-- **Occasion:** everyday
 
 ## Keywords
 

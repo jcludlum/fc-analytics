@@ -69,7 +69,6 @@ ingredients:
 dish_type: "salad"
 culture: "American"
 difficulty: "easy"
-occasion: "entertaining"
 keywords:
   - "grilled mushrooms"
   - "shiitake"
@@ -112,7 +111,6 @@ Almost any kind of mushroom can be substituted for the shiitake in this salad, a
 - **Dish Type:** salad
 - **Culture:** American
 - **Difficulty:** easy
-- **Occasion:** entertaining
 
 ## Keywords
 

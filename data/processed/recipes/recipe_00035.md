@@ -63,7 +63,6 @@ ingredients:
 dish_type: "soup"
 culture: "American"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "basics"
   - "stock vs broth"
@@ -107,7 +106,6 @@ Chicken broth is often confused with chicken stock. While the two use similar in
 - Dish Type: soup
 - Culture: American
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

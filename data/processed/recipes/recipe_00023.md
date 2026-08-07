@@ -57,7 +57,6 @@ ingredients:
 dish_type: "main dish (meat)"
 culture: "Chinese"
 difficulty: "moderate"
-occasion: "weeknight"
 keywords:
   - "stir-fry"
   - "quick-cooking"
@@ -94,7 +93,6 @@ You can use the recipe as is or as a guide, substituting as you like-perhaps chi
 - **Dish Type:** main dish (meat)
 - **Culture:** Chinese
 - **Difficulty:** moderate
-- **Occasion:** weeknight
 
 ## Keywords
 

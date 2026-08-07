@@ -33,7 +33,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "French"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "vinaigrette"
   - "salad dressing"
@@ -69,7 +68,6 @@ A vinaigrette is an emulsion made in its simplest form from oil, vinegar, salt, 
 - Dish Type: sauce/condiment
 - Culture: French
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

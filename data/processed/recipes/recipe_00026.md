@@ -171,7 +171,6 @@ ingredients:
 dish_type: "salad"
 culture: "Japanese"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "make-ahead marinade"
   - "grilled flank steak"
@@ -231,7 +230,6 @@ Miso--fermented soybean paste-is available at Asian markets. There are several t
 - **Dish Type:** salad
 - **Culture:** Japanese
 - **Difficulty:** moderate
-- **Occasion:** entertaining
 
 ## Keywords
 

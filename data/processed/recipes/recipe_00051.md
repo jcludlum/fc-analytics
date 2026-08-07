@@ -15,7 +15,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "Hungarian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "red pepper"
   - "condiment"
@@ -44,7 +43,6 @@ We like to use this paste in place of salt for the additional flavor and color i
 - Dish Type: sauce/condiment
 - Culture: Hungarian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

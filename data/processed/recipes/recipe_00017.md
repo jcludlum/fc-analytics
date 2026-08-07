@@ -39,7 +39,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "Creole"
 difficulty: "easy"
-occasion: "entertaining"
 keywords:
   - "crawfish"
   - "Louisiana"
@@ -73,7 +72,6 @@ You can buy crawfish live or already cooked and shelled. Most people use the coo
 - **Dish Type:** appetizer
 - **Culture:** Creole
 - **Difficulty:** easy
-- **Occasion:** entertaining
 
 ## Keywords
 

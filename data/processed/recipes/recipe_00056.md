@@ -63,7 +63,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Italian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "granita"
   - "plum"
@@ -101,7 +100,6 @@ Follow the directions for the Peach-Champagne Granita, but use either of the fol
 - Dish Type: dessert
 - Culture: Italian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

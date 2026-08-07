@@ -87,7 +87,6 @@ ingredients:
 dish_type: "soup"
 culture: "Hungarian"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "goulash"
   - "beef"
@@ -133,7 +132,6 @@ This soup is similar to the original meal prepared by cattlemen on the Hungarian
 - Dish Type: soup
 - Culture: Hungarian
 - Difficulty: moderate
-- Occasion: everyday
 
 ## Keywords
 

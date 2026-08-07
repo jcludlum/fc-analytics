@@ -123,7 +123,6 @@ ingredients:
 dish_type: "salad"
 culture: "American"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "lamb loin"
   - "lentils"
@@ -174,7 +173,6 @@ I like to use lamb loin in this salad: when roasted and sliced, it's tender, del
 - Dish Type: salad
 - Culture: American
 - Difficulty: moderate
-- Occasion: entertaining
 
 ## Keywords
 

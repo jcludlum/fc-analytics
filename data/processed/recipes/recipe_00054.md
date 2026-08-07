@@ -39,7 +39,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Italian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "granita"
   - "berries"
@@ -73,7 +72,6 @@ Makes about 5 cups.
 - Dish Type: dessert
 - Culture: Italian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

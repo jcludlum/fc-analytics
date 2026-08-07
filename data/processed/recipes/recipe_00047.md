@@ -57,7 +57,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Mediterranean"
 difficulty: "moderate"
-occasion: "holiday"
 keywords:
   - "macaroons"
   - "almond paste"
@@ -102,7 +101,6 @@ The technique of combining almond paste and sugar is the same as for creaming bu
 - Dish Type: dessert
 - Culture: Mediterranean
 - Difficulty: moderate
-- Occasion: holiday
 
 ## Keywords
 

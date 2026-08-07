@@ -27,7 +27,6 @@ ingredients:
 dish_type: "dessert"
 culture: "French"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "candy-making"
   - "hand-shaped nougat cups"
@@ -63,7 +62,6 @@ For a spectacular dessert, you can fill these cups with caramel mousse topped wi
 - Dish Type: dessert
 - Culture: French
 - Difficulty: moderate
-- Occasion: entertaining
 
 ## Keywords
 

@@ -21,7 +21,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "Chinese"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "marinade"
   - "quick prep"
@@ -50,7 +49,6 @@ Ginger marinade, made with ginger dice, a little white wine, and soy sauce, is g
 - **Dish Type:** sauce/condiment
 - **Culture:** Chinese
 - **Difficulty:** easy
-- **Occasion:** everyday
 
 ## Keywords
 

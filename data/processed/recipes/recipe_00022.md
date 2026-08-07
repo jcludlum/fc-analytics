@@ -21,7 +21,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "Chinese"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "infused oil"
   - "Chinese cooking technique"
@@ -51,7 +50,6 @@ To flavor oil, thick slices are best because you can cook them long enough to ge
 - **Dish Type:** sauce/condiment
 - **Culture:** Chinese
 - **Difficulty:** easy
-- **Occasion:** everyday
 
 ## Keywords
 

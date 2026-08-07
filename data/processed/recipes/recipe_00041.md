@@ -105,7 +105,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "Italian"
 difficulty: "easy"
-occasion: "entertaining"
 keywords:
   - "pickled vegetables"
   - "giardiniera"
@@ -151,7 +150,6 @@ After some experimentation, I came up with this updated version of the tradition
 - Dish Type: appetizer
 - Culture: Italian
 - Difficulty: easy
-- Occasion: entertaining
 
 ## Keywords
 

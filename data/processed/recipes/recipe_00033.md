@@ -93,7 +93,6 @@ ingredients:
 dish_type: "dessert"
 culture: "French"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "genoise"
   - "sponge cake"
@@ -152,7 +151,6 @@ These cakes are a variation of the lemon-and-almond sponge cake and have an appe
 - Dish Type: dessert
 - Culture: French
 - Difficulty: challenging
-- Occasion: entertaining
 
 ## Keywords
 

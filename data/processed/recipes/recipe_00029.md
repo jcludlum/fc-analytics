@@ -51,7 +51,6 @@ ingredients:
 dish_type: "beverage"
 culture: "English"
 difficulty: "challenging"
-occasion: "homebrewing project"
 keywords:
   - "homebrewing"
   - "malt extract"
@@ -102,7 +101,6 @@ Makes fifty-two 12-ounce bottles.
 - Dish Type: beverage
 - Culture: English
 - Difficulty: challenging
-- Occasion: homebrewing project
 
 ## Keywords
 

@@ -99,7 +99,6 @@ ingredients:
 dish_type: "salad"
 culture: "Greek"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "Cretan"
   - "panzanella-style"
@@ -143,7 +142,6 @@ This salad illustrates many ideas I've talked about: the layering of flavors, us
 - Dish Type: salad
 - Culture: Greek
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

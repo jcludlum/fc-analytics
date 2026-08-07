@@ -81,7 +81,6 @@ ingredients:
 dish_type: "dessert"
 culture: "French"
 difficulty: "challenging"
-occasion: "special occasion"
 keywords:
   - "chocolate cake"
   - "ganache"
@@ -133,7 +132,6 @@ This cake combines three chocolate flavors-cocoa in the cake layers, semisweet c
 - Dish Type: dessert
 - Culture: French
 - Difficulty: challenging
-- Occasion: special occasion
 
 ## Keywords
 

@@ -75,7 +75,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "French-Italian"
 difficulty: "easy"
-occasion: "entertaining"
 keywords:
   - "carpaccio"
   - "seared flank steak"
@@ -118,7 +117,6 @@ Traditional carpaccio is paper-thin slices of raw beef. We love our version of t
 - Dish Type: appetizer
 - Culture: French-Italian
 - Difficulty: easy
-- Occasion: entertaining
 
 ## Keywords
 

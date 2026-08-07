@@ -45,7 +45,6 @@ ingredients:
 dish_type: "dessert"
 culture: "French"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "gelatin-set mousse"
   - "meringue"
@@ -81,7 +80,6 @@ Be sure the caramel sauce you use in this mousse has a deep, rich, fully develop
 - Dish Type: dessert
 - Culture: French
 - Difficulty: challenging
-- Occasion: entertaining
 
 ## Keywords
 

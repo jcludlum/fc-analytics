@@ -171,7 +171,6 @@ ingredients:
 dish_type: "main dish (vegetable)"
 culture: "Italian"
 difficulty: "challenging"
-occasion: "entertaining"
 keywords:
   - "handmade pasta"
   - "ravioli"
@@ -232,7 +231,6 @@ In Ligurian dialect pansoti means potbellied. Traditionally, the filling is prep
 - **Dish Type:** main dish (vegetable)
 - **Culture:** Italian
 - **Difficulty:** challenging
-- **Occasion:** entertaining
 
 ## Keywords
 

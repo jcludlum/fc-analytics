@@ -57,7 +57,6 @@ ingredients:
 dish_type: "main dish (seafood)"
 culture: "American"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "pan-steaming"
   - "citrus"
@@ -97,7 +96,6 @@ This dish is almost a complete meal. Serve it with small, boiled red potatoes, a
 - **Dish Type:** main dish (seafood)
 - **Culture:** American
 - **Difficulty:** moderate
-- **Occasion:** everyday
 
 ## Keywords
 

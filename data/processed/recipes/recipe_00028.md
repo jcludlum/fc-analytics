@@ -39,7 +39,6 @@ ingredients:
 dish_type: "main dish (meat)"
 culture: "French"
 difficulty: "easy"
-occasion: "weeknight"
 keywords:
   - "paillard"
   - "shallot sauce"
@@ -76,7 +75,6 @@ A paillard is a thin slice of meat that's pounded and then grilled. This is a gr
 - Dish Type: main dish (meat)
 - Culture: French
 - Difficulty: easy
-- Occasion: weeknight
 
 ## Keywords
 

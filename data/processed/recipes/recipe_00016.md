@@ -51,7 +51,6 @@ ingredients:
 dish_type: "appetizer"
 culture: "Creole"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "crawfish"
   - "Louisiana"
@@ -95,7 +94,6 @@ Popcorn rice is available at most supermarkets now, but if you can't find it, an
 - **Dish Type:** appetizer
 - **Culture:** Creole
 - **Difficulty:** moderate
-- **Occasion:** entertaining
 
 ## Keywords
 

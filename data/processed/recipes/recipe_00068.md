@@ -21,7 +21,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "French"
 difficulty: "moderate"
-occasion: "special occasion"
 keywords:
   - "chocolate"
   - "cream"
@@ -60,7 +59,6 @@ Ganache is wonderful. Rich chocolate is mixed into hot cream, and as it melts, f
 - Dish Type: sauce/condiment
 - Culture: French
 - Difficulty: moderate
-- Occasion: special occasion
 
 ## Keywords
 

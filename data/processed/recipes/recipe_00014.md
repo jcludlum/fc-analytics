@@ -45,7 +45,6 @@ ingredients:
 dish_type: "dessert"
 culture: "American"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "candy thermometer"
   - "homemade brittle"
@@ -84,7 +83,6 @@ The addition of baking soda gives brittles their light, airy texture. If you're 
 - Dish Type: dessert
 - Culture: American
 - Difficulty: moderate
-- Occasion: everyday
 
 ## Keywords
 

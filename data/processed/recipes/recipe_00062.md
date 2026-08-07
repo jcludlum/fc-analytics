@@ -33,7 +33,6 @@ ingredients:
 dish_type: "main dish (meat)"
 culture: "French"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "charcuterie"
   - "curing"
@@ -68,7 +67,6 @@ Literally, demi-sel means half-salt. In other words, salt makes up about half th
 - Dish Type: main dish (meat)
 - Culture: French
 - Difficulty: moderate
-- Occasion: everyday
 
 ## Keywords
 

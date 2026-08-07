@@ -57,7 +57,6 @@ ingredients:
 dish_type: "side dish"
 culture: "Creole"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "ratatouille"
   - "one-pot"
@@ -92,7 +91,6 @@ Ratatouille is too good to reserve for the summertime. Make this well ahead of s
 - **Dish Type:** side dish
 - **Culture:** Creole
 - **Difficulty:** easy
-- **Occasion:** everyday
 
 ## Keywords
 

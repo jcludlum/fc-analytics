@@ -21,7 +21,6 @@ ingredients:
 dish_type: "sauce/condiment"
 culture: "Italian"
 difficulty: "easy"
-occasion: "everyday"
 keywords:
   - "simple syrup"
   - "granita base"
@@ -52,7 +51,6 @@ Simple syrup keeps for up to three weeks. To make an herb-infused syrup, tie eig
 - Dish Type: sauce/condiment
 - Culture: Italian
 - Difficulty: easy
-- Occasion: everyday
 
 ## Keywords
 

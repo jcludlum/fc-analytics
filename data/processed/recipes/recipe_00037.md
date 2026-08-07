@@ -93,7 +93,6 @@ ingredients:
 dish_type: "main dish (poultry)"
 culture: "Indian"
 difficulty: "moderate"
-occasion: "everyday"
 keywords:
   - "South Indian"
   - "coconut milk"
@@ -144,7 +143,6 @@ Serves six.
 - Dish Type: main dish (poultry)
 - Culture: Indian
 - Difficulty: moderate
-- Occasion: everyday
 
 ## Keywords
 

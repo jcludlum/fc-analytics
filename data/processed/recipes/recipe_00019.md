@@ -51,7 +51,6 @@ ingredients:
 dish_type: "dessert"
 culture: "Creole"
 difficulty: "moderate"
-occasion: "entertaining"
 keywords:
   - "bread pudding"
   - "New Orleans"
@@ -94,7 +93,6 @@ In New Orleans, our long French rolls are crisp on the outside, light and airy w
 - **Dish Type:** dessert
 - **Culture:** Creole
 - **Difficulty:** moderate
-- **Occasion:** entertaining
 
 ## Keywords
 

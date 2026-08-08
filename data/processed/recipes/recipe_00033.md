@@ -7,7 +7,7 @@ ingredients:
     prep: "softened"
     component: false
   - full: "7 oz. (1 1/2 cups) unsalted pistachio nuts, shelled and skinned"
-    base: "pistachio nuts"
+    base: "pistachios"
     unit: "oz"
     quantity: "7"
     prep: "shelled and skinned"

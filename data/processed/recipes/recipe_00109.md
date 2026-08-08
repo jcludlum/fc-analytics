@@ -19,7 +19,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1 tsp. seeded and chopped jalapeno"
-    base: "jalapeno"
+    base: "jalapeno peppers"
     unit: "tsp"
     quantity: "1"
     prep: "seeded and chopped"

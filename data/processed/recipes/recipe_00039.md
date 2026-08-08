@@ -43,7 +43,7 @@ ingredients:
     prep: "dried"
     component: false
   - full: "4 carrots, chopped medium coarse"
-    base: "carrot"
+    base: "carrots"
     unit: ""
     quantity: "4"
     prep: "chopped medium coarse"

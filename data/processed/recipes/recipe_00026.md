@@ -55,19 +55,19 @@ ingredients:
     prep: "trimmed"
     component: false
   - full: "1/2 Japanese cucumber"
-    base: "Japanese cucumber"
+    base: "Japanese cucumbers"
     unit: ""
     quantity: "1/2"
     prep: ""
     component: false
   - full: "1/4 carrot, peeled"
-    base: "carrot"
+    base: "carrots"
     unit: ""
     quantity: "1/4"
     prep: "peeled"
     component: false
   - full: "1 medium tomato"
-    base: "tomato"
+    base: "tomatoes"
     unit: ""
     quantity: "1"
     prep: ""
@@ -103,7 +103,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1/2 cup rice-wine vinegar"
-    base: "rice-wine vinegar"
+    base: "rice vinegar"
     unit: "cup"
     quantity: "1/2"
     prep: ""

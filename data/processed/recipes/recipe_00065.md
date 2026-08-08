@@ -19,7 +19,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1 shallot"
-    base: "shallot"
+    base: "shallots"
     unit: ""
     quantity: "1"
     prep: ""

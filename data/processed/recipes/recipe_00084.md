@@ -13,7 +13,7 @@ ingredients:
     prep: "finely chopped"
     component: false
   - full: "1 tablespoon rice-wine vinegar"
-    base: "rice-wine vinegar"
+    base: "rice vinegar"
     unit: "tbsp"
     quantity: "1"
     prep: ""
@@ -25,7 +25,7 @@ ingredients:
     prep: ""
     component: false
   - full: "2 pounds tomatoes, peeled, seeded, and chopped, about 2 1/2 cups"
-    base: "tomato"
+    base: "tomatoes"
     unit: "lb"
     quantity: "2"
     prep: "peeled, seeded, and chopped"
@@ -37,7 +37,7 @@ ingredients:
     prep: "peeled, segmented, and cut in 1/2-inch chunks"
     component: false
   - full: "Pinch ground cayenne"
-    base: "cayenne"
+    base: "cayenne pepper"
     unit: ""
     quantity: ""
     prep: "ground"

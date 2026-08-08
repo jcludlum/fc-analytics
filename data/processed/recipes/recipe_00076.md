@@ -115,7 +115,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1/4 cup thinly sliced scallion (white and green parts), sliced on an angle"
-    base: "scallion"
+    base: "scallions"
     unit: "cup"
     quantity: "1/4"
     prep: "thinly sliced on an angle"

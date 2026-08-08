@@ -49,7 +49,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
+    base: "Parmesan cheese"
     unit: "cup"
     quantity: "1/4"
     prep: "grated"
@@ -97,7 +97,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
+    base: "Parmesan cheese"
     unit: "cup"
     quantity: "1/4"
     prep: "grated"

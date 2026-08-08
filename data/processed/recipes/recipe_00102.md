@@ -61,7 +61,7 @@ ingredients:
     prep: "sliced and crushed"
     component: false
   - full: "Scallion, cut into 1-inch lengths and crushed"
-    base: "scallion"
+    base: "scallions"
     unit: ""
     quantity: ""
     prep: "cut into 1-inch lengths and crushed"

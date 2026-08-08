@@ -1,7 +1,7 @@
 ---
 ingredients:
   - full: "6 small shallots, sliced"
-    base: "shallot"
+    base: "shallots"
     unit: ""
     quantity: "6"
     prep: "sliced"

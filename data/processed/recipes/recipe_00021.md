@@ -1,7 +1,7 @@
 ---
 ingredients:
   - full: "1-lb. can peeled tomatoes, drained and chopped"
-    base: "tomato"
+    base: "tomatoes"
     unit: "lb"
     quantity: "1"
     prep: "peeled, drained and chopped"
@@ -31,7 +31,7 @@ ingredients:
     prep: ""
     component: true
   - full: "1 1/2 tsp. Worcestershire sauce"
-    base: "worcestershire sauce"
+    base: "Worcestershire sauce"
     unit: "tsp"
     quantity: "1 1/2"
     prep: ""

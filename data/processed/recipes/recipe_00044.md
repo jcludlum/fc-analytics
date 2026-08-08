@@ -55,7 +55,7 @@ ingredients:
     prep: ""
     component: true
   - full: "3 shallots, peeled and chopped fine"
-    base: "shallot"
+    base: "shallots"
     unit: ""
     quantity: "3"
     prep: "peeled and chopped fine"

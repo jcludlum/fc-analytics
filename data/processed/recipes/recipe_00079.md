@@ -55,7 +55,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1/2 chopped jalapeno pepper"
-    base: "jalapeno pepper"
+    base: "jalapeno peppers"
     unit: ""
     quantity: "1/2"
     prep: "chopped"
@@ -73,7 +73,7 @@ ingredients:
     prep: "shredded"
     component: false
   - full: "2 Tbs. grated Parmesan"
-    base: "Parmesan"
+    base: "Parmesan cheese"
     unit: "tbsp"
     quantity: "2"
     prep: "grated"

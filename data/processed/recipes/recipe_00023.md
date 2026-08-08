@@ -1,7 +1,7 @@
 ---
 ingredients:
   - full: "2 carrots"
-    base: "carrot"
+    base: "carrots"
     unit: ""
     quantity: "2"
     prep: ""
@@ -19,7 +19,7 @@ ingredients:
     prep: ""
     component: false
   - full: "2 scallions"
-    base: "scallion"
+    base: "scallions"
     unit: ""
     quantity: "2"
     prep: ""

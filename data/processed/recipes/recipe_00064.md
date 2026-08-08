@@ -61,7 +61,7 @@ ingredients:
     prep: "minced"
     component: false
   - full: "1 small tomato, peeled, seeded, and diced"
-    base: "tomato"
+    base: "tomatoes"
     unit: ""
     quantity: "1"
     prep: "peeled, seeded, and diced"

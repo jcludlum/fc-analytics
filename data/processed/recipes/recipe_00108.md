@@ -31,7 +31,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1/2 beaten egg white"
-    base: "egg white"
+    base: "egg whites"
     unit: ""
     quantity: "1/2"
     prep: "beaten"

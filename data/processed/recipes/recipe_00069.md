@@ -25,7 +25,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1 cup (4 oz.) all purpose flour"
-    base: "all purpose flour"
+    base: "all-purpose flour"
     unit: "cup"
     quantity: "1"
     prep: ""

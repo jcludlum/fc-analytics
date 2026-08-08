@@ -7,7 +7,7 @@ ingredients:
     prep: "softened"
     component: false
   - full: "6 scallions, chopped (including the tops)"
-    base: "scallion"
+    base: "scallions"
     unit: ""
     quantity: "6"
     prep: "chopped (including the tops)"
@@ -31,7 +31,7 @@ ingredients:
     prep: ""
     component: true
   - full: "2 Tbs. Worcestershire sauce"
-    base: "worcestershire sauce"
+    base: "Worcestershire sauce"
     unit: "tbsp"
     quantity: "2"
     prep: ""

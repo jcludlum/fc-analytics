@@ -31,7 +31,7 @@ ingredients:
     prep: "quartered lengthwise, seeded, and sliced thin"
     component: false
   - full: "1 shallot, sliced thin"
-    base: "shallot"
+    base: "shallots"
     unit: ""
     quantity: "1"
     prep: "sliced thin"

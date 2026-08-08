@@ -13,7 +13,7 @@ ingredients:
     prep: "sliced"
     component: false
   - full: "1 cup sliced carrot"
-    base: "carrot"
+    base: "carrots"
     unit: "cup"
     quantity: "1"
     prep: "sliced"

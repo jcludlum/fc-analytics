@@ -7,7 +7,7 @@ ingredients:
     prep: ""
     component: false
   - full: "2 medium red peppers"
-    base: "red pepper"
+    base: "red peppers"
     unit: ""
     quantity: "2"
     prep: ""

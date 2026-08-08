@@ -1,7 +1,7 @@
 ---
 ingredients:
   - full: "30 scallions"
-    base: "scallion"
+    base: "scallions"
     unit: ""
     quantity: "30"
     prep: ""

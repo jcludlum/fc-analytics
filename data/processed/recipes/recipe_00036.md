@@ -13,7 +13,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1 teaspoon cumin seed (1 teaspoon ground)"
-    base: "cumin seed"
+    base: "cumin"
     unit: "tsp"
     quantity: "1"
     prep: ""

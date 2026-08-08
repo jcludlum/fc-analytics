@@ -49,7 +49,7 @@ ingredients:
     prep: "chopped"
     component: false
   - full: "1/2 cup finely diced carrot"
-    base: "carrot"
+    base: "carrots"
     unit: "cup"
     quantity: "1/2"
     prep: "finely diced"
@@ -61,7 +61,7 @@ ingredients:
     prep: "ground"
     component: false
   - full: "1/8 teaspoon ground cayenne"
-    base: "cayenne"
+    base: "cayenne pepper"
     unit: "tsp"
     quantity: "1/8"
     prep: "ground"

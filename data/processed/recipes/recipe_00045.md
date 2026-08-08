@@ -19,7 +19,7 @@ ingredients:
     prep: "chopped coarse"
     component: false
   - full: "3 large carrots, chopped coarse"
-    base: "carrot"
+    base: "carrots"
     unit: ""
     quantity: "3"
     prep: "chopped coarse"

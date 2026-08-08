@@ -37,13 +37,13 @@ ingredients:
     prep: "dried"
     component: false
   - full: "3 cups ripe tomatoes (in winter substitute roasted red peppers), seeded and cut into 1/2-in. pieces"
-    base: "tomato"
+    base: "tomatoes"
     unit: "cup"
     quantity: "3"
     prep: "seeded and cut into 1/2-in. pieces"
     component: false
   - full: "2 cups cucumber, seeded and cut into 1/2-in. pieces"
-    base: "cucumber"
+    base: "cucumbers"
     unit: "cup"
     quantity: "2"
     prep: "seeded and cut into 1/2-in. pieces"

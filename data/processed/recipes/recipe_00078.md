@@ -13,7 +13,7 @@ ingredients:
     prep: ""
     component: false
   - full: "4 scallions, sliced"
-    base: "scallion"
+    base: "scallions"
     unit: ""
     quantity: "4"
     prep: "sliced"
@@ -55,7 +55,7 @@ ingredients:
     prep: "sliced"
     component: false
   - full: "Parmesan, for sprinkling"
-    base: "Parmesan"
+    base: "Parmesan cheese"
     unit: ""
     quantity: ""
     prep: ""

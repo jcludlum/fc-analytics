@@ -55,7 +55,7 @@ ingredients:
     prep: "peeled and cut into chunks"
     component: false
   - full: "1 large carrot, peeled and cut into chunks"
-    base: "carrot"
+    base: "carrots"
     unit: ""
     quantity: "1"
     prep: "peeled and cut into chunks"

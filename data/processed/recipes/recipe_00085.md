@@ -25,7 +25,7 @@ ingredients:
     prep: "cut in pieces"
     component: false
   - full: "1 3/4 cups coarsely chopped carrot"
-    base: "carrot"
+    base: "carrots"
     unit: "cup"
     quantity: "1 3/4"
     prep: "coarsely chopped"
@@ -37,7 +37,7 @@ ingredients:
     prep: "seeded and coarsely chopped"
     component: false
   - full: "1 cup coarsely chopped tomato"
-    base: "tomato"
+    base: "tomatoes"
     unit: "cup"
     quantity: "1"
     prep: "coarsely chopped"
@@ -49,13 +49,13 @@ ingredients:
     prep: ""
     component: false
   - full: "1/8 tsp. coriander seed"
-    base: "coriander seed"
+    base: "coriander seeds"
     unit: "tsp"
     quantity: "1/8"
     prep: ""
     component: false
   - full: "1/8 tsp. fennel seed"
-    base: "fennel seed"
+    base: "fennel seeds"
     unit: "tsp"
     quantity: "1/8"
     prep: ""

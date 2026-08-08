@@ -13,7 +13,7 @@ ingredients:
     prep: "peeled and quartered"
     component: false
   - full: "4 carrots, scrubbed and cut in 2-inch pieces"
-    base: "carrot"
+    base: "carrots"
     unit: ""
     quantity: "4"
     prep: "scrubbed and cut in 2-inch pieces"

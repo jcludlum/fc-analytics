@@ -37,7 +37,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1 small tomato, peeled and sliced"
-    base: "tomato"
+    base: "tomatoes"
     unit: ""
     quantity: "1"
     prep: "peeled and sliced"

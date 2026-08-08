@@ -13,7 +13,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1 tomato"
-    base: "tomato"
+    base: "tomatoes"
     unit: ""
     quantity: "1"
     prep: ""

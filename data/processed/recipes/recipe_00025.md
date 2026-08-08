@@ -61,7 +61,7 @@ ingredients:
     prep: ""
     component: false
   - full: "7 Tbs. chopped shallot"
-    base: "shallot"
+    base: "shallots"
     unit: "tbsp"
     quantity: "7"
     prep: "chopped"

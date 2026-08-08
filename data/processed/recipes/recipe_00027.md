@@ -61,7 +61,7 @@ ingredients:
     prep: ""
     component: false
   - full: "Parmesan"
-    base: "parmesan cheese"
+    base: "Parmesan cheese"
     unit: ""
     quantity: ""
     prep: ""

@@ -19,7 +19,7 @@ ingredients:
     prep: "minced"
     component: false
   - full: "4 shallots, sliced thin"
-    base: "shallot"
+    base: "shallots"
     unit: ""
     quantity: "4"
     prep: "sliced thin"

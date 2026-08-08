@@ -25,7 +25,7 @@ ingredients:
     prep: "split, washed, and chopped"
     component: false
   - full: "1/2 cup sliced carrot"
-    base: "carrot"
+    base: "carrots"
     unit: "cup"
     quantity: "1/2"
     prep: "sliced"

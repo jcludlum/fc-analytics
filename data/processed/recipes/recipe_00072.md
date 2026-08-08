@@ -19,7 +19,7 @@ ingredients:
     prep: ""
     component: false
   - full: "2 shallots"
-    base: "shallot"
+    base: "shallots"
     unit: ""
     quantity: "2"
     prep: ""
@@ -79,7 +79,7 @@ ingredients:
     prep: "loosely packed"
     component: false
   - full: "2 tsp. minced scallion (white only)"
-    base: "scallion"
+    base: "scallions"
     unit: "tsp"
     quantity: "2"
     prep: "minced, white only"

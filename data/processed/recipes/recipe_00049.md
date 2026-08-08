@@ -1,7 +1,7 @@
 ---
 ingredients:
   - full: "1 lb. medium to large mushrooms"
-    base: "mushroom"
+    base: "mushrooms"
     unit: "lb"
     quantity: "1"
     prep: ""

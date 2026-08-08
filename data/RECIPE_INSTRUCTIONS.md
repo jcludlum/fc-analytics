@@ -108,13 +108,35 @@ Fine Cooking Issue <issue> (<Month> <year>), page <page>
   `"zucchini or cucumber"` → `zucchini` + `cucumber`). Don't split
   multi-word descriptors of a single ingredient (`"boneless, skinless
   chicken breasts"` stays one entry, with `prep: "boneless, skinless"`).
-- **Capitalization is consistent across the corpus.** `base` (and `full`)
-  are lowercase, except proper nouns/adjectives, which keep their standard
-  capitalization: nationalities/regions (`Dijon mustard`, `Italian
-  parsley`, `Chinese cabbage`), brand names, etc. Use the exact same
-  capitalization for the same ingredient every time it appears in any
-  recipe — `Dijon mustard` and `dijon mustard` must not both occur, since
-  each becomes a distinct, duplicate entry in ingredient search/filtering.
+- **`base` is standardized and consistent across the *entire* corpus, not
+  just within one recipe.** Before finalizing a `base` value, check whether
+  it (or a near-spelling of it) already appears anywhere in
+  `data/processed/recipes/*.md` and match that exact string — a stray
+  difference in plural, hyphenation, or capitalization creates a duplicate
+  entry in ingredient search/filtering instead of merging with the
+  existing one (e.g. `Dijon mustard` and `dijon mustard` must not both
+  occur).
+  - **Prefer the plural form** for countable ingredients: `carrots`, not
+    `carrot`; `shallots`, `scallions`, `tomatoes`, `egg whites`. Uncountable
+    ingredients — spices/seasonings and liquids — stay singular (`cumin`,
+    `cayenne pepper`, `salt`, `olive oil`); don't force a plural onto them.
+  - **Capitalization**: lowercase except proper nouns/adjectives, which
+    keep their standard capitalization — nationalities/regions (`Dijon
+    mustard`, `Italian parsley`, `Chinese cabbage`), brand or place-derived
+    names (`Worcestershire sauce`, `Parmesan cheese`), etc.
+  - **Hyphenation and spelling**: pick one form and use it everywhere
+    (`red-wine vinegar`, not a mix of that and `red wine vinegar`;
+    `all-purpose flour`, not `all purpose flour`).
+  - **Merge true synonyms** into one `base` (`Parmesan` and `parmesan
+    cheese` → `Parmesan cheese`; `cayenne` and `cayenne pepper` → `cayenne
+    pepper`). **Don't merge genuinely different ingredients** just because
+    the names are similar — `fennel` (the bulb vegetable) stays distinct
+    from `fennel seeds` (the spice); `coriander` (leaves/ground) stays
+    distinct from `coriander seeds` (the whole spice); one recipe's cooked
+    braising greens shouldn't share a `base` with another recipe's raw
+    salad greens just because both are loosely "mixed greens" — rename one
+    for clarity instead (e.g. `mixed cooking greens` vs. `mixed salad
+    greens`).
 - **Flatten multi-component ingredient lists.** Recipes often split
   ingredients into sub-groups (`FOR THE FILLING:`, `FOR THE SAUCE:`, `TO
   SERVE:`, etc.). List them all under one flat `## Ingredients` list, in

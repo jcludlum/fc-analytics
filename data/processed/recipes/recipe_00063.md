@@ -91,13 +91,13 @@ ingredients:
     prep: "finely diced"
     component: false
   - full: "1/2 cup finely diced tomato"
-    base: "tomato"
+    base: "tomatoes"
     unit: "cup"
     quantity: "1/2"
     prep: "finely diced"
     component: false
   - full: "1/4 cup finely diced shallot"
-    base: "shallot"
+    base: "shallots"
     unit: "cup"
     quantity: "1/4"
     prep: "finely diced"

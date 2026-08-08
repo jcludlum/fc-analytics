@@ -37,7 +37,7 @@ ingredients:
     prep: "trimmed and cut"
     component: false
   - full: "1 tablespoon chopped shallot"
-    base: "shallot"
+    base: "shallots"
     unit: "tbsp"
     quantity: "1"
     prep: "chopped"

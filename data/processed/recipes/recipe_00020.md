@@ -19,7 +19,7 @@ ingredients:
     prep: ""
     component: false
   - full: "2 red peppers, diced fine"
-    base: "red pepper"
+    base: "red peppers"
     unit: ""
     quantity: "2"
     prep: "diced fine"
@@ -31,7 +31,7 @@ ingredients:
     prep: "diced fine"
     component: false
   - full: "2 tsp. red-wine vinegar"
-    base: "red wine vinegar"
+    base: "red-wine vinegar"
     unit: "tsp"
     quantity: "2"
     prep: ""
@@ -43,7 +43,7 @@ ingredients:
     prep: ""
     component: false
   - full: "1 Tbs. Worcestershire sauce"
-    base: "worcestershire sauce"
+    base: "Worcestershire sauce"
     unit: "tbsp"
     quantity: "1"
     prep: ""

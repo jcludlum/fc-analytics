@@ -1,7 +1,7 @@
 ---
 ingredients:
   - full: "2 lb. mixed greens (beet tops, spinach, watercress, Swiss chard, dandelion)"
-    base: "mixed greens"
+    base: "mixed cooking greens"
     unit: "lb"
     quantity: "2"
     prep: ""
@@ -37,7 +37,7 @@ ingredients:
     prep: "minced"
     component: false
   - full: "1/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
+    base: "Parmesan cheese"
     unit: "cup"
     quantity: "1/4"
     prep: "grated"
@@ -127,7 +127,7 @@ ingredients:
     prep: ""
     component: false
   - full: "3/4 cup grated Parmesan cheese"
-    base: "parmesan cheese"
+    base: "Parmesan cheese"
     unit: "cup"
     quantity: "3/4"
     prep: "grated"

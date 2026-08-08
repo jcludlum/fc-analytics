@@ -31,7 +31,7 @@ ingredients:
     prep: ""
     component: false
   - full: "3 egg whites (or 3* oz. pasteurized egg whites)"
-    base: "egg white"
+    base: "egg whites"
     unit: ""
     quantity: "3"
     prep: ""

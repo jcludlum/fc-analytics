@@ -37,7 +37,7 @@ ingredients:
     prep: "finely diced"
     component: false
   - full: "1/2 cup finely diced carrot"
-    base: "carrot"
+    base: "carrots"
     unit: "cup"
     quantity: "1/2"
     prep: "finely diced"
@@ -61,7 +61,7 @@ ingredients:
     prep: "finely diced"
     component: false
   - full: "1 tomato, peeled, seeded, and finely diced"
-    base: "tomato"
+    base: "tomatoes"
     unit: ""
     quantity: "1"
     prep: "peeled, seeded, and finely diced"

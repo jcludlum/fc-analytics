@@ -7,13 +7,13 @@ ingredients:
     prep: "live"
     component: false
   - full: "1 medium shallot, minced fine"
-    base: "shallot"
+    base: "shallots"
     unit: ""
     quantity: "1"
     prep: "minced fine"
     component: false
   - full: "1 egg white"
-    base: "egg white"
+    base: "egg whites"
     unit: ""
     quantity: "1"
     prep: ""
